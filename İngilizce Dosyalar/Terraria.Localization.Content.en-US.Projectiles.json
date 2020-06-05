@@ -748,7 +748,7 @@
 		"GolfBallDyedViolet": "Golf Ball",
 		"GolfBallDyedYellow": "Golf Ball",
 		"GolfClubHelper": "Golf Club",
-		"VampireFrog": "VampireFrog",
+		"VampireFrog": "Vampire Frog",
 		"BatOfLight": "Sanguine Bat",
 		"SharpTears": "Blood Thorn",
 		"ScarabBomb": "Scarab Bomb",
@@ -878,5 +878,6 @@
 		"Mace": "Mace",
 		"FlamingMace": "Flaming Mace",
 		"StardustPunch": "Stardust Guardian",
+		"TorchGod": "The Torch God",
 	}
 }

@@ -4498,7 +4498,7 @@
 		"PurpleMoss": "Purple Moss",
 		"LavaMoss": "Lava Moss",
 		"BoulderStatue": "Boulder Statue",
-		"MusicBoxTitleAlt": "Music Box (Journey's End)",
+		"MusicBoxTitleAlt": "Music Box (Journey's Beginning)",
 		"MusicBoxStorm": "Music Box (Storm)",
 		"MusicBoxGraveyard": "Music Box (Graveyard)",
 		"Seagull": "Seagull",
@@ -5190,7 +5190,8 @@
 		"MusicBoxOWHallow": "Otherworldly Music Box (Hallow)",
 		"MilkCarton": "Carton of Milk",
 		"CoffeeCup": "Coffee",
-
+		"TorchGodsFavor": "Torch God's Favor",
+		"MusicBoxCredits": "Music Box (Journey's End)",
 	},
 	"ItemTooltip": {
 		"ShadowGreaves": "7% increased melee speed",
@@ -6790,10 +6791,10 @@
 		"EucaluptusSap": "Summons a Pet Sugar Glider",
 		"CelestialWand": "Summons Estee",
 
-		"NecroHelmet": "5% increased ranged damage.",
-		"NecroBreastplate": "5% increased ranged damage.",
-		"NecroGreaves": "5% increased ranged damage.",
-		"AncientNecroHelmet": "5% increased ranged damage.",
+		"NecroHelmet": "5% increased ranged damage",
+		"NecroBreastplate": "5% increased ranged damage",
+		"NecroGreaves": "5% increased ranged damage",
+		"AncientNecroHelmet": "5% increased ranged damage",
 
 		"NinjaHood": "3% increased critical strike chance",
 		"NinjaPants": "3% increased critical strike chance",
@@ -6913,7 +6914,7 @@
 		"GolfPainting1": "{$PaintingArtist.Crowno}",
 		"GolfPainting2": "{$PaintingArtist.Crowno}",
 		"GolfPainting3": "{$PaintingArtist.Crowno}",
-		"GolfPainting4": "'Ceci n'est pas un golf club.'\n{$PaintingArtist.Crowno}",
+		"GolfPainting4": "'Ceci n'est pas un club de golf.'\n{$PaintingArtist.Crowno}",
 		"UnicornHornHat": "'It's a new day, yes it is!'",
 		"ChumBucket": "Toss in water up to 3 times to increase fishing power\n'Plankton!'",
 		"GardenGnome": "'Said to bring good fortune and keep evil spirits at bay'",
@@ -7172,5 +7173,6 @@
 		"Teacup": "{$CommonItemTooltip.MinorStats}\n'A must-have for tea parties'",
 		"MilkCarton": "{$CommonItemTooltip.MinorStats}\n'For strong, healthy bones'",
 		"CoffeeCup": "{$CommonItemTooltip.MediumStats}\n'Hello darkness my old friend'",
+		"TorchGodsFavor": "Unlocks an ability toggle to the left of the inventory\nWhen enabled normal torches change according to your biome",
 	}
 }

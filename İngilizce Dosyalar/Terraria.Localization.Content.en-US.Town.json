@@ -916,7 +916,7 @@
 		"Rain2": "Water hazards are a lot larger when it rains, making it that much harder to reach the green!"
     },
 	"SantaSpecialText": {
-		"Party": "Many say that parties give you the richest of memories. So buy something and make this memory rich!",
+		"Party": "Come now, you didn't think I only celebrated on Christmas did you?",
 		"Graveyard1": "Ho ho ho! Wait, look at this place... did I come two months too early!?",
         "Graveyard2": "Naughty or Nice? Hm, how unusual... the people here have all been crossed off my list for some time now.",
 		"Windy1": "Ho ho! My reindeer will fly at mach speeds, tonight!",
@@ -1075,7 +1075,7 @@
 		"NoHome": "I'm ready to party, but I don't have a house for the after-party.",
 		"FarFromHome": "My party favors, I forgot them at home. Wow, it's pretty far!",
 		"DislikeCrowded": "There's a lot of people around me, but I don't like that they aren't partying!",
-		"HateCrowded": "Wow, there's so many people here, I hate that it's not for a party",
+		"HateCrowded": "Wow, there's so many people here, I hate that it's not for a party.",
 		"LoveSpace": "This is all mine? I'm gonna throw the BIGGEST party - for myself!",
 		"LikeBiome": "Why do I like {BiomeName}? Because it has RAINBOWS!",
 		"LoveBiome": "I love {BiomeName}.",
@@ -1314,7 +1314,7 @@
 		"Content": "All neural functions appear to be operating smoothly.",
 		"NoHome": "Error 404: Living arrangements not found.",
 		"FarFromHome": "I have wandered beyond the signal range of my datacenter.",
-		"DislikeCrowded": "Too many other lifeforms. I am experiencing negative emotional neural patterns",
+		"DislikeCrowded": "Too many other lifeforms. I am experiencing negative emotional neural patterns.",
 		"HateCrowded": "Lifeform limit exceeded. Neural functions overloaded. Translation: I hate this.",
 		"LoveSpace": "Zero close proximity life signs detected. This is fortunate.",
 		"LikeBiome": "My cybernetic functions perform optimally in {BiomeName}'s temperature gradient. This is a plus.",
