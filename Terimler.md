@@ -64,6 +64,9 @@ Liste hâlâ güncellenme aşamasında.
 |Mana|Sihir|
 |Lunar |Göksel|
 |Housing|Konaklama|
+|Expert|Uzman|
+|Master|Efendi|
+|Bestiary|Yaratık Kitabı|
 
 ### Mekanlar
 
@@ -74,6 +77,9 @@ Liste hâlâ güncellenme aşamasında.
 |Floating Island|Süzülen Ada|
 |Living Wood|Yaşayan Odun|
 |Underworld|Cehennem|
+|Cavern|Yeraltı Boşluğu|
+|Underground|Yeraltı|
+|Suface|Yüzey|
 
 ### NPCs
 
