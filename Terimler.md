@@ -16,12 +16,12 @@ Liste hâlâ güncellenme aşamasında.
 |Özgün |Çeviri|
 |--|--|
 |Brain of Cthulhu|Cthulhu'nun Beyni|
-|Eater of the Worlds|Cihan Yiyen|
+|Eater of the Worlds|Cihan Yeyici|
 |Moon Lord|Ay Efendisi|
 |Queen Bee|Kraliçe Arı|
 |Skeletron|İskeletör|
 |Skeletron Prime|Esas İskeletör|
-|The Destroyer|Yokedici|
+|The Destroyer|Yok Edici|
 |The Twins|İkizler|
 |Wall of Flesh|Et Duvarı|
 
@@ -29,14 +29,13 @@ Liste hâlâ güncellenme aşamasında.
 
 |Özgün |Çeviri|
 |--|--|
-|Bar|Kalıp|
 |Drax|Matbalt|
 |Extractioner|Özütleyici|
 |Flameburst|Alevpatlağı|
-|Mount|Binek|
-|Shadow Orb|Gölge Küresi|
-|Trophy|Ganimet|
 |Rich Mahogany|Zengin Maun|
+|Shadow Orb|Gölge Küresi|
+|Silt|İnce Kum|
+|Trophy|Ganimet|
 
 ### Madenler
 
@@ -62,6 +61,7 @@ Liste hâlâ güncellenme aşamasında.
 
 |Özgün |Çeviri|
 |--|--|
+|Bar|Kalıp|
 |Mana|Sihir|
 |Lunar |Göksel|
 |Housing|Konaklama|
@@ -69,6 +69,7 @@ Liste hâlâ güncellenme aşamasında.
 |Master|Efendi|
 |Bestiary|Yaratık Kitabı|
 |Tile|Döşeme|
+|Mount|Binek|
 
 ### Mekanlar
 
@@ -92,14 +93,15 @@ Liste hâlâ güncellenme aşamasında.
 |Fishron|Balıkejder|
 |Goblin|Cincüce|
 |Hollow|?|
+|Mechanic|Teknisyen|
 |Minotor|Boğansan|
 |Pigron|Ejderdomuz|
 |Sharknado|Kasırga Balığı|
-|Silt|İnce Kum|
 |Slime|Balçık|
+|Tinkerer|Tamirci|
 |Wisp|?|
 
-### Events
+### Olaylar
 
 |Özgün |Çeviri|
 |--|--|
