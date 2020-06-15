@@ -36,6 +36,7 @@ Liste hâlâ güncellenme aşamasında.
 |Mount|Binek|
 |Shadow Orb|Gölge Küresi|
 |Trophy|Ganimet|
+|Rich Mahogany|Zengin Maun|
 
 ### Madenler
 
@@ -67,6 +68,7 @@ Liste hâlâ güncellenme aşamasında.
 |Expert|Uzman|
 |Master|Efendi|
 |Bestiary|Yaratık Kitabı|
+|Tile|Döşeme|
 
 ### Mekanlar
 
@@ -80,6 +82,7 @@ Liste hâlâ güncellenme aşamasında.
 |Cavern|Yeraltı Boşluğu|
 |Underground|Yeraltı|
 |Suface|Yüzey|
+|Town|Semt|
 
 ### NPCs
 
@@ -106,3 +109,4 @@ Liste hâlâ güncellenme aşamasında.
 |Pumpkin Moon|Balkabağı Ay|
 |Solar Eclipse|Güneş Tutulması|
 |The Frost Legion|Ayaz Birliği|
+|Pirate Invasion|Korsan Baskını|
