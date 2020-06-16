@@ -1503,7 +1503,7 @@
 		"npc_Skeleton": "{$CommonBestiaryFlavor.Skeleton}",
 		"npc_SkeletonArcher": "{$CommonBestiaryFlavor.Skeleton}",
 		"npc_ArmoredSkeleton": "{$CommonBestiaryFlavor.Skeleton}",
-		"npc_Guide": "The Guide always offers useful advice and crafting recipes. His origins and unusual connections to this world remain a mystery.",
+		"npc_Guide": "Rehber her zaman yararlı tavsiyeler ve işleme tarifleri sunar. Kökeni ve bu dünyayla olan sıradışı bağlantıları ise gizemini koruyor.",
 		"npc_MeteorHead": "When meteorites strike the surface, their fragments lay scattered for the taking. Some pieces are alive, and will attack.",
 		"npc_FireImp": "A lesser demon imbued with hell magic. Capable of teleporting and hurling phantom fireballs towards their foes.",
 		"npc_GoblinPeon": "Common footsoldiers of the Goblin Army, these foul creatures are good for little more than cannon fodder... and breaking down doors.",
