@@ -1,13 +1,13 @@
 {
 	"WorldGeneration": {
-		"OceanSand":  "Generating ocean sand"
+		"OceanSand":  "Okyanus kumu üretiliyor"
 	},
 	"LoadingTips_Default": {
-		"1": "Other players can loot your chests! If you don't trust them, use a Safe or Piggy Bank; those items have storage that is exclusive to each player.",
-		"2": "Info accessories don't need to be equipped to provide you and nearby friends with useful information; you can just leave them in your Inventory.",
-		"3": "Rope can really help you get around while exploring caves. You can even craft it into a Rope Coil which can be thrown and automatically unfolds!",
+		"1": "Diğer oyuncular sandığını yağmalayabilir! Onlara güvenmiyorsan, Kasa veya Kumbara kullan; bu öğeler her oyuncuya özel depolama sunar.",
+		"2": "Bilgi aksesuarlarının sana ve yakındaki arkadaşlarına yararlı bilgiler sağlamak için kuşanılmış olması gerekmez; envanterinde bırakabilirsiniz.",
+		"3": "Halat mağaraları keşfederken hareket etmende gerçekten yardımcı olabilir. Hatta atılabilir ve otomatik olarak açılır bir Sarmal Halat işleyebilirsin!",
 		"4": "Mushroom Biomes can be grown above ground as well as below. Friendly Truffles will sometimes make themselves at home in Surface Mushroom Biomes.",
-		"5": "You can change your spawn point by placing and using a bed.",
+		"5": "Bir yatak yerleştirerek ve kullanarak doğum noktanı değiştirebilirsin.",
 		"6": "If you find a Magic Mirror, you can use it to teleport back to your spawn point.",
 		"7": "There are Floating Islands in the sky.",
 		"8": "Sometimes you can find NPCs hidden around the World.",
