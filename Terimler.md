@@ -1,8 +1,8 @@
-Liste hâlâ güncellenme aşamasında.
+### Liste hâlâ güncellenme aşamasında.
 
 ### Bitkiler
 
-|Özgün |Çeviri|
+|Özgün|Çeviri|
 |--|--|
 |Blinkroot|Yanıpsönen|
 |Daybloom|Gündüzparlayan|
@@ -13,7 +13,7 @@ Liste hâlâ güncellenme aşamasında.
 
 ### Boss
 
-|Özgün |Çeviri|
+|Özgün|Çeviri|
 |--|--|
 |Brain of Cthulhu|Cthulhu'nun Beyni|
 |Eater of the Worlds|Cihan Yeyici|
@@ -24,10 +24,12 @@ Liste hâlâ güncellenme aşamasında.
 |The Destroyer|Yok Edici|
 |The Twins|İkizler|
 |Wall of Flesh|Et Duvarı|
+|Mourning Wood|Yaslayan Ağaç|
+|Pumpking|Kabakral|
 
 ### Eşya
 
-|Özgün |Çeviri|
+|Özgün|Çeviri|
 |--|--|
 |Drax|Matbalt|
 |Extractioner|Özütleyici|
@@ -36,10 +38,15 @@ Liste hâlâ güncellenme aşamasında.
 |Shadow Orb|Gölge Küresi|
 |Silt|İnce Kum|
 |Trophy|Ganimet|
+|Fossil|Taşıl|
+|Lucky Horseshoe|Şanslı Nal|
+|Obsidian Skin|Alevalmaz Vücut|
+|Rope Coil|Sarmal Halat|
+|Glowstick|Parlakçubuk|
 
 ### Madenler
 
-|Özgün |Çeviri|
+|Özgün|Çeviri|
 |--|--|
 |Adamantite|Adamantit|
 |Chlorophyte|Klorofit|
@@ -59,7 +66,7 @@ Liste hâlâ güncellenme aşamasında.
 
 ### Mekanikler
 
-|Özgün |Çeviri|
+|Özgün|Çeviri|
 |--|--|
 |Bar|Kalıp|
 |Mana|Sihir|
@@ -73,7 +80,7 @@ Liste hâlâ güncellenme aşamasında.
 
 ### Mekanlar
 
-|Özgün |Çeviri|
+|Özgün|Çeviri|
 |--|--|
 |Corruption|Bozulma|
 |Crimson|Kızıl|
@@ -84,10 +91,11 @@ Liste hâlâ güncellenme aşamasında.
 |Underground|Yeraltı|
 |Suface|Yüzey|
 |Town|Semt|
+|Floating Island|Süzülen Adalar|
 
 ### NPCs
 
-|Özgün |Çeviri|
+|Özgün|Çeviri|
 |--|--|
 |Eyeball Spring|?|
 |Fishron|Balıkejder|
@@ -100,10 +108,16 @@ Liste hâlâ güncellenme aşamasında.
 |Slime|Balçık|
 |Tinkerer|Tamirci|
 |Wisp|?|
+|Arms Dealer|Silah Satıcısı|
+|Dye Trader|Boya Tüccarı|
+|Party Girl|Partici Kız|
+|Mimic|Taklitçi|
+|Sharkron|Köpek Balığıtör|
+|Cultist|Tarikatçı|
 
 ### Olaylar
 
-|Özgün |Çeviri|
+|Özgün|Çeviri|
 |--|--|
 |Blood Moon|Kanlı Ay|
 |Frost Moon|Ayaz Ay|
