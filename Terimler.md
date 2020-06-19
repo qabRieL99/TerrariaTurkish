@@ -43,6 +43,9 @@
 |Obsidian Skin|Alevalmaz Vücut|
 |Rope Coil|Sarmal Halat|
 |Glowstick|Parlakçubuk|
+|Ichor|İrin|
+|Confetti|Saçı|
+|Nanites|Nanit|
 
 ### Madenler
 
@@ -77,6 +80,7 @@
 |Bestiary|Yaratık Kitabı|
 |Tile|Döşeme|
 |Mount|Binek|
+|Minion|Yardakçı|
 
 ### Mekanlar
 
@@ -92,6 +96,8 @@
 |Suface|Yüzey|
 |Town|Semt|
 |Floating Island|Süzülen Adalar|
+|Hallow|Cennet|
+
 
 ### NPCs
 
@@ -114,6 +120,12 @@
 |Mimic|Taklitçi|
 |Sharkron|Köpek Balığıtör|
 |Cultist|Tarikatçı|
+|Pygm|Cüce|
+|Tuffle|Yermantarı|
+|Stardust|Yıldıztozu|
+|Harpy|?|
+|Mothron|Güvetron|
+
 
 ### Olaylar
 
@@ -126,3 +138,4 @@
 |Solar Eclipse|Güneş Tutulması|
 |The Frost Legion|Ayaz Birliği|
 |Pirate Invasion|Korsan Baskını|
+|Old One's Army|Kadim'in Ordusu|
