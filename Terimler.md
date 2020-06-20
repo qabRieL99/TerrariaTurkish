@@ -26,6 +26,7 @@
 |Wall of Flesh|Et Duvarı|
 |Mourning Wood|Yaslayan Ağaç|
 |Pumpking|Kabakral|
+|Empress of Light|Işık İmparatoriçesi|
 
 ### Eşya
 
@@ -98,7 +99,6 @@
 |Floating Island|Süzülen Adalar|
 |Hallow|Cennet|
 
-
 ### NPCs
 
 |Özgün|Çeviri|
@@ -125,7 +125,8 @@
 |Stardust|Yıldıztozu|
 |Harpy|?|
 |Mothron|Güvetron|
-
+|Ogre|Dev|
+|Tavernkeep|Gazinocu|
 
 ### Olaylar
 
