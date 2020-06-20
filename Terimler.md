@@ -67,6 +67,9 @@
 |Palladium|Paladyum|
 |Platinum|Platin|
 |Titanium|Titanyum|
+|Pearlstone|Aktaş|
+|Ebonstone|Karataş|
+|Crimstone|Kızıltaş|
 
 ### Mekanikler
 
@@ -88,7 +91,7 @@
 |Özgün|Çeviri|
 |--|--|
 |Corruption|Bozulma|
-|Crimson|Kızıl|
+|Crimson|Kızıllık|
 |Floating Island|Süzülen Ada|
 |Living Wood|Yaşayan Odun|
 |Underworld|Cehennem|
