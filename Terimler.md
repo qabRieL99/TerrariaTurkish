@@ -1,7 +1,6 @@
 ### Liste hâlâ güncellenme aşamasında.
 
 ### Bitkiler
-
 |Özgün|Çeviri|
 |--|--|
 |Blinkroot|Yanıpsönen|
@@ -12,7 +11,6 @@
 |Waterleaf|Suçiçeği|
 
 ### Boss
-
 |Özgün|Çeviri|
 |--|--|
 |Brain of Cthulhu|Cthulhu'nun Beyni|
@@ -28,39 +26,46 @@
 |The Twins|İkizler|
 |Wall of Flesh|Et Duvarı|
 
-### Kıyafet
-
+### Kıyafet ve Araçlar
 |Özgün|Çeviri|
 |--|--|
-|Greaves|Bacaklık|
+|Broadsword|Büyükkılıç|
+|Greaves/Leggings|Bacaklık|
+|Halberd|Baltalı Mızrak|
 |Headgear|Başlık|
 |Helmet|Kask|
 |Mask|Maske|
-|Platemail/Scalemail|Gövdelik|
+|Platemail/Scalemail/Breastplate|Gövdelik|
+|Repeater|Arbalet|
+|Shortsword|Kısakılıç|
 
 ### Eşya
-
 |Özgün|Çeviri|
 |--|--|
 |Confetti|Saçı|
 |Drax|Matbalt|
+|Drax|Matkabalta|
 |Extractioner|Özütleyici|
 |Flameburst|Alevpatlağı|
 |Fossil|Taşıl|
 |Glowstick|Parlakçubuk|
+|Haemorrhaxe|Kanayan Balta|
+|Hamaxe|Çekobalt|
 |Ichor|İrin|
 |Lucky Horseshoe|Şanslı Nal|
 |Nanites|Nanit|
 |Obsidian Skin|Alevalmaz Vücut|
+|Pickaxe Axe|Kazma Baltası|
+|Picksaw|Kaztere|
 |Rich Mahogany|Zengin Maun|
 |Rope Coil|Sarmal Halat|
 |Sandstone|Kumtaş|
 |Shadow Orb|Gölge Küresi|
 |Silt|İnce Kum|
+|Slush|Karlı Block|
 |Trophy|Ganimet|
 
 ### Madenler
-
 |Özgün|Çeviri|
 |--|--|
 |Adamantite|Adamantit|
@@ -74,6 +79,7 @@
 |Hellstone|Cehennemtaşı|
 |Luminite|Aysalit|
 |Meteorite|Göktaşı|
+|Molten|Dökme|
 |Mythril|Mitril|
 |Obsidian|Volkan camı|
 |Orichaclum|Orikalkum|
@@ -83,7 +89,6 @@
 |Titanium|Titanyum|
 
 ### Mekanikler
-
 |Özgün|Çeviri|
 |--|--|
 |Bar|Kalıp|
@@ -99,7 +104,6 @@
 |Tile|Döşeme|
 
 ### Mekanlar
-
 |Özgün|Çeviri|
 |--|--|
 |Cavern|Yeraltı Boşluğu|
@@ -115,7 +119,6 @@
 |Underworld|Cehennem|
 
 ### NPCs
-
 |Özgün|Çeviri|
 |--|--|
 |Arms Dealer|Silah Satıcısı|
@@ -144,7 +147,6 @@
 |Wisp|?|
 
 ### Olaylar
-
 |Özgün|Çeviri|
 |--|--|
 |Blood Moon|Kanlı Ay|
@@ -155,3 +157,14 @@
 |Pumpkin Moon|Balkabağı Ay|
 |Solar Eclipse|Güneş Tutulması|
 |The Frost Legion|Ayaz Birliği|
+
+### Taşlar
+|Özgün|Çeviri|
+|--|--|
+|Amber|Kehribar|
+|Amethyst|Mortaş|
+|Diamond|Elmas|
+|Emerald|Zümrüt|
+|Ruby|Yakut|
+|Sapphire|Safir|
+|Topaz|Sarı Yakut|
