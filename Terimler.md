@@ -34,9 +34,11 @@
 |Halberd|Baltalı Mızrak|
 |Headgear|Başlık|
 |Helmet|Kask|
+|Hood|Kukuleta|
 |Mask|Maske|
 |Platemail/Scalemail/Breastplate|Gövdelik|
 |Repeater|Arbalet|
+|Robe|Biniş|
 |Shortsword|Kısakılıç|
 
 ### Eşya
@@ -74,8 +76,8 @@
 |Crimstone|Kızıltaş|
 |Crimtane|Kızıltaş|
 |Demonite|İblisit|
-|Ebonstone|Abanoztaşı|
-|Ebonstone|Karataş|
+|Ebonstone|Abanoztaş|
+|Ectoplasm|Dışkansıvı|
 |Hellstone|Cehennemtaşı|
 |Luminite|Aysalit|
 |Meteorite|Göktaşı|
@@ -86,11 +88,13 @@
 |Palladium|Paladyum|
 |Pearlstone|Aktaş|
 |Platinum|Platin|
+|Spectre|Ruhani|
 |Titanium|Titanyum|
 
 ### Mekanikler
 |Özgün|Çeviri|
 |--|--|
+|Banner|Sancak|
 |Bar|Kalıp|
 |Bestiary|Yaratık Kitabı|
 |Expert|Uzman|
@@ -102,6 +106,7 @@
 |Monolith|Dikilitaş|
 |Mount|Binek|
 |Tile|Döşeme|
+|Trophy|Ganimet|
 
 ### Mekanlar
 |Özgün|Çeviri|
