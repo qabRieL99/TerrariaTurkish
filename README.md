@@ -11,6 +11,7 @@ Yardım için buradan veya [DonanımHaber](https://forum.donanimhaber.com/profil
 |Dosya Adı|Durum|
 |--|--|
 |[Terraria.Localization.Content.en-US.Game](https://github.com/qabRieL99/TerrariaTurkish/blob/master/T%C3%BCrk%C3%A7e%20Dosyalar/Terraria.Localization.Content.en-US.Game.json)|Genel olarak tamamlandı, Bestiary'nin çevrilmesi gerekiyor.|
+|[Terraria.Localization.Content.en-US.Items](https://github.com/qabRieL99/TerrariaTurkish/blob/master/T%C3%BCrk%C3%A7e%20Dosyalar/Terraria.Localization.Content.en-US.Items.json)|Çeviri aşamasında.|
 |[Terraria.Localization.Content.en-US](https://github.com/qabRieL99/TerrariaTurkish/blob/master/T%C3%BCrk%C3%A7e%20Dosyalar/Terraria.Localization.Content.en-US.json)|Çoklu oyuncu kısmı ve başarımların bir kısmı çevrilmedi.<br>Dünya isimleri muallakta.|
 |[Terraria.Localization.Content.en-US.Legacy](https://github.com/qabRieL99/TerrariaTurkish/blob/master/T%C3%BCrk%C3%A7e%20Dosyalar/Terraria.Localization.Content.en-US.Legacy.json)|Son birkaç bölüm hariç bitmiş sayılır.|
 |[Terraria.Localization.Content.en-US.NPCs](https://github.com/qabRieL99/TerrariaTurkish/blob/master/T%C3%BCrk%C3%A7e%20Dosyalar/Terraria.Localization.Content.en-US.NPCs.json)|Çeviri bitti.|
