@@ -88,6 +88,7 @@
 |Palladium|Paladyum|
 |Pearlstone|Aktaş|
 |Platinum|Platin|
+|Shroomite|Mantarit|
 |Spectre|Ruhani|
 |Titanium|Titanyum|
 
