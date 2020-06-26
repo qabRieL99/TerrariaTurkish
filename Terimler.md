@@ -36,6 +36,8 @@
 |Helmet|Kask|
 |Hood|Kukuleta|
 |Mask|Maske|
+|Phaseblade|Işınbıçağı|
+|Phasesaber|Işınkılıcı|
 |Platemail/Scalemail/Breastplate|Gövdelik|
 |Repeater|Arbalet|
 |Robe|Biniş|
@@ -98,6 +100,7 @@
 |Banner|Sancak|
 |Bar|Kalıp|
 |Bestiary|Yaratık Kitabı|
+|Biome|Biyom?|
 |Expert|Uzman|
 |Housing|Konaklama|
 |Lunar |Göksel|
