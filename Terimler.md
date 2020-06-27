@@ -8,14 +8,17 @@
 |Deathweed|Ölükot|
 |Fireblossom|Ateşçiçeği|
 |Moonglow|Geceparlayan|
+|Shiverthorn|Ürpertidikeni|
 |Waterleaf|Suçiçeği|
 
 ### Boss
 |Özgün|Çeviri|
 |--|--|
 |Brain of Cthulhu|Cthulhu'nun Beyni|
+|Duke Fishron|Dük Balıkejder|
 |Eater of the Worlds|Cihan Yeyici|
 |Empress of Light|Işık İmparatoriçesi|
+|Lunatic Cultist|Aysal Tarikatçı|
 |Moon Lord|Ay Efendisi|
 |Mourning Wood|Yaslayan Ağaç|
 |Pumpking|Kabakral|
@@ -48,7 +51,6 @@
 |--|--|
 |Confetti|Saçı|
 |Drax|Matbalt|
-|Drax|Matkabalta|
 |Extractioner|Özütleyici|
 |Flameburst|Alevpatlağı|
 |Fossil|Taşıl|
@@ -56,17 +58,16 @@
 |Haemorrhaxe|Kanayan Balta|
 |Hamaxe|Çekobalt|
 |Ichor|İrin|
-|Lucky Horseshoe|Şanslı Nal|
 |Nanites|Nanit|
 |Obsidian Skin|Alevalmaz Vücut|
 |Pickaxe Axe|Kazma Baltası|
 |Picksaw|Kaztere|
-|Rich Mahogany|Zengin Maun|
 |Rope Coil|Sarmal Halat|
 |Sandstone|Kumtaş|
+|Skyware|Gökyüzü|
 |Shadow Orb|Gölge Küresi|
 |Silt|İnce Kum|
-|Slush|Karlı Block|
+|Slush|Karlı Blok|
 |Trophy|Ganimet|
 
 ### Madenler
@@ -75,10 +76,9 @@
 |Adamantite|Adamantit|
 |Chlorophyte|Klorofit|
 |Cobalt|Kobalt|
-|Crimstone|Kızıltaş|
-|Crimtane|Kızıltaş|
+|Crimstone/Crimtane|Kızıltaş|
 |Demonite|İblisit|
-|Ebonstone|Abanoztaş|
+|Ebonstone|Karataş|
 |Ectoplasm|Dışkansıvı|
 |Hellstone|Cehennemtaşı|
 |Luminite|Aysalit|
@@ -103,7 +103,7 @@
 |Biome|Biyom?|
 |Expert|Uzman|
 |Housing|Konaklama|
-|Lunar |Göksel|
+|Lunar|Göksel|
 |Mana|Sihir|
 |Master|Efendi|
 |Minion|Yardakçı|
@@ -118,54 +118,63 @@
 |Cavern|Yeraltı Boşluğu|
 |Corruption|Bozulma|
 |Crimson|Kızıllık|
-|Floating Island|Süzülen Adalar|
 |Floating Island|Süzülen Ada|
 |Hallow|Cennet|
 |Living Wood|Yaşayan Odun|
-|Suface|Yüzey|
+|Surface|Yüzey|
 |Town|Semt|
 |Underground|Yeraltı|
 |Underworld|Cehennem|
 
-### NPCs
+### Dost NPC'ler
 |Özgün|Çeviri|
 |--|--|
 |Arms Dealer|Silah Satıcısı|
-|Cultist|Tarikatçı|
+|Clothier|Terzi|
 |Dye Trader|Boya Tüccarı|
+|Goblin Tinkerer|Cincüce Tamirci|
+|Mechanic|Teknisyen|
+|Painter|Ressam|
+|Party Girl|Partici Kız|
+|Steampunker|Steampunkçı|
+|Stylist|Stilist|
+|Tavernkeep|Gazinocu|
+|Tax Collector|Vergi Tahsildarı|
+|Tuffle|Yermantarı|
+|Witch Doctor|Cadı Doktor|
+|Zoologist|Hayvanbilimci|
+
+### Canavarlar
+|Özgün|Çeviri|
+|--|--|
+|Cultist|Tarikatçı|
 |Eyeball Spring|?|
 |Fishron|Balıkejder|
 |Goblin|Cincüce|
 |Harpy|?|
-|Hollow|?|
-|Mechanic|Teknisyen|
 |Mimic|Taklitçi|
 |Minotor|Boğansan|
 |Mothron|Güvetron|
 |Ogre|Dev|
-|Party Girl|Partici Kız|
 |Pigron|Ejderdomuz|
 |Pygm|Cüce|
 |Sharknado|Kasırga Balığı|
 |Sharkron|Köpek Balığıtör|
 |Slime|Balçık|
 |Stardust|Yıldıztozu|
-|Tavernkeep|Gazinocu|
-|Tinkerer|Tamirci|
-|Tuffle|Yermantarı|
 |Wisp|?|
 
 ### Olaylar
 |Özgün|Çeviri|
 |--|--|
 |Blood Moon|Kanlı Ay|
+|Frost Legion|Ayaz Birliği|
 |Frost Moon|Ayaz Ay|
 |Martian Madness|Marslı Çılgınlığı|
 |Old One's Army|Kadim'in Ordusu|
 |Pirate Invasion|Korsan Baskını|
 |Pumpkin Moon|Balkabağı Ay|
 |Solar Eclipse|Güneş Tutulması|
-|The Frost Legion|Ayaz Birliği|
 
 ### Taşlar
 |Özgün|Çeviri|
@@ -177,3 +186,15 @@
 |Ruby|Yakut|
 |Sapphire|Safir|
 |Topaz|Sarı Yakut|
+
+ ### Ahşap Çeşitleri
+ |Özgün|Çeviri|
+|--|--|
+|Boreal Wood|Kuzey Ahşabı|
+|Dynasty Wood|Hanedan Ahşap|
+|Ebonwood|Abanoz|
+|Palm Wood|Palmiye Ahşap|
+|Pearlwood|İnci Ahşap|
+|Rich Mahogany|Zengin Maun|
+|Shadewood|Gölge Ahşap|
+|Spooky Wood|Ürkütücü Ahşap|
