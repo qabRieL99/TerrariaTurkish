@@ -42,6 +42,7 @@
 |Phaseblade|Işınbıçağı|
 |Phasesaber|Işınkılıcı|
 |Platemail/Scalemail/Breastplate|Gövdelik|
+|Pwnhammer|Pwnçekiç|
 |Repeater|Arbalet|
 |Robe|Biniş|
 |Shortsword|Kısakılıç|
@@ -187,14 +188,14 @@
 |Sapphire|Safir|
 |Topaz|Sarı Yakut|
 
- ### Ahşap Çeşitleri
- |Özgün|Çeviri|
+### Ahşap Çeşitleri
+|Özgün|Çeviri|
 |--|--|
-|Boreal Wood|Kuzey Ahşabı|
+|Boreal Wood|Kuzeyahşap|
 |Dynasty Wood|Hanedan Ahşap|
 |Ebonwood|Abanoz|
 |Palm Wood|Palmiye Ahşap|
-|Pearlwood|İnci Ahşap|
+|Pearlwood|Akahşap|
 |Rich Mahogany|Zengin Maun|
-|Shadewood|Gölge Ahşap|
+|Shadewood|Gölgeahşap|
 |Spooky Wood|Ürkütücü Ahşap|
