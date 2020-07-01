@@ -93,6 +93,7 @@
 |Platinum|Platin|
 |Shroomite|Mantarit|
 |Spectre|Ruhani|
+|Tin|Kalay|
 |Titanium|Titanyum|
 
 ### Mekanikler
