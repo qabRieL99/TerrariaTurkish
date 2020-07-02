@@ -103,6 +103,7 @@
 |Bar|Kalıp|
 |Bestiary|Yaratık Kitabı|
 |Biome|Biyom?|
+|Counterweight|Karşı Ağırlık|
 |Expert|Uzman|
 |Housing|Konaklama|
 |Lunar|Göksel|
@@ -111,6 +112,7 @@
 |Minion|Yardakçı|
 |Monolith|Dikilitaş|
 |Mount|Binek|
+|Planter Box|Ekim Kutusu|
 |Tile|Döşeme|
 |Trophy|Ganimet|
 
