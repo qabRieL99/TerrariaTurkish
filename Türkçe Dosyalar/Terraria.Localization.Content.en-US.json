@@ -155,7 +155,7 @@
 		"Creative": "Macera",
 		"CreativeDescriptionPlayer": "Macera karakterleri fazladan donanım ile başlar. Yalnızca Macera dünyalarında oynanabilir.",
 		"WorldSizeFormat": "{0} Dünya",
-		"WorldCreatedFormat": "Yaratıldığı tarih: {0}",
+		"WorldCreatedFormat": "Yaratılma tarihi: {0}",
 		"SelectWorld": "Dünya Seç",
 		"SelectPlayer": "Oyuncu Seç",
 		"Back": "Geri",
@@ -396,7 +396,7 @@
 		"QualityLow": "Düşük",
 		"QualityOff": "Kapalı",
 
-		"GameZoom": "Oyunu Yakınlaştırma: {0}% ({1}%)",
+		"GameZoom": "Yakınlaştırma: {0}% ({1}%)",
 		"UIScale": "Arayüz Oranı: {0}% ({1}%)",
 		"ZoomCategory": "Yakınlaştırma",
 		"Misc": "Çeşitli",

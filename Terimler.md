@@ -112,9 +112,13 @@
 |Minion|Yardakçı|
 |Monolith|Dikilitaş|
 |Mount|Binek|
+|Nebula|Bulutsu|
 |Planter Box|Ekim Kutusu|
+|Solar|Güneşsel|
+|Stardust|Yıldıztozu|
 |Tile|Döşeme|
 |Trophy|Ganimet|
+|Vortex|Girdap|
 
 ### Mekanlar
 |Özgün|Çeviri|
