@@ -69,7 +69,6 @@
 |Shadow Orb|Gölge Küresi|
 |Silt|İnce Kum|
 |Slush|Karlı Blok|
-|Trophy|Ganimet|
 
 ### Madenler
 |Özgün|Çeviri|
@@ -166,8 +165,8 @@
 |Ogre|Dev|
 |Pigron|Ejderdomuz|
 |Pygm|Cüce|
-|Sharknado|Kasırga Balığı|
-|Sharkron|Köpek Balığıtör|
+|Sharknado|Kasırgabalığı|
+|Sharkron|Köpekbalığıtör|
 |Slime|Balçık|
 |Stardust|Yıldıztozu|
 |Wisp|?|
