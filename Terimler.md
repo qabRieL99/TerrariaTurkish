@@ -155,7 +155,7 @@
 |Özgün|Çeviri|
 |--|--|
 |Cultist|Tarikatçı|
-|Eyeball Spring|?|
+|Eyeball Spring|Göz Pınarı|
 |Fishron|Balıkejder|
 |Goblin|Cincüce|
 |Harpy|?|
