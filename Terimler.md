@@ -118,6 +118,7 @@
 |Tile|Döşeme|
 |Trophy|Ganimet|
 |Vortex|Girdap|
+|Summon Tag|Çağrı Etiketi|
 
 ### Mekanlar
 |Özgün|Çeviri|
