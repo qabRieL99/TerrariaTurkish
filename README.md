@@ -13,10 +13,10 @@ Yardım için buradan veya [DonanımHaber](https://forum.donanimhaber.com/profil
 |--|--|
 |[Terraria.Localization.Content.en-US.Game](https://github.com/qabRieL99/TerrariaTurkish/blob/master/T%C3%BCrk%C3%A7e%20Dosyalar/Terraria.Localization.Content.en-US.Game.json)|Genel olarak çevirisi yapıldı.<br>Yaratık Kitabı'nın çevrilmesi gerekiyor. :x:|
 |[Terraria.Localization.Content.en-US.Items](https://github.com/qabRieL99/TerrariaTurkish/blob/master/T%C3%BCrk%C3%A7e%20Dosyalar/Terraria.Localization.Content.en-US.Items.json)|Çeviri tamamlandı. :heavy_check_mark:|
-|[Terraria.Localization.Content.en-US](https://github.com/qabRieL99/TerrariaTurkish/blob/master/T%C3%BCrk%C3%A7e%20Dosyalar/Terraria.Localization.Content.en-US.json)|Çoklu oyuncu kısmı ve başarımların bir kısmı çevrilmedi. :x:<br>Dünya isimleri muallakta. |
+|[Terraria.Localization.Content.en-US](https://github.com/qabRieL99/TerrariaTurkish/blob/master/T%C3%BCrk%C3%A7e%20Dosyalar/Terraria.Localization.Content.en-US.json)|Çeviri aşamasında. :hourglass:|
 |[Terraria.Localization.Content.en-US.Legacy](https://github.com/qabRieL99/TerrariaTurkish/blob/master/T%C3%BCrk%C3%A7e%20Dosyalar/Terraria.Localization.Content.en-US.Legacy.json)|Çeviri tamamlandı. :heavy_check_mark:|
 |[Terraria.Localization.Content.en-US.NPCs](https://github.com/qabRieL99/TerrariaTurkish/blob/master/T%C3%BCrk%C3%A7e%20Dosyalar/Terraria.Localization.Content.en-US.NPCs.json)|Çeviri tamamlandı. :heavy_check_mark:|
-|[Terraria.Localization.Content.en-US.Projectiles](https://github.com/qabRieL99/TerrariaTurkish/blob/master/T%C3%BCrk%C3%A7e%20Dosyalar/Terraria.Localization.Content.en-US.Projectiles.json)|Çeviri aşamasında. :hourglass:|
+|[Terraria.Localization.Content.en-US.Projectiles](https://github.com/qabRieL99/TerrariaTurkish/blob/master/T%C3%BCrk%C3%A7e%20Dosyalar/Terraria.Localization.Content.en-US.Projectiles.json)|Şimdilik çevrilmeyecek. :x:|
 |[Terraria.Localization.Content.en-US.Town](https://github.com/qabRieL99/TerrariaTurkish/blob/master/T%C3%BCrk%C3%A7e%20Dosyalar/Terraria.Localization.Content.en-US.Town.json)|Çeviriye başlanmadı. :x:|
 
 ### Terimler
