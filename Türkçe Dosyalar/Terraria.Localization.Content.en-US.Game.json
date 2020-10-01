@@ -914,7 +914,7 @@
 		"PetParrot": "Polly bisküvini istiyor",
 		"BabyTruffle": "Çok tatlı değil miiiii?",
 		"PetSapling": "Küçük bir fidan seni takip ediyor",
-		"Wisp": "A wisp is following you",
+		"Wisp": "Bir wisp seni takip ediyor",
 		"RapidHealing": "Sağlık yenilenmesi büyük ölçüde arttırıldı",
 		"ShadowDodge": "Bir sonraki saldırıdan kurtulacaksın",
 		"LeafCrystal": "Yakındaki düşmanlara billur yaprakları atar",
@@ -1262,7 +1262,7 @@
 		"SpiderNest": "Örümcek Yuvası",
 		"Crimson": "Kızıllık",
 		"SolarPillar": "Güneş Sütünu",
-		"VortexPillar": "Vortex Pillar",
+		"VortexPillar": "Girdap Sütunu",
 		"TheTemple": "Tapınak",
 		"UndergroundCorruption": "Yeraltı Bozulması",
 		"Hallow": "Cennet",
@@ -1472,8 +1472,7 @@
 		"Sandshark": "In ancient times, a saltwater river once ran through the desert. These powerful creatures evolved to survive in the now dry sand.",
 		"Lamia": "By the time glowing red eyes appear in the darkness of the desert caves, it is already too late. The lamias have found their prey.",
 		"GemSquirrel": "Glistening squirrels who strayed too deep become ensorcelled with residual cursed energy retained in gemstones.",
-		"GemBunny": "
-		Bu renkli tavşanlar o kadar derine indi ki, sihirli taşlara verdikleri tepki, başkalarının imrendiği ışıltılı bir görünümle son buldu.",
+		"GemBunny": "Bu renkli tavşanlar o kadar derine indi ki, sihirli taşlara verdikleri tepki, başkalarının imrendiği ışıltılı bir görünümle son buldu.",
 
 	},
 	"Bestiary_FlavorText": {
