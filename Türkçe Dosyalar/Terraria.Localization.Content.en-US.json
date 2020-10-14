@@ -136,6 +136,8 @@
 		"DisplaySeed": "Dünya Tohumu: {0}",
 		"SetInitialMaxPlayers": "Azami oyuncu (16 için enter tuşuna bas): ",
 		"ServerIsFull": "Bu sunucu şu anda dolu, lütfen daha sonra tekrar dene.",
+		"WorldNameLengthTooLong": "The world name entered is too long! (Max characters: {0})",
+		"SeedLengthTooLong": "The seed entered is too long! (Max characters: {0})",
 	},
 	"UI": {
 		"Effects": "Etkiler",
@@ -275,8 +277,9 @@
 		"HoverControlSettingIsHold": "Süzülme Denetimi: Basılı Tut",
 		"ToggleCreativeMenu": "Macera Güçleri'ni Aç/Kapat",
 		"WorldCannotBeLoadedBecauseItHasAnInvalidGameMode": "Hata: Bu dünyada geçersiz bir veri var!",
-		"WorldGenEasterEgg_GeneratingBees": "Arılar üretiliyor"
-},
+		"WorldGenEasterEgg_GeneratingBees": "Arılar üretiliyor",
+		"Credits": "Credits",
+	},
 	"Net": {
 		"ClientStatusComplete": "({0}) {1} {2}: Tamamlandı!",
 		"ClientConnecting": "{0} bağlanıyor...",
@@ -570,7 +573,9 @@
 		"EndedVictoryHalloween": "Cadılar Bayramı'nın ruhu dinleniyor...",
 		"LicenseCatUsed": "Ruhsat, kedi teslimat servisine ışınlanıyor...",
 		"LicenseDogUsed": "Ruhsat, köpek teslimat servisine ışınlanıyor ...",
-		"LicenseBunnyUsed": "Ruhsat, tavşan teslimat servisine ışınlanıyor..."
+		"LicenseBunnyUsed": "Ruhsat, tavşan teslimat servisine ışınlanıyor...",
+		"Ebonstone": "Ebonstone",
+		"Crimstone": "Crimstone"
 	},
 	"Currency": {
 		"Platinum": "Platin",
@@ -775,7 +780,37 @@
 		"INDEPENDENCE_DAY_Name": "Bağımsızlık Günü",
 		"INDEPENDENCE_DAY_Description": "Marslı istilacıların lideri olan bir Ana Gemi'yi yen.",
 		"HEX_EDUCATION_Name": "Hex Eğitimi",
-		"HEX_EDUCATION_Description": "En karanlık alevlerin sihirbazı olan bir Cincüce Çağırıcı'sını yen."
+		"HEX_EDUCATION_Description": "En karanlık alevlerin sihirbazı olan bir Cincüce Çağırıcı'sını yen.",
+				"DEFEAT_EMPRESS_OF_LIGHT_Name": "Fae Flayer",
+		"DEFEAT_EMPRESS_OF_LIGHT_Description": "Defeat the Empress of Light, responsible for all those flashy lights and glitter.",
+		"DEFEAT_QUEEN_SLIME_Name": "Just Desserts",
+		"DEFEAT_QUEEN_SLIME_Description": "Defeat Queen Slime, giving the coup-de-grace to the sovereign of all that jiggles.",
+		"DEFEAT_DREADNAUTILUS_Name": "Don't Dread on Me",
+		"DEFEAT_DREADNAUTILUS_Description": "Defeat the Dreadnautilus, murderous mollusk lurking beneath the surface of the sanguine seas.",
+		"DEFEAT_OLD_ONES_ARMY_TIER3_Name": "Hero of Etheria",
+		"DEFEAT_OLD_ONES_ARMY_TIER3_Description": "Repel the strongest forces the Old One's Army can muster.",
+		"GET_ZENITH_Name": "Infinity +1 Sword",
+		"GET_ZENITH_Description": "Obtain the Zenith, the culmination of a journey forged into the ultimate sword.",
+		"GET_TERRASPARK_BOOTS_Name": "Boots of the Hero",
+		"GET_TERRASPARK_BOOTS_Description": "Obtain the Terraspark Boots, forged from the finest boots of fire and ice.",									
+		"FLY_A_KITE_ON_A_WINDY_DAY_Name": "A Rather Blustery Day",
+		"FLY_A_KITE_ON_A_WINDY_DAY_Description": "Fly a kite on a windy day.",
+		"FOUND_GRAVEYARD_Name": "Quiet Neighborhood",
+		"FOUND_GRAVEYARD_Description": "Enter a misty graveyard filled with the surly dead.",
+		"GO_LAVA_FISHING_Name": "Hot Reels!",
+		"GO_LAVA_FISHING_Description": "Drop a lure in a pool of lava for a pre-fried haul!",
+		"TURN_GNOME_TO_STATUE_Name": "Heliophobia",
+		"TURN_GNOME_TO_STATUE_Description": "Trick a gnome into turning into stone!",
+		"TALK_TO_NPC_AT_MAX_HAPPINESS_Name": "Leading Landlord",
+		"TALK_TO_NPC_AT_MAX_HAPPINESS_Description": "Meet with a tenant who's as happy as they possibly can be!",
+		"PET_THE_PET_Name": "Feeling Petty",
+		"PET_THE_PET_Description": "Deliver headpats to the town pet.",
+		"FIND_A_FAIRY_Name": "Hey! Listen!",
+		"FIND_A_FAIRY_Description": "Encounter a fairy.",
+		"THROW_A_PARTY_Name": "Jolly Jamboree",
+		"THROW_A_PARTY_Description": "What you're celebrating doesn't matter, just throw a party already!",
+		"DIE_TO_DEAD_MANS_CHEST_Name": "Dead Men Tell No Tales",
+		"DIE_TO_DEAD_MANS_CHEST_Description": "You were so preoccupied with whether or not you could open the chest that you didn't stop to think if you should."
 	},
 	"DungeonDefenders2": {
 		"InvasionStart": "Kadim'in ordusu yaklaşıyor!",
@@ -2649,5 +2684,189 @@
 	"AssetRejections" : {
 		"BadSize": "Textures loaded must match the original size, got ({ActualWidth},{ActualHeight}) but expected ({NeededWidth}, {NeededHeight}).",
 		"BadExtension": "Only textures of type '.png' and '.xnb' may be loaded."
-	}
+	},
+
+	"CreditsRollCategory_Creator": {
+	"1": "Creator",
+	"2": "Andrew “Redigit” Spinks",
+	},
+
+"CreditsRollCategory_ExecutiveProducer": {
+	"1": "Executive Producer",
+	"2": "Whitney “Cenx” Spinks",
+	},
+
+"CreditsRollCategory_Designer": {
+	"1": "Designer",
+	"2": "Andrew “Redigit” Spinks",
+	"3": "Whitney “Cenx” Spinks",
+	"4": "Yorai “Yoraiz0r” Omer",
+	},
+
+"CreditsRollCategory_Programming": {
+	"1": "Programming",
+	"2": "Yorai “Yoraiz0r” Omer",
+	"3": "Andrew “Redigit” Spinks",
+	"4": "Chris “Skiphs” Bednarz",
+	"5": "Charles “Grox” Hanrahan",
+	"6": "Jason “Leinfors” Parker",
+	"7": "Jason “Solsund” Berg",
+	},
+
+"CreditsRollCategory_Graphics": {
+	"1": "Graphics",
+	"2": "Victor “Crowno” Moura",
+	"3": "James “Lazure” Hayes",
+	"4": "Jim Tommy Myhre “Jimmarn” Kjexrud",
+	"5": "Andrew “Redigit” Spinks",
+	"6": "Will “Phlebas” Garner",
+	"7": "Finn “Tiy” Brice",
+	"8": "Aaron “AaronC” Craig",
+	"9": "Gabriel “Red Yoshi” Kiesshau",
+	},
+
+"CreditsRollCategory_Music": {
+	"1": "Music",
+	"2": "Scott Lloyd Shelly",
+	},
+
+"CreditsRollCategory_Sound": {
+	"1": "Sound",
+	"2": "Morten Lund Søegaard",
+	"3": "Jens Kiilstofte",
+	"4": "Pond5.com",
+	"5": "SoundSnap.com",
+	},
+
+"CreditsRollCategory_Dialog": {
+	"1": "Dialog",
+	"2": "James “Lazure” Hayes",
+	"3": "Jeremy “Blue” Guerrette",
+	"4": "Dustin “Splugen” Gunter",
+	},
+
+"CreditsRollCategory_QualityAssurance": {
+	"1": "Quality Assurance",
+	"2": "Jason “Leinfors” Parker",
+	"3": "Crystal “Ghostar” Ironheart",
+	"4": "Houston “Food Barbarian” Lawson",
+	"5": "Olivia “Arkhayla” Cres",
+	"6": "Mike “0x33” Johnson",
+	},
+
+"CreditsRollCategory_BusinessDevelopment": {
+	"1": "Business Development",
+	"2": "Ted “Loki” Murphy",
+	"3": "David “D-Town” Phelps",
+	},
+
+"CreditsRollCategory_Marketing": {
+	"1": "Marketing",
+	"2": "Ted “Loki” Murphy",
+	},
+
+"CreditsRollCategory_PublicRelations": {
+	"1": "Public Relations",
+	"2": "Amanda “safeman” Powell",
+	},
+
+"CreditsRollCategory_Webmaster": {
+	"1": "Webmaster",
+	"2": "Justin “Grumpy Squid” Coplen",
+	"3": "Chris “Skiphs” Bednarz",
+	},
+
+"CreditsRollCategory_Playtesting": {
+	"1": "Playtesting",
+	"2": "Atri “m4sterbr0s” Maharaj",
+	"3": "Brian “TGS” Gilliford",
+	"4": "Mike “TrinityFlash” Dunn",
+	"5": "William “Ignoritus” Coffey",
+	"6": "Valtteri Nieminen",
+	"7": "Ryan “Namyrr” Le",
+	"8": "Gabriel “Red Yoshi” Kiesshau",
+	"9": "Ragnor “Devalaous” Berntsen",
+	"10": "Brandon “rbrandon” Kime",
+	"11": "Clara Kane",
+	"12": "Brian “Blahblahbal” Hansen",
+	"13": "Jay “jeckel” Jeckel",
+	"14": "Michael “kelp” McCarthy",
+	"15": "Carwyn “Aeroblop” Dalrymple",
+	"16": "Adrian “Unrealmegashark” Wheeler",
+	"17": "Matthew “Omnir” Hunnicutt",
+	"18": "Tsukina “Tsuki” Nakata",
+	"19": "Suw “Suweeka” Gutierrez",
+	"20": "Joshua “scizor300” Wubker",
+	"21": "Michael “shockah” Dolas",
+	"22": "Tyler “BurnZeZ” Whiteman",
+	"23": "Peter “Doylee” Doyle",
+	"24": "Kyle “Kley” Hodge",
+	"25": "Steven “Twitchy” French",
+	"26": "Anodomani",
+	"27": "Igor “Conker” Magi Marinho",
+	"28": "Cheah Jun Siang",
+	"29": "Zach “Olink” Piispanen",
+	"30": "Lisa “Lils” Chiu",
+	"31": "iRandomness",
+	"32": "Kaleb “JesusLlama” Regalado",
+	"33": "Elias “Elbow” Naddaf",
+	"34": "Jonathan “FallingSnow” Poholarz",
+	"35": "Brandon Thomas",
+	"36": "Daniel “DMF” Faria",
+	"37": "Luna Meier",
+	"38": "Robert “qig” Buchanan",
+	"39": "Alexaunder “as303298” Savoy",
+	"40": "Alexander “Vandarx” Reaves",
+	"41": "QEM - “Mystery”",
+	"42": "Balázs “Mamaluigi” Makai",
+	"43": "Daniel “Garro” Berner",
+	"44": "Tyler “Quill” Warr",
+	"45": "Andrew “Andydark” Windmiller",
+	"46": "Steven “ppowersteef” Logghe",
+	"47": "Michele “W1K” Nunziato",
+	"48": "Chris “Criddle” Rohde",
+	"49": "Kaz “Kazzymodus” Tollenaar",
+	"50": "Sam “darthmorf” Poirier",
+	"51": "John “Aurora3500” Witzig",
+	"52": "Harley “Acamaeda” White",
+	"53": "Tristan “Discipile” Shabbick",
+	"54": "Evan “Antithesis” Kirkpatrick ",
+	"55": "Keven “Waze3174” Chastenay",
+	"56": "Benjamin “Jenosis” Hook",
+	"57": "Connor “Darthkitten” Schneider",
+	"58": "Zach “Vulpes Inculta” Yurek",
+	"59": "Shane “Sigma” Grimson-Smith",
+	"60": "James “Khaios” Sterling",
+	"61": "Xavier “Xman101” Calder",
+	"62": "Cynthia “Serenity” Germaine",
+	"63": "W. “Altermaven” Black",
+	"64": "Midnaait",
+	"65": "ManaUser",
+	"66": "Unit One",
+	"67": "General Milky",
+	"68": "Tunnel King",
+	"69": "Chris Ness",
+	"70": "Yrimir",
+	"71": "Peter “Pedguin” Mann",
+	},
+	
+"CreditsRollCategory_SpecialThanksto": {
+	"1": "Special Thanks to",
+	"2": "The Torch God",
+	"3": "Ben “Coldwin” Spaulding",
+	"4": "Kane Hart",
+	"5": "James “Chippy” Bennett",
+	"6": "Brandon Reinhart",
+	"7": "Nathan “Rartrin” Stonestreet",
+	"8": "Lord Gaben",
+	"9": "Markus “Notch” Persson",
+	"10": "Augusta Butlin",
+	"11": "Ethan “flibitijibibo” Lee",
+	},
+
+
+"CreditsRollCategory_EndingNotes": {
+	"1": "Thank you for playing!",
+	},
+	
 }

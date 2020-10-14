@@ -537,7 +537,7 @@
 		"SolarFlareDrill": "Solar Flare Drill",
 		"SolarFlareRay": "Solar Flare",
 		"SolarWhipSword": "Solar Eruption",
-		"SolarWhipSwordExplosion": "Solar Eruption",
+		"SolarWhipSwordExplosion": "Solar Explosion",
 		"SoulDrain": "Soul Drain",
 		"SoulscourgePirate": "Soulscourge Pirate",
 		"Spark": "Spark",
@@ -879,5 +879,9 @@
 		"FlamingMace": "Flaming Mace",
 		"StardustPunch": "Stardust Guardian",
 		"TorchGod": "The Torch God",
+		"PrincessWeapon": "Royal Resonance",
+		"FlinxMinion": "Flinx",
+		"DaybreakExplosion": "Solar Explosion",
+		"BoneWhip": "Spinal Tap",
 	}
 }
