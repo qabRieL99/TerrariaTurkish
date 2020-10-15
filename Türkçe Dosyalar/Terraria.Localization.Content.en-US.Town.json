@@ -412,7 +412,7 @@
 		"Chatter_8": "When I offer you to go clubbing, I don't mean downtown. I mean like, with a five iron?",
 		"Chatter_9": "In this game, only losers go for that high score.",
 		"Chatter_10": "Landscapers must make a lot of green off us golfers. Heh!",
-		"Chatter_11": "{Armsdealer} has mistaken my golf balls as ammo for his musket on several occassions.",
+		"Chatter_11": "{Armsdealer} has mistaken my golf balls as ammo for his musket on several occasions.",
 		"Chatter_12": "According to {Dryad}, I'm murdering a lot of her friends when I mow the lawn. I gotta have a fairway for my course!",
 		"Chatter_13": "If you land on the green, use a putter! Don't let your balls go flying away when you're THAT close.",
 		"Chatter_14": "Don't go chasing water hazards, please stick to the fairways and greens that you're used to.",
@@ -656,7 +656,7 @@
 		"Graveyard1": "Ahh!! I'd rather be working at an abandoned hospital than hanging around here!",
 		"Graveyard2": "This place creeps me out, and I can't treat dead patients!",
 		"Windy1": "This breeze is really extra right now! Beware of flying needles.",
-		"Windy2": "I been chasing my medical instruments all day. This gale is keeping me fit!",
+		"Windy2": "I've been chasing my medical instruments all day. This gale is keeping me fit!",
 		"Storm1": "I do not perform shock therapy, just go stand outside under a tree!",
 		"Storm2": "Just stay inside! I've already treated too many electrocuted patients today.",
 		"Rain1": "If you stay out there too long, you'll catch a cold!",
@@ -674,7 +674,7 @@
 		"Rain2": "Flying fish? I call that target practice!"
 	},
 	"DryadSpecialText": {
-		"AfterDD2Tier1": "When I was in Etheria, I felt so disconnected from {WorldName}. Its good to be back.",
+		"AfterDD2Tier1": "When I was in Etheria, I felt so disconnected from {WorldName}. It's good to be back.",
 		"AfterDD2Tier2": "The Corruption tried to take me over when I went to Etheria, but instead, I used its power against the Old One's Army!",
 		"WorldStatusAll": "{0} is {1}% hallow, {2}% corrupt, and {3}% crimson.",
 		"WorldStatusHallowCorrupt": "{0} is {1}% hallow and {2}% corrupt.",
@@ -697,7 +697,7 @@
 		"Storm1": "Our mother is angry, and wishes to burn away the filth by raining destructive power on our treetops.",
 		"Storm2": "It is unwise to traverse openly beneath the flashing dangers from above.",
 		"Rain1": "The water from the sky is a way for nature to wash away the mud in our streams.",
-		"Rain2": "When it rains, many kind of fish acquire some mystical properties."
+		"Rain2": "When it rains, many kinds of fish acquire mystical properties."
 	},
 	"GuideSpecialText": {
 		"Party": "Never been to a party before? You might want to check around with the others. People sometimes bring out special party favors.",
@@ -944,7 +944,7 @@
     },
 	"GolferSpecialText": {
 		"FirstMeeting1": "Thank you for the rescue. If I were trapped out here any longer, I could have come down with a heat stroke!",
-		"FirstMeeting2": "Why, thank you! I been stuck in this sand pit for days. Good thing you can get water out of a cactus.",
+		"FirstMeeting2": "Why, thank you! I've been stuck in this sand pit for days. Good thing you can get water out of a cactus.",
 		"Party_1": "I'm having trouble concentrating on this swing because of the obnoxious party going on around me.",
 		"Party_2": "I hit a hole in one! That's a good reason for us all to celebrate. Time to put my club down and have a margarita.",
         "Graveyard1": "Graveyards creep me out. I don't like practicing my swings on top of my family and friends.",
@@ -1453,7 +1453,7 @@
 	"TownNPCMood_BestiaryGirl": {
 		"Content": "I'm feeling good, actually! Thanks for askin'!",
 		"NoHome": "Like, I can't just go live in a burrow, you know. I need a house!",
-		"FarFromHome": "I'm uh, like, a little homesick,? Plus I need to feed my pets!",
+		"FarFromHome": "I'm uh, like, a little homesick? Plus I need to feed my pets!",
 		"DislikeCrowded": "I get a little anxious around a lot of people. I like, don't want that.",
 		"HateCrowded": "Eek! I hate feeling worried about what will happen with all these people around!",
 		"LoveSpace": "I absolutely love having my own place to be myself! This is like, totally awesome!",
@@ -1482,6 +1482,7 @@
         "LoveNPC": "LOVE. STRONG... {NPCName}. Yeeyee!",
         "DislikeNPC": "{NPCName}.... VIBES. BAD! Grrl",
         "HateNPC": "Arghl! NO {NPCName}. HATE. FURY. DISGUST!!",
+		"LikeNPC_Princess": "{NPCName}... PINK. GOOD.",
 		},
 	"TownNPCMood_Princess": {
 		"Content": "All matters are well at hand, my loyal subject!",
@@ -1508,7 +1509,7 @@
 		"LoveNPC_Wizard": "{NPCName} is so wise, I trust his judgement completely!",
 		"LoveNPC_GoblinTinkerer": "{NPCName} makes just the niftiest gizmos!",
 		"LoveNPC_Mechanic": "{NPCName} can fix up just about anything, I admire her!",
-		"LoveNPC_Santa": "{NPCName} is so jolly, I just want to give him a gift!",
+		"LoveNPC_SantaClaus": "{NPCName} is so jolly, I just want to give him a gift!",
 		"LoveNPC_Truffle": "{NPCName} is a really fun guy!",
 		"LoveNPC_Steampunker": "{NPCName} is my favorite tea time partner!",
 		"LoveNPC_DyeTrader": "{NPCName} always helps me choose the best color dresses!",
