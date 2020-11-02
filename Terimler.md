@@ -16,7 +16,7 @@
 |--|--|
 |Brain of Cthulhu|Cthulhu'nun Beyni|
 |Duke Fishron|Dük Balıkejder|
-|Eater of the Worlds|Cihan Yeyici|
+|Eater of the Worlds|Cihan Yiyici|
 |Empress of Light|Işık İmparatoriçesi|
 |Lunatic Cultist|Aysal Tarikatçı|
 |Moon Lord|Ay Efendisi|
