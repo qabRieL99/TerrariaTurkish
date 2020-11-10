@@ -457,29 +457,29 @@
 		"Chatter_17": "{?!Day}Geceleri yıldızlar bana güzel, siyah bir elbisenin üzerindeki ışıltıyı hatırlatıyor. Yakında bir tane yaptıracağım!"
 	},
 	"CatChatter": {
-		"Chatter_1": "Meow!",
+		"Chatter_1": "Miyav!",
 		"Chatter_2": "Purr...",
-		"Chatter_3": "Merrooow!"
+		"Chatter_3": "Miyyyav!"
 	},
 	"DogChatter": {
-		"Chatter_1": "Woof!",
-		"Chatter_2": "Bark!",
-		"Chatter_3": "Woof woof!"
+		"Chatter_1": "Hav!",
+		"Chatter_2": "Havvuuu!",
+		"Chatter_3": "Hav hav!"
 	},
 	"BunnyChatter": {
-		"Chatter_1": "*Rabbit noises*",
-		"Chatter_2": "*Bunny noises*"
+		"Chatter_1": "*Tavşan sesleri*",
+		"Chatter_2": "*Tavşan sesleri*"
 	},
 	"BestiaryGirlSpecialText": {
-		"Party": "So, uh, I can't wear the hat. Sorry. I'm still here for the party, no worries!",
-		"Graveyard1": "My instincts are totally going wild. I really need to get out of here!",
-		"Graveyard2": "Ok, like, this place is totally freaky. It makes my fur stand on end!",
-		"Windy1": "Running in the wind makes me feel so free and wild. Totes try it sometime!",
-		"Windy2": "The breeze blows through my hair, it's, like, woah.",
-		"Storm1": "Eek!! You have NO idea how much thunder hurts my sensitive ears.",
-		"Storm2": "Is it over yet? I have this, like, irrational fear of thunderstorms.",
-		"Rain1": "Staaaap! Ugh! Not you, this lame rain.",
-		"Rain2": "For real!? I can't STAND being wet! It's gross."
+		"Party": "Yani şey, şapkayı takamam. Afedersin. Parti için hâlâ buradayım ama, endişelenme!",
+		"Graveyard1": "İçgüdülerim tamamen çılgına dönüyor. Gerçekten buradan çıkmam gerekiyor!",
+		"Graveyard2": "Tamam, burası kesinlikle acayip. Kürkümü diken diken ediyor!",
+		"Windy1": "Rüzgarda koşmak beni çok özgür ve vahşi hissettiriyor. Kesinlikle bir ara dene!",
+		"Windy2": "Rüzgar saçlarımda esiyor, insana vay be dedirtiyor.",
+		"Storm1": "Ciyak! Gök gürültüsünün hassas kulaklarımı ne kadar incittiğini bilemezsin.",
+		"Storm2": "Henüz bitmedi mi? Bende bir mantıksız fırtına korkusu var da.",
+		"Rain1": "Dur artık! Ah! Sana değil, yağmura diyorum.",
+		"Rain2": "Harbiden mi ya?! Islanmaya dayanamıyorum! İğrenç."
 	},
 	"BartenderHelpText": {
 		"Help_1": "The first thing you need to know about are the special defensive artifacts I've got for sale, but only if you've got some Defender Medals!",
