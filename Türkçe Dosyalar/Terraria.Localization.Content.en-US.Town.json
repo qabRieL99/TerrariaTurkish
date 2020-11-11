@@ -482,21 +482,21 @@
 		"Rain2": "Harbiden mi ya?! Islanmaya dayanamıyorum! İğrenç."
 	},
 	"BartenderHelpText": {
-		"Help_1": "The first thing you need to know about are the special defensive artifacts I've got for sale, but only if you've got some Defender Medals!",
-		"Help_2": "You can use these artifacts to create traps and defensive towers. Doing so consumes Etherian mana, a special energy dropped only by members of the Old One's Army!",
-		"Help_3": "Challenging the Old One's Army is rather simple. They are attracted to the power of the Eternia Crystals, and that can be used to bait them out.",
-		"Help_4": "To place an Eternia Crystal, you must obtain an Eternia Crystal and a stand to put it in. It just so happens, you can buy em from me!",
-		"Help_5": "You'll want to place your Eternia Crystal stand in a pretty open, flat area. Lots of walls and stuff might make it pretty difficult to protect!",
-		"Help_6": "Once your stand is set up, just interact with it while holding an Eternia Crystal, and prepare for a fight!",
-		"Help_7": "Of course, you can't let the Old One's Army destroy the Eternia Crystal! This will have catastrophic consequences for my home world of Etheria!",
-		"Help_8": "You can place defenses at the cost of 10 Etherian mana. Once placed, the Eternia Crystal will release some of this mana. Otherwise, you will need to defeat enemies to get more.",
-		"Help_9": "With the help of the defenses, you will have to repel several waves of invaders who are attempting to destroy both you and the Eternia Crystal!",
-		"Help_10": "If you successfully repel the invasion, you'll be awarded with more Defender Medals, which you can bring to me to purchase more artifacts and some other special rewards!",
-		"Help_11": "I've also heard rumors that the power of the artifacts themselves may be further unlocked if you defeat the Old One's Army. Perhaps you could even use them any time you wish!"
+		"Help_1": "Bilmen gereken ilk şey, satışa çıkardığım özel savunma eserleridir, ancak yalnızca bazı Savunma Madalyaların varsa öğrenebilirsin!",
+		"Help_2": "Bu eserleri tuzaklar ve savunma kuleleri oluşturmak için kullanabilirsin. Bunu yapmak, yalnızca Kadim'in Ordusu üyeleri tarafından düşürülen özel bir enerji olan Etheria sihri tüketir!",
+		"Help_3": "Kadim'in Ordusu'na meydan okumak oldukça basit. Eternia Billurları'nın gücüne çekilirler ve bu onları tuzağa düşürmek için kullanılabilir.",
+		"Help_4": "Bir Eternia Billuru yerleştirmek için, bir Eternia Billuru ve onu yerleştirmek için bir ayak almalısın. Şansa bak ki, onları benden satın alabilirsin!",
+		"Help_5": "Eternia Billuru standını oldukça açık, düz bir alana yerleştirmen mantıklı olacaktır. Çok sayıda duvar ve malzeme, korumayı oldukça zorlaştırabilir!",
+		"Help_6": "Standın kurulduktan sonra, bir Eternia Billuru tutarken onunla etkileşime geç ve dövüşe hazırlan!",
+		"Help_7": "Elbette, Kadim'in Ordusu'nun Eternia Billuru'nu yok etmesine izin veremezsin! Bunun, benim Etheria dünyam için felaket sonuçları olur!",
+		"Help_8": "10 Etheria sihri pahasına savunma yerleştirebilirsin. Eternia Billuru yerleştirildikten sonra bu sihrin bir kısmını serbest bırakılır. Aksi takdirde, daha fazlasını elde etmek için düşmanları yenmen gerekecektir.",
+		"Help_9": "Savunmanın yardımıyla, hem seni hem de Eternia Billuru'nu yok etmeye çalışan birkaç istilacı dalgasını püskürtmen gerekecek!",
+		"Help_10": "İstilayı başarılı bir şekilde geri püskürtürsen, daha fazla eser ve diğer bazı özel ödüller satın almak için bana getirebileceğin daha fazla Savunma Madalyası ile ödüllendirileceksin!",
+		"Help_11": "Ayrıca, Kadim'in Ordusu'nu yenersen, eserlerin gücünün daha fazla açılabileceğine dair söylentiler de duydum. Belki de onları dilediğiniz zaman kullanabilirsin!"
 	},
 	"GuideHelpText": {
-		"Help_1063": "Normally I'd try to teach you all about the Old One's Army, but you should probably ask {Bartender} about that.",
-		"Help_1064": "When the moon goes red, the water becomes like blood. Creatures submerged within may become grotesque and malicious."
+		"Help_1063": "Normalde sana Kadim'in Ordusu hakkında her şeyi öğretmeye çalışırdım, ama muhtemelen bunu {Bartender}'a sormalısın.",
+		"Help_1064": "Ay kırmızıya döndüğünde su kan gibi olur. İçine batmış yaratıklar acayip ve kötü niyetli olabilir."
 	},
 
 	"GuideHelpTextSpecific": {
