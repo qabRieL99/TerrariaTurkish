@@ -3,7 +3,7 @@
 
 ![enter image description here](https://terraria.org/assets/logo-203e9bcd9af6ac8193d8b185aa64b8c8.png)
 
-Terraria için gerçekleştirilen bir çeviri çalışmasıdır. An itibari ile oyunun güncel sürümü: `1.4.1.1` 
+Terraria için gerçekleştirilen bir çeviri çalışmasıdır. An itibari ile oyunun güncel sürümü: `1.4.1.2` 
 
 Yardım için buradan veya [DonanımHaber](https://forum.donanimhaber.com/profil/794792#!/) ya da [Steam](https://steamcommunity.com/id/qabriel99) profilim üzerinden iletişime geçebilirsiniz.
 
