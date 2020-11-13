@@ -607,38 +607,38 @@
 		"Quest_ScorpioFish": "Eminim biri, gerçekten aptal biri, çölde su olmadığını söylemeye çalışmıştır! Kesinlikle ve kesinlikle yanılıyorlardı! Vaha denen bir şey var ve içinde su var! Tahmin et, suyun olduğunda ne olur?! Doğru, balığın olur! Seni sokmaya çalışan ve seni çimdiklemeye çalışan ve sana her türlü kötü şeyi yapan tuhaf balıklar! Benim için mükemmel bir evcil hayvan ve senin için de mükemmel bir iş!\n\n(Çöl'de bulunur)"
 	},
 	"PirateChatter": {
-		"Chatter_1": "About time we gotta barkeep around here! Me rum was almost gone!"
+		"Chatter_1": "Buraya bir barmen almanın vakti gelmişti! Romum neredeyse bitmişti!"
 	},
 	"GuideChatter": {
-		"Chatter_1": "I thought you said you purified {TaxCollector}? He's just as greedy as ever!",
-		"Chatter_2": "I wonder why my predecessor spontaneously burst into flames. Hopefully it doesn't happen to me..."
+		"Chatter_1": "{TaxCollector}'ı saflaştırdığını söylediğini sanıyordum. Her zamanki gibi açgözlü!",
+		"Chatter_2": "Acaba benden öncekini neden bir anda alev topuna dönüştü. Umarım benim başıma gelmez..."
 	},
 	"NurseChatter": {
-		"Chatter_1": "I keep asking for wine, but all {Bartender} gives me are mugs of ale."
+		"Chatter_1": "Şarap isteyip duruyorum, ama {Bartender}'in bana verdiği tek şey bira."
 	},
 	"StylistChatter": {
-		"Chatter_1": "I offered {Bartender} a free trim, but he refused. I mean, I could have at least worked on his mustache!"
+		"Chatter_1": "{Bartender}'a ücretsiz bir traş teklif ettim, ama o reddetti. Demek istediğim, en azından bıyığı üzerinde çalışabilirdim!"
 	},
 	"CyborgChatter": {
-		"Chatter_1": "{Bartender} said I reminded him of a certain \"EV2\". Perhaps I should meet her."
+		"Chatter_1": "{Bartender} bana tanıdığı bir \"EV2\" hatırlattığımı söyledi. Belki onunla tanışmalıyım."
 	},
 	"MechanicChatter": {
-		"Chatter_1": "{Bartender} offered me a Root Beer, I told him to give it to me in a square cup."
+		"Chatter_1": "{Bartender} bana bir Kök Birası teklif etti, ona kare bir bardakta vermesini söyledim."
 	},
 	"AnglerChatter": {
-		"Chatter_1": "How come {Bartender} won't sell me any ale? I want to try some! What a grouch!",
-		"Chatter_2": "Whaaaat?! Can't you see I'm winding up fishing line??",
-		"Chatter_3": "I have enough fish! I don't need your help right now!",
-		"Chatter_4": "There's no chefs in all of {WorldName}, so I have to cook all this fish myself! ",
-		"Chatter_5": "Hey! Watch it! I'm setting up traps for my biggest prank ever! No one will see it coming! Don't you dare tell anyone!",
-		"Chatter_6": "Let a kid give you some advice, never touch your tongue to an ice block! Wait, forget what I said, I totally want to see you do it!",
-		"Chatter_7": "Ever heard of a barking fish?! I haven't, I'm just wondering if you did!",
-		"Chatter_8": "{WorldName} is filled to the brim with the most outlandish kinds of fish!",
-		"Chatter_9": "I'm bummed out! There's probably been fish that have gone extinct before I even was born, and that's not fair!",
-		"Chatter_10": "I don't have a mommy or a daddy, but I have a lot of fish! It's close enough!"
+		"Chatter_1": "Nasıl olur da {Bartender} bana bira satmaz? Ben biraz denemek istiyorum! Ne huysuz ama!",
+		"Chatter_2": "Ne?! Oltayı topladığımı görmüyor musun?",
+		"Chatter_3": "Yeterince balığım var! Şu anda yardımına ihtiyacım yok!",
+		"Chatter_4": "{WorldName}'de hiç şef yok, bu yüzden tüm bu balıkları kendim pişirmem gerekiyor!",
+		"Chatter_5": "Hey! Dikkat et! Şimdiye kadarki en büyük şakam için tuzaklar kuruyorum! Kimse farkına varmayacak! Kimseye söylemeyesin sakın",
+		"Chatter_6": "Şu çocuk sana bi' tavsiye versin, dilini asla bir buz bloğuna değdirme! Bekle, söylediğimi unut, bunu yaptığını kesinlikle görmek istiyorum!",
+		"Chatter_7": "Hiç havlayan balık duydun mu ?! Ben duymadım, sen duydun mu diye merak ettim!",
+		"Chatter_8": "{WorldName} ağzına kadar en tuhaf balık türleriyle dolu!",
+		"Chatter_9": "Moralim bozuldu! Muhtemelen ben doğmadan önce nesli tükenmiş balıklar olmuştur ve bu hiç adil değil!",
+		"Chatter_10": "Annem veya babam yok ama çok balığım var! İş görür!"
 	},
 	"GoblinTinkererChatter": {
-		"Chatter_1": "You know, these Etherian Goblins are nothing like my people. Really rowdy bunch. Not that my people are much better..."
+		"Chatter_1": "Biliyor musun, bu Etherialı Cincüceler benim halkıma hiç benzemiyor. Gerçekten kabadayı bir grup. Benim halkım da çok iyi değil de neyse..."
 	},
 	"MerchantSpecialText": {
 		"Party": "You know what would be the best way to party? Buying things for others, specifically from me.",
