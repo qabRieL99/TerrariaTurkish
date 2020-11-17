@@ -943,75 +943,75 @@
 		"Rain2": "Buraya girmeden önce ayaklarınızı sil, zemin yeni cilalanmıştı!"
     },
 	"GolferSpecialText": {
-		"FirstMeeting1": "Thank you for the rescue. If I were trapped out here any longer, I could have come down with a heat stroke!",
-		"FirstMeeting2": "Why, thank you! I've been stuck in this sand pit for days. Good thing you can get water out of a cactus.",
-		"Party_1": "I'm having trouble concentrating on this swing because of the obnoxious party going on around me.",
-		"Party_2": "I hit a hole in one! That's a good reason for us all to celebrate. Time to put my club down and have a margarita.",
-        "Graveyard1": "Graveyards creep me out. I don't like practicing my swings on top of my family and friends.",
-        "Graveyard2": "Don't play golf in a cemetery. The grass grows too efficiently and makes the entire course rough.",
-		"Windy1": "This wind makes for a very difficult course.",
-		"Windy2": "A strong gale adds challenge to a game of golf, but this is rather excessive.",
-		"Storm1": "I don't think so, {PlayerName}.",
-		"Storm2": "The odds of being struck by lightning are the same as the lottery. Going outside swinging an iron is a winning ticket!",
-		"Rain1": "Golfing in the rain is less fun. Everything is all slippery!",
-		"Rain2": "Water hazards are a lot larger when it rains, making it that much harder to reach the green!"
+		"FirstMeeting1": "Kurtardığın için teşekkürler. Daha fazla burada mahsur kalsaydım, sıcak çarpması yüzünden ölebilirdim!",
+		"FirstMeeting2": "Teşekkür ederim! Bu kum çukurunda günlerdir sıkışıp kalmıştım. İyi ki bir kaktüsün içinden su çıkarabiliyorsun.",
+		"Party_1": "Çevremdeki iğrenç parti yüzünden bu vuruşa konsantre olmakta güçlük çekiyorum.",
+		"Party_2": "Tek seferde deliğe soktum! Bu, hepimizin kutlaması için iyi bir neden. Sopamı bırakma ve margarita içme zamanı.",
+        "Graveyard1": "Mezarlıklar beni korkutuyor. Vuruşlarımı ailemin ve arkadaşlarımın üzerinde çalışmayı sevmiyorum.",
+        "Graveyard2": "Mezarlıkta golf oynama. Çim çok verimli büyür ve tüm parkuru sertleştirir.",
+		"Windy1": "Bu rüzgar çok zor bir saha sağlar.",
+		"Windy2": "Güçlü bir fırtına, bir golf oyununa zorluk katar, ancak şimdiki oldukça fazla.",
+		"Storm1": "Sanmıyorum, {PlayerName}.",
+		"Storm2": "Yıldırım çarpma ihtimali piyango ile aynıdır. Demir sopa sallarken dışarı çıkmak, kazanması garanti bir bilettir!",
+		"Rain1": "Yağmurda golf oynamak daha az eğlencelidir. Her şey kaygan!",
+		"Rain2": "Yağmur yağdığında su tehlikeleri çok daha büyüktür, bu da yeşile ulaşmayı çok daha zor hale getirir!"
     },
 	"PrincessSpecialText": {
-		"Party": "A party? Like.. a festival? I LOVE FESTIVALS! So much pink! So much glitter! It's so cheerful!!",
-		"Graveyard1": "Um... it's kind of scary out there. I better have some tea.",
-		"Graveyard2": "What was that noise? Hm, perhaps I shouldn't worry so!",
-		"Windy1": "Oops! I better hold on to my tiara, it's rather blustery out today!",
-		"Windy2": "It surely is a swell day to fly a kite, don't you agree?",
-		"Storm1": "Um... the storms outside sound pretty intense. I do appreciate the chaos.",
-		"Storm2": "Do be careful if traveling outside, it's storming quite hard!",
-		"Rain1": "There's something about the rain that makes me feel so calm.",
-		"Rain2": "I love it when it rains. It's soothing."
+		"Party": "Bir parti mi? Festival gibi mi? FESTİVALLERİ SEVİYORUM! Çok fazla pembe! Çok fazla parıltı! Çok neşeli!",
+		"Graveyard1": "Şey... dışarısı biraz korkutucu. Biraz çay alsam iyi olacak.",
+		"Graveyard2": "O ses neydi? Hım, belki de endişelenmemeliyim!",
+		"Windy1": "Ups! Tacıma sarılsam iyi olur, bugün bayağı bir cümbüş burası!",
+		"Windy2": "Uçurtma uçurmak için kesinlikle harika bir gün, öyle değil mi?",
+		"Storm1": "Dışarıdaki fırtınalar oldukça şiddetli. Kaos hoşuma gidiyor.",
+		"Storm2": "Dışarıda seyahat ederken dikkatli ol, oldukça sert fırtınalı!",
+		"Rain1": "Yağmurla ilgili bir şey beni çok sakinleştiriyor.",
+		"Rain2": "Yağmur yağmasını seviyorum. Sakinleştirici."
 	},
 	"SantaSpecialText": {
-		"Party": "Come now, you didn't think I only celebrated on Christmas did you?",
-		"Graveyard1": "Ho ho ho! Wait, look at this place... did I come two months too early!?",
-        "Graveyard2": "Naughty or Nice? Hm, how unusual... the people here have all been crossed off my list for some time now.",
-		"Windy1": "Ho ho! My reindeer will fly at mach speeds, tonight!",
-		"Storm1": "Oh ho... whoah! There goes Dasher. There went Donner, too!",
-		"Rain1": "Got a torch? If so, won't you guide my sleigh tonight?!"
+		"Party": "Hadi ama, sadece Noel'de kutlama yaptığımı düşünmedin, değil mi?",
+		"Graveyard1": "Ho ho ho! Bekle, şu mekana bak... iki ay erken mi geldim?!",
+        "Graveyard2": "Yaramaz mı, Uslu mu? Hım, ne kadar sıradışı... buradaki insanların hepsi bir süredir listemden çıkmış durumda.",
+		"Windy1": "Ho ho! Ren geyiklerim bu gece ışık hızlarında uçacak!",
+		"Storm1": "Oh ho... oha be! Dasher gitti. Donner da gitti!",
+		"Rain1": "Bir meşalen var mı? Öyleyse, bu gece kızağıma rehberlik etmez misin acaba?!"
 	},
 	"TravellingMerchantSpecialText": {
-		"Party": "Many say that parties give you the richest of memories. So buy something and make this memory rich!",
-		"Graveyard1": "Whew! Look at my many wares! I totally did NOT take them off the dead buried here, to sell to you.",
-        "Graveyard2": "In my travels, I've never run across anyone living in a dismal place like this! Ah, well, as long as you have coin...",
-		"Windy1": "I go where winds take me, but this is ridiculous!",
-		"Windy2": "I would sell you exotic wind socks, but I'm afraid I forgot to stock them!",
-		"Storm1": "Hurry up and buy!",
-		"Storm2": "Whew! That was close! Brick and mortar sounds like a pretty good investment right now.",
-		"Rain1": "Rain or blue skies, I come from afar to serve you! Do you have some coin?",
-		"Rain2": "If my exotic coat shrinks, I will be a tad upset!"
+		"Party": "Birçoğu, partilerin sana en zengin anıları verdiğini söyler. Öyleyse bir şeyler satın al ve bu anıyı zenginleştir!",
+		"Graveyard1": "Vay canına! Mallarıma bir bak! Onları kesinlikle sana satmak için burada gömülü ölülerden çıkarmadım.",
+        "Graveyard2": "Seyahatlerimde böyle kasvetli bir yerde yaşayan birine hiç rastlamadım! Eh, paran olduğu sürece...",
+		"Windy1": "Rüzgarın beni götürdüğü yere giderim ama bu çok saçma!",
+		"Windy2": "Sana egzotik rüzgar çorapları satardım, ama korkarım onları stoklamayı unuttum!",
+		"Storm1": "Acele et ve satın al!",
+		"Storm2": "Vay canına! Bu yakındı! Tuğla ve harç şu anda oldukça iyi bir yatırım gibi geliyor.",
+		"Rain1": "Yağmurlu da olsa açık da olsa, sana hizmet etmek için uzaklardan geliyorum! Biraz sikken var mı?",
+		"Rain2": "Egzotik ceketim küçülürse biraz üzülürüm!"
 	},
 	"SkeletonMerchantSpecialText": {
-	    "Graveyard1": "As much as you would think I'd belong here, I really don't.",
-        "Graveyard2": "How did I get here!? These are not my friends!",
-		"Windy1": "The world above is turbulent and chaotic. I like my bones to stay attached, as it were!",
-		"Storm1": "The surface is overabundant with destructive weather. Singed bones would be bad for my complexion!",
-		"Rain1": "Up there? Heard it's pretty wet. Don't want my bones getting soggy and mushy..."
+	    "Graveyard1": "Her ne kadar buraya ait olduğumu düşünsen de, aslında değilim.",
+        "Graveyard2": "Buraya nasıl geldim?! Bunlar benim arkadaşlarım değil!",
+		"Windy1": "Yukarıdaki dünya çalkantılı ve düzensiz. Kemiklerimin olduğu gibi bağlı kalmasını seviyorum!",
+		"Storm1": "Yüzey, yıkıcı hava koşullarıyla doludur. Nemli kemikler ten rengime zarar verir!",
+		"Rain1": "Yukarısı mı? Oldukça ıslak olduğunu duydum. Kemiklerimin sırılsıklam ve peltemsi olmasını istemiyorum..."
 	},
 	"GolferQuestsChatterMaster": {
-		"1": "You are a God walking among mere mortals! A spectacular golfer!",
-		"2": "If I had a trophy to give for your amazing swings, I'd give you ten!",
-		"3": "What a breathtaking golfer! You may be at the top, but never stop reaching for it!"
+		"1": "Ölümlüler arasında yürüyen bir Tanrısın! Muhteşem bir golfçüsün!",
+		"2": "Harika vuruşların için vereceğim bir ödülüm olsaydı, sana on tane verirdim!",
+		"3": "Ne nefes kesici bir golfçü! Zirvede olabilirsin ama asla ona ulaşmayı bırakma!"
 	},
 	"GolferQuestsChatterJourneyman": {
-		"1": "I'm impressed. Statistically, you are a wedge above the rest!",
-		"2": "You're doing a good job out there! Should I be worried?",
-		"3": "Your courses are well below par. That's a good thing!"
+		"1": "Etkilendim. İstatistiksel olarak, diğerlerinin üzerinde bir sopasın!",
+		"2": "Orada iyi bir iş çıkarıyorsun! Endişelenmeli miyim?",
+		"3": "Atışların ortalamanın çok altında. Bu iyi bir şey!"
 	},
 	"GolferQuestsChatterApprentice": {
-		"1": "You're getting better! I am not fearing for my life anymore.",
-		"2": "Those are rather mediocre swings. Almost par for the course, if I must say.",
-		"3": "Not quite champion level, but you'll do."
+		"1": "Daha iyi oluyorsun! Artık hayatım için korkmuyorum.",
+		"2": "Bunlar oldukça vasat vuruşlar. Söylemem gerekirse, neredeyse ortalama.",
+		"3": "Tam olarak şampiyon seviyesi değil ama başaracaksın."
 	},
 	"GolferQuestsChatterBeginner": {
-		"1": "If you keep swinging like that, you'll end up hurting someone... or yourself!",
-		"2": "You're going to need a lot of practice, I strongly recommend padding.",
-		"3": "That poor bird. Duck is tasty, however, so don't give up!"
+		"1": "Bu şekilde sallamaya devam edersen, birisine ya da kendine zarar vereceksin!",
+		"2": "Çok fazla pratiğe ihtiyacın olacak, dolgu yapmayı şiddetle tavsiye ederim.",
+		"3": "Zavallı kuş. Ancak ördek lezzetli, bu yüzden pes etme!"
 	},
 	"TownNPCMoodBiomes": {
 		"Forest": "the Forest",
