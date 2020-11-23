@@ -136,8 +136,8 @@
 		"DisplaySeed": "Dünya Tohumu: {0}",
 		"SetInitialMaxPlayers": "Azami oyuncu (16 için enter tuşuna bas): ",
 		"ServerIsFull": "Bu sunucu şu anda dolu, lütfen daha sonra tekrar dene.",
-		"WorldNameLengthTooLong": "The world name entered is too long! (Max characters: {0})",
-		"SeedLengthTooLong": "The seed entered is too long! (Max characters: {0})",
+		"WorldNameLengthTooLong": "Girilen dünya adı çok uzun! (Azami karakter: {0})",
+		"SeedLengthTooLong": "Girilen tohum çok uzun! (Azami karakter: {0})",
 	},
 	"UI": {
 		"Effects": "Etkiler",
@@ -268,7 +268,7 @@
 		"OffsetTexturePackPriorityUp": "İleriye Taşı",
 		"OffsetTexturePackPriorityDown": "Geriye Taşı",
 		"EnableTexturePack": "Etkinleştir",
-		"DisableTexturePack": "Etkisizleştir",
+		"DisableTexturePack": "Devre Dışı Bırak",
 		"SeeTexturePackInfo": "Paket Bilgisini Görüntüle",
 		"PlayerIsNotCreativeAndWorldIsCreative": "Yalnızca Macera karakterleri bir Macera dünyasına giriş yapabilir.",
 		"PlayerIsCreativeAndWorldIsNotCreative": "Yalnızca Macera olmayan karakterler bir Macera olmayan dünyaya giriş yapabilir.",
@@ -278,7 +278,7 @@
 		"ToggleCreativeMenu": "Macera Güçleri'ni Aç/Kapat",
 		"WorldCannotBeLoadedBecauseItHasAnInvalidGameMode": "Hata: Bu dünyada geçersiz bir veri var!",
 		"WorldGenEasterEgg_GeneratingBees": "Arılar üretiliyor",
-		"Credits": "Credits",
+		"Credits": "Yapımcılar",
 	},
 	"Net": {
 		"ClientStatusComplete": "({0}) {1} {2}: Tamamlandı!",
@@ -399,7 +399,7 @@
 		"QualityLow": "Düşük",
 		"QualityOff": "Kapalı",
 
-		"GameZoom": "Yakınlaştırma: {0}% ({1}%)",
+		"GameZoom": "Ölçek: {0}% ({1}%)",
 		"UIScale": "Arayüz: {0}% ({1}%)",
 		"ZoomCategory": "Yakınlaştırma",
 		"Misc": "Çeşitli",
@@ -574,8 +574,8 @@
 		"LicenseCatUsed": "Ruhsat, kedi teslimat servisine ışınlanıyor...",
 		"LicenseDogUsed": "Ruhsat, köpek teslimat servisine ışınlanıyor ...",
 		"LicenseBunnyUsed": "Ruhsat, tavşan teslimat servisine ışınlanıyor...",
-		"Ebonstone": "Ebonstone",
-		"Crimstone": "Crimstone"
+		"Ebonstone": "Karataş",
+		"Crimstone": "Kızıltaş"
 	},
 	"Currency": {
 		"Platinum": "Platin",
@@ -781,36 +781,36 @@
 		"INDEPENDENCE_DAY_Description": "Marslı istilacıların lideri olan bir Ana Gemi'yi yen.",
 		"HEX_EDUCATION_Name": "Hex Eğitimi",
 		"HEX_EDUCATION_Description": "En karanlık alevlerin sihirbazı olan bir Cincüce Çağırıcı'sını yen.",
-				"DEFEAT_EMPRESS_OF_LIGHT_Name": "Fae Flayer",
-		"DEFEAT_EMPRESS_OF_LIGHT_Description": "Defeat the Empress of Light, responsible for all those flashy lights and glitter.",
-		"DEFEAT_QUEEN_SLIME_Name": "Just Desserts",
-		"DEFEAT_QUEEN_SLIME_Description": "Defeat Queen Slime, giving the coup-de-grace to the sovereign of all that jiggles.",
-		"DEFEAT_DREADNAUTILUS_Name": "Don't Dread on Me",
-		"DEFEAT_DREADNAUTILUS_Description": "Defeat the Dreadnautilus, murderous mollusk lurking beneath the surface of the sanguine seas.",
-		"DEFEAT_OLD_ONES_ARMY_TIER3_Name": "Hero of Etheria",
-		"DEFEAT_OLD_ONES_ARMY_TIER3_Description": "Repel the strongest forces the Old One's Army can muster.",
-		"GET_ZENITH_Name": "Infinity +1 Sword",
-		"GET_ZENITH_Description": "Obtain the Zenith, the culmination of a journey forged into the ultimate sword.",
-		"GET_TERRASPARK_BOOTS_Name": "Boots of the Hero",
-		"GET_TERRASPARK_BOOTS_Description": "Obtain the Terraspark Boots, forged from the finest boots of fire and ice.",									
-		"FLY_A_KITE_ON_A_WINDY_DAY_Name": "A Rather Blustery Day",
-		"FLY_A_KITE_ON_A_WINDY_DAY_Description": "Fly a kite on a windy day.",
-		"FOUND_GRAVEYARD_Name": "Quiet Neighborhood",
-		"FOUND_GRAVEYARD_Description": "Enter a misty graveyard filled with the surly dead.",
-		"GO_LAVA_FISHING_Name": "Hot Reels!",
-		"GO_LAVA_FISHING_Description": "Drop a lure in a pool of lava for a pre-fried haul!",
-		"TURN_GNOME_TO_STATUE_Name": "Heliophobia",
-		"TURN_GNOME_TO_STATUE_Description": "Trick a gnome into turning into stone!",
-		"TALK_TO_NPC_AT_MAX_HAPPINESS_Name": "Leading Landlord",
-		"TALK_TO_NPC_AT_MAX_HAPPINESS_Description": "Meet with a tenant who's as happy as they possibly can be!",
-		"PET_THE_PET_Name": "Feeling Petty",
-		"PET_THE_PET_Description": "Deliver headpats to the town pet.",
-		"FIND_A_FAIRY_Name": "Hey! Listen!",
-		"FIND_A_FAIRY_Description": "Encounter a fairy.",
-		"THROW_A_PARTY_Name": "Jolly Jamboree",
-		"THROW_A_PARTY_Description": "What you're celebrating doesn't matter, just throw a party already!",
-		"DIE_TO_DEAD_MANS_CHEST_Name": "Dead Men Tell No Tales",
-		"DIE_TO_DEAD_MANS_CHEST_Description": "You were so preoccupied with whether or not you could open the chest that you didn't stop to think if you should."
+		"DEFEAT_EMPRESS_OF_LIGHT_Name": "Peri Uçuşu",
+		"DEFEAT_EMPRESS_OF_LIGHT_Description": "Tüm bu parlak ışıklardan ve parıltılardan sorumlu olan Işık İmparatoriçesi'ni alt et.",
+		"DEFEAT_QUEEN_SLIME_Name": "Sadece Tatlılar",
+		"DEFEAT_QUEEN_SLIME_Description": "Kraliçe Balçık'ı yen ve tüm bu sarsıntıların hükümdarına darbe indir.",
+		"DEFEAT_DREADNAUTILUS_Name": "Benden Korkma",
+		"DEFEAT_DREADNAUTILUS_Description": "Kanlı denizlerin yüzeyinin altında gizlenen cani yumuşakça Korkunç Notilus'u yen.",
+		"DEFEAT_OLD_ONES_ARMY_TIER3_Name": "Etheria Kahramanı",
+		"DEFEAT_OLD_ONES_ARMY_TIER3_Description": "Kadim'in Ordusu'nun toplayabileceği en güçlü güçleri püskürt.",
+		"GET_ZENITH_Name": "Sonsuzluk +1 Kılıç",
+		"GET_ZENITH_Description": "Nihai kılıca dönüştürülmüş bir yolculuğun doruk noktası olan Zenith'i edin.",
+		"GET_TERRASPARK_BOOTS_Name": "Kahramanın Çizmeleri",
+		"GET_TERRASPARK_BOOTS_Description": "En iyi ateş ve buz botlarından dövülmüş Terrakıvılcım Ayakkabıları edin.",									
+		"FLY_A_KITE_ON_A_WINDY_DAY_Name": "Oldukça Rüzgarlı Bir Gün",
+		"FLY_A_KITE_ON_A_WINDY_DAY_Description": "Rüzgarlı bir günde uçurtma uçur.",
+		"FOUND_GRAVEYARD_Name": "Sessiz Mahalle",
+		"FOUND_GRAVEYARD_Description": "Somurtkan ölülerle dolu puslu bir mezarlığa gir.",
+		"GO_LAVA_FISHING_Name": "Sıcak Makaralar!",
+		"GO_LAVA_FISHING_Description": "Önceden kızartılmış bir taşıma için lav havuzuna bir yem at!",
+		"TURN_GNOME_TO_STATUE_Name": "Güneş Korkusu",
+		"TURN_GNOME_TO_STATUE_Description": "Bir cüceyi kandırarak taşa çevir!",
+		"TALK_TO_NPC_AT_MAX_HAPPINESS_Name": "Lider Ev Sahibi",
+		"TALK_TO_NPC_AT_MAX_HAPPINESS_Description": "Olabilecekleri kadar mutlu olan bir kiracı ile tanış!",
+		"PET_THE_PET_Name": "Önemsiz Hissetmek",
+		"PET_THE_PET_Description": "Kasabanın evcil hayvanına sevgi teslim et.",
+		"FIND_A_FAIRY_Name": "Hey! Dinle!",
+		"FIND_A_FAIRY_Description": "Bir peri ile karşılaş.",
+		"THROW_A_PARTY_Name": "Neşeli Cümbüş",
+		"THROW_A_PARTY_Description": "Neyi kutladığın önemli değil, bir parti ver yeter!",
+		"DIE_TO_DEAD_MANS_CHEST_Name": "Ölüler Masal Anlatmaz",
+		"DIE_TO_DEAD_MANS_CHEST_Description": "Sandığı açıp açamayacağınla o kadar meşguldün ki, açman gerekip gerekmediğini düşünmek için durmadın."
 	},
 	"DungeonDefenders2": {
 		"InvasionStart": "Kadim'in ordusu yaklaşıyor!",
@@ -2673,38 +2673,38 @@
 	},
 
 	"RichPresence": {
-		"Spaghet": "Cooking Spaghet",
-		"InMainMenu": "In Main Menu",
-		"CreatingPlayer": "Creating a Player",
-		"CreatingWorld": "Generating a World",
-		"PlayingSingle": "Playing Single-Player",
-		"PlayingMulti": "Playing Multi-Player"
+		"Spaghet": "Spaget Pişiriyor",
+		"InMainMenu": "Ana Menüde",
+		"CreatingPlayer": "Bir Oyuncu Oluşturuyor",
+		"CreatingWorld": "Bir Dünya Yaratıyor",
+		"PlayingSingle": "Tek Oyunculu Oynuyor",
+		"PlayingMulti": "Çok Oyunculu Oynuyor"
 	},
 
 	"AssetRejections" : {
-		"BadSize": "Textures loaded must match the original size, got ({ActualWidth},{ActualHeight}) but expected ({NeededWidth}, {NeededHeight}).",
-		"BadExtension": "Only textures of type '.png' and '.xnb' may be loaded."
+		"BadSize": "Yüklenen dokular özgün boyutla eşleşmelidir, yüklediğin ({ActualWidth},{ActualHeight}) iken beklenen sayı şöyledir: ({NeededWidth}, {NeededHeight}).",
+		"BadExtension": "Yalnızca '.png' ve '.xnb' türündeki dokular yüklenebilir."
 	},
 
 	"CreditsRollCategory_Creator": {
-	"1": "Creator",
+	"1": "Yaratıcı",
 	"2": "Andrew “Redigit” Spinks",
 	},
 
 "CreditsRollCategory_ExecutiveProducer": {
-	"1": "Executive Producer",
+	"1": "Yapımcı",
 	"2": "Whitney “Cenx” Spinks",
 	},
 
 "CreditsRollCategory_Designer": {
-	"1": "Designer",
+	"1": "Tasarımcı",
 	"2": "Andrew “Redigit” Spinks",
 	"3": "Whitney “Cenx” Spinks",
 	"4": "Yorai “Yoraiz0r” Omer",
 	},
 
 "CreditsRollCategory_Programming": {
-	"1": "Programming",
+	"1": "Programlama",
 	"2": "Yorai “Yoraiz0r” Omer",
 	"3": "Andrew “Redigit” Spinks",
 	"4": "Chris “Skiphs” Bednarz",
@@ -2714,7 +2714,7 @@
 	},
 
 "CreditsRollCategory_Graphics": {
-	"1": "Graphics",
+	"1": "Grafikler",
 	"2": "Victor “Crowno” Moura",
 	"3": "James “Lazure” Hayes",
 	"4": "Jim Tommy Myhre “Jimmarn” Kjexrud",
@@ -2727,12 +2727,12 @@
 	},
 
 "CreditsRollCategory_Music": {
-	"1": "Music",
+	"1": "Müzik",
 	"2": "Scott Lloyd Shelly",
 	},
 
 "CreditsRollCategory_Sound": {
-	"1": "Sound",
+	"1": "Ses",
 	"2": "Morten Lund Søegaard",
 	"3": "Jens Kiilstofte",
 	"4": "Pond5.com",
@@ -2740,14 +2740,14 @@
 	},
 
 "CreditsRollCategory_Dialog": {
-	"1": "Dialog",
+	"1": "Diyalog",
 	"2": "James “Lazure” Hayes",
 	"3": "Jeremy “Blue” Guerrette",
 	"4": "Dustin “Splugen” Gunter",
 	},
 
 "CreditsRollCategory_QualityAssurance": {
-	"1": "Quality Assurance",
+	"1": "Kalite Güvencesi",
 	"2": "Jason “Leinfors” Parker",
 	"3": "Crystal “Ghostar” Ironheart",
 	"4": "Houston “Food Barbarian” Lawson",
@@ -2756,29 +2756,29 @@
 	},
 
 "CreditsRollCategory_BusinessDevelopment": {
-	"1": "Business Development",
+	"1": "İş Geliştirme",
 	"2": "Ted “Loki” Murphy",
 	"3": "David “D-Town” Phelps",
 	},
 
 "CreditsRollCategory_Marketing": {
-	"1": "Marketing",
+	"1": "Pazarlama",
 	"2": "Ted “Loki” Murphy",
 	},
 
 "CreditsRollCategory_PublicRelations": {
-	"1": "Public Relations",
+	"1": "Halkla İlişkiler",
 	"2": "Amanda “safeman” Powell",
 	},
 
 "CreditsRollCategory_Webmaster": {
-	"1": "Webmaster",
+	"1": "Site Sorumlusu",
 	"2": "Justin “Grumpy Squid” Coplen",
 	"3": "Chris “Skiphs” Bednarz",
 	},
 
 "CreditsRollCategory_Playtesting": {
-	"1": "Playtesting",
+	"1": "Oyun Denetleme",
 	"2": "Atri “m4sterbr0s” Maharaj",
 	"3": "Brian “TGS” Gilliford",
 	"4": "Mike “TrinityFlash” Dunn",
@@ -2851,8 +2851,8 @@
 	},
 	
 "CreditsRollCategory_SpecialThanksto": {
-	"1": "Special Thanks to",
-	"2": "The Torch God",
+	"1": "Özel Teşekkürler",
+	"2": "Meşale Tanrı'sı",
 	"3": "Ben “Coldwin” Spaulding",
 	"4": "Kane Hart",
 	"5": "James “Chippy” Bennett",
@@ -2867,7 +2867,7 @@
 
 
 "CreditsRollCategory_EndingNotes": {
-	"1": "Thank you for playing!",
+	"1": "Oynadığın için teşekkürler!",
 	},
 	
 }

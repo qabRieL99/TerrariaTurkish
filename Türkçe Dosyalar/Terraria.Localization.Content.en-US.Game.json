@@ -1013,7 +1013,7 @@
 		"BabyFaceMonster": "Bir bebek yüzlü canavar seni takip ediyor",
 		"BoneJavelin": "Kanıyorsun",
 		"StardustMinion": "Yıldıztozu hücresi senin adına savaşacak",
-		"StardustMinionBleed": "being eaten by cells", //TODO
+		"StardustMinionBleed": "hücreler tarafından yenecekler",
 		"DryadsWardDebuff": "Doğanın gücü seni zorluyor",
 		"StardustGuardianMinion": "Yıldıztozu koruyucusu seni koruyacak",
 		"StardustDragonMinion": "Yıldıztozu ejderi seni koruyacak",
@@ -1347,7 +1347,7 @@
 		"PercentCollected": "{Percent} Toplandı",
 	},
 	"Bestiary_ItemDropConditions": {
-        "PirateMap": "Zormod Okyanusu'ndaki düşer",
+        "PirateMap": "Zormod Okyanusu'nda düşer",
 		"IsChristmas": "Noel sırasında düşer",
 		"NotExpert": "",
 		"NotMasterMode": "",
@@ -2078,7 +2078,7 @@
 		"StartMidnightImmediately_Description": "Saat 24:00 olarak ayarlanır",
 		"WeatherCategoryClosed": "Hava Durumu Menüsünü Aç",
 		"WeatherCategoryOpened": "Hava Durumu Menüsünü Aç",
-		"WeatherCategory": "Hava durumunu denetlemekle iligli güçler",
+		"WeatherCategory": "Hava durumunu denetlemekle ilgili güçler",
 		"StartRainImmediately": "Yağmur Yağdır",
 		"StartRainImmediately_Description": "Yağmurun yağmasına sebep olur",
 		"StopRainImmediately": "Yağmur Durdur",
