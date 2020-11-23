@@ -1,10 +1,10 @@
 {
 	"TownNPCHousingFailureReasons": {
-		"TooCloseToWorldEdge" : "We need better text for this!!!",
-		"RoomIsTooBig" : "This room is too big",
-		"RoomIsTooSmall" : "This room is too small",
-		"HoleInWallIsTooBig" : "This room is missing a wall",
-		"RoomCheckStartedInASolidTile" : "This is a solid block!"
+		"TooCloseToWorldEdge" : "Bunun için daha iyi bir metne ihtiyacımız var !!!",
+		"RoomIsTooBig" : "Bu oda çok büyük",
+		"RoomIsTooSmall" : "Bu oda çok küçük",
+		"HoleInWallIsTooBig" : "Bu odada bir duvar eksik",
+		"RoomCheckStartedInASolidTile" : "Bu düz bir blok!"
 	},
 	"BartenderNames": {
 		"Name_1": "Ted",
@@ -429,7 +429,7 @@
 		"Chatter_6": "Kuyruğumu çekmeyi bırak kardeşim, bu tamamen gerçek ve... onu çektiğinde gerçekten acıyor!",
 		"Chatter_7": "Ha?! Hayır, {Stylist} saçımı boyamadı. Doğal olarak bu renkte! Yine de ısırılmadan önce koyu kahverengiydi!",
 		"Chatter_8": "Oh, bu kulakları mı soruyorsun? Ha ha, daha iyi duymak için, canım!",
-		"Chatter_9": "Yaratık kampında bir seferinde, bir sabah uyandım ve her şey paramparça olmuştu! Vay be,  tüm bunlar olurken uyumayı nasıl başardım?!",
+		"Chatter_9": "Yaratık kampında bir seferinde, bir sabah uyandım ve her şey paramparça olmuştu! Vay be, tüm bunlar olurken uyumayı nasıl başardım?!",
 		"Chatter_10": "Vay canına, hiç dolunay görmemiştim. Bazı nedenlerden dolayı, her ortaya çıktığında bayılıyorum sanki!",
 		"Chatter_11": "Buraya nasıl geldiğime dair hiçbir fikrim yok, ama müthiş bişi abiii."
 	},
@@ -738,7 +738,7 @@
 		"Rain2": "Bir gün böyle yağmur yağmaya başladı ve dört gün boyunca durmadı!"
 	},
 	"GoblinTinkererSpecialText": {
-		"Party": "Cincüce partileri insanlarınkine çok benzer. Her iki tarafta da  \"Suçu İnsana At\" gibi oyunlar var. Şey... Bu oyunu partilerimde oynamam.",
+		"Party": "Cincüce partileri insanlarınkine çok benzer. Her iki tarafta da \"Suçu İnsana At\" gibi oyunlar var. Şey... Bu oyunu partilerimde oynamam.",
 		"Graveyard1": "Bir Foton Çuvalı üzerinde çalışıyorum. Dışarıda gizlenen bütün hayaletleri tuzağa düşürmek için bir icat!",
         "Graveyard2": "Sürekli inilti ve kulak delici çığlık sesleri beni işimden alıkoyuyor!",
 		"Windy1": "Bu hava, gözlük takmamın nedeni! Gözlerime kir ve kum kaçmasına izin veremem.",
@@ -952,7 +952,7 @@
 		"Windy1": "Bu rüzgar çok zor bir saha sağlar.",
 		"Windy2": "Güçlü bir fırtına, bir golf oyununa zorluk katar, ancak şimdiki oldukça fazla.",
 		"Storm1": "Sanmıyorum, {PlayerName}.",
-		"Storm2": "Yıldırım çarpma ihtimali piyango ile aynıdır. Demir sopa sallarken dışarı çıkmak, kazanması garanti bir bilettir!",
+		"Storm2": "Yıldırım çarpma olasılığı piyango ile aynıdır. Demir sopa sallarken dışarı çıkmak, kazanması garanti bir bilettir!",
 		"Rain1": "Yağmurda golf oynamak daha az eğlencelidir. Her şey kaygan!",
 		"Rain2": "Yağmur yağdığında su tehlikeleri çok daha büyüktür, bu da yeşile ulaşmayı çok daha zor hale getirir!"
     },
@@ -1049,7 +1049,7 @@
 		"DislikeCrowded": "Ben özgür bir ruhum. Pek çok insanın bana yakın olmasını sevmiyorum.",
 		"HateCrowded": "Aşırı kalabalıktan nefret ediyorum. Açık dünyayı tercih ederim!",
 		"LoveSpace": "Burasının kendimin oluşu... Çok minnettarım.",
-		"LikeBiome": "{BiomeName}'de  dolaşmak hoşuma gidiyor. Burayı seviyorum.",
+		"LikeBiome": "{BiomeName}'de dolaşmak hoşuma gidiyor. Burayı seviyorum.",
 		"LoveBiome": "{BiomeName}'i seviyorum.",
 		"DislikeBiome": "{BiomeName} 'i gerçekten sevmiyorum. Başarılacak pek bir şey yok.",
 		"HateBiome": "{BiomeName}'den nefret ediyorum, buradaki dehşet bir kişiyi dakikalar içinde parçalayabilir.",
