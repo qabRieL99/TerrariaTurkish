@@ -157,7 +157,7 @@
 		"Creative": "Macera",
 		"CreativeDescriptionPlayer": "Macera karakterleri fazladan donanım ile başlar. Yalnızca Macera dünyalarında oynanabilir.",
 		"WorldSizeFormat": "{0} Dünya",
-		"WorldCreatedFormat": "Yaratılma tarihi: {0}",
+		"WorldCreatedFormat": "Yar. Tar.: {0}",
 		"SelectWorld": "Dünya Seç",
 		"SelectPlayer": "Oyuncu Seç",
 		"Back": "Geri",
@@ -413,7 +413,7 @@
 		"Bestiary": "Yaratık Kitabını Aç",
 		"TimeAtMorning": "Gündüz",
 		"TimePastMorning": "Gece",
-		"PlayerLifeMax": " Sağlık",
+		"PlayerLifeMax": " Can",
 		"PlayerManaMax": " Sihir",
 		"NotificationsOptionsCategory": "Bildirimler",
 		"ClearAllNotifications": "Hepsini Temizle",
@@ -523,9 +523,9 @@
 		"HeadRemoved": "{0} kafasını aldırdı"
 	},
 	"DeathSource": {
-		"Player": "{0} by {1}'s {2}.",
-		"NPC": "{0} by {1}.",
-		"Projectile": "{0} by {1}."
+		"Player": "{0}, hem de {1} isimli oyununun {2} ile.",
+		"NPC": "{0}, hem de {1} tarafından.",
+		"Projectile": "{0}, hem de {1} ile."
 	},
 	"DeathText": {
 		"Suffocated": "{0} nefes alamadı.",
