@@ -1014,17 +1014,17 @@
 		"3": "Zavallı kuş. Ancak ördek lezzetli, bu yüzden pes etme!"
 	},
 	"TownNPCMoodBiomes": {
-		"Forest": "the Forest",
-		"NormalUnderground": "the Underground",
-		"Snow": "the Snow",
-		"Desert": "the Desert",
-		"Jungle": "the Jungle",
-		"Ocean": "the Ocean",
-		"Hallow": "the Hallow",
-		"Mushroom": "the Glowing Mushrooms",
-		"Dungeon": "the Dungeon",
-		"Corruption": "the Corruption",
-		"Crimson": "the Crimson"
+		"Forest": "Ağaçlık",
+		"NormalUnderground": "Yeraltı",
+		"Snow": "Kar",
+		"Desert": "Çöl",
+		"Jungle": "Orman",
+		"Ocean": "Okyanus",
+		"Hallow": "Cennet",
+		"Mushroom": "Parlayan Mantarlar",
+		"Dungeon": "Zindan",
+		"Corruption": "Bozulma",
+		"Crimson": "Kızıllık"
 	},
 	"TownNPCMood": {
 		"Content": "Ben memnunum.",
