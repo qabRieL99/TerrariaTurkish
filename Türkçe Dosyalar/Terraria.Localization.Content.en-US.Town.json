@@ -676,7 +676,7 @@
 	"DryadSpecialText": {
 		"AfterDD2Tier1": "Etheria'dayken, {WorldName}'den çok kopuk hissettim. Geri dönmek güzel.",
 		"AfterDD2Tier2": "Bozulma, Etheria'ya gittiğimde beni ele geçirmeye çalıştı ama onun yerine gücünü Kadimin'ın Ordusu'na karşı kullandım!",
-		"WorldStatusAll": "{0} dünyası, %{1} cennet, %{2} bozulma, ve %{3} kızıllık içeriyor.",
+		"WorldStatusAll": "{0} dünyası, %{1} cennet, %{2} bozulma ve %{3} kızıllık içeriyor.",
 		"WorldStatusHallowCorrupt": "{0} dünyası, %{1} cennet ve %{2} bozulma içeriyor.",
 		"WorldStatusHallowCrimson": "{0} dünyası, %{1} cennet ve %{2} kızıllık içeriyor.",
 		"WorldStatusCorruptCrimson": "{0} dünyası, %{1} bozulma ve %{2} kızıllık içeriyor.",
