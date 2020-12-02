@@ -455,7 +455,7 @@
 		"RespawnInSuffix": "{0}",
 		"InvasionPoints": "{0} puan",
 		"WaveMessage": "Dalga {0}: {1}",
-		"WaveCleared": "Temizlenen {0}",
+		"WaveCleared": "Temizlenme oranı: {0}",
 		"TeleportTo": "Şuna ışınla: {0}",
 		"HasTeleportedTo": "{0} {1} 'e ışınlandı",
 		"Time": "Zaman: {0}",
@@ -523,7 +523,7 @@
 		"HeadRemoved": "{0} kafasını aldırdı"
 	},
 	"DeathSource": {
-		"Player": "{0}, hem de {1} isimli oyununun {2} ile.",
+		"Player": "{0}, hem de {1} isimli oyuncunun {2} ile.",
 		"NPC": "{0}, hem de {1} tarafından.",
 		"Projectile": "{0}, hem de {1} ile."
 	},
