@@ -132,7 +132,7 @@
 	"LoadingTips_Keyboard": {
 		"0": "Bazı öğeleri {InputTrigger_UseOrAttack} tuşuna basılı tutarak kesintisiz bir şekilde kullanabilirsin.",
 		"1": "İmleç Modları arasında geçiş yapmak için {InputTrigger_SmartCursor} bas.",
-		"2": "Envanterin dolduysa, öğeleri Çöp Kutusuna göndermek için {InputTriggerUI_Trash} ya da {InputTrigger_UseOrAttack} basabilirsin.",
+		"2": "Envanterin dolduysa, öğeleri Çöp Kutusuna göndermek için {InputTriggerUI_Trash} ve {InputTrigger_UseOrAttack} basabilirsin.",
 		"3": "Bir satıcıyla konuşurken, Envanter'indeki öğeleri {InputTriggerUI_Trash} ve {InputTrigger_UseOrAttack} tuşlarına basarak satabilirsin.",
 		"4": "Meşaleleri {InputTrigger_InteractWithTile} veya bir kazma ile kaldırabilirsin.",
 		"5": "Envanterindeyken, zırh veya aksesuarlar gibi öğeleri, doğrudan kullanılabilir bir yuvaya donatmak için {InputTrigger_InteractWithTile} basabilirsin.",
@@ -1388,7 +1388,7 @@
     },
 	"Bestiary_BiomeText": {
 		"biome_Goblins": "Kaba, barbar cincücelerden oluşan dağınık bir ordu, fethetmek ve yok etmek için yola çıktı. Bazıları karanlık, şeytani büyüler kullanır.",
-		"biome_Pirates": " Ülkenin zenginliklerini arzulayan, hazine toplayan ve uzlaşmaya yanaşmayan silahlı haydutlardan oluşan bir denizci sürüsü.",
+		"biome_Pirates": "Ülkenin zenginliklerini arzulayan, hazine toplayan ve uzlaşmaya yanaşmayan silahlı haydutlardan oluşan bir denizci sürüsü.",
 		"biome_Martian": "Üstün silahlarıyla tüm ilkel yaşamı yok etmek isteyen, başka bir dünyadan gelen teknolojik olarak gelişmiş varlıklar.",
 		"biome_OldOnesArmy": "Etheria'dan gelen yardakçılar... Yanlışlıkla bu dünyayı işgal etmiş olabilirler, ama yine de burayı yönetmek istiyorlar!",
 		"biome_PumpkinMoon": "Gecenin ortasında acı bir hasat yükselir. Kötülüğün ve karanlığın yaratıkları, yollarındaki her şeyi öldürerek toprakları ürkütür.",
