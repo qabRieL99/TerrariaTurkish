@@ -188,7 +188,7 @@
 		"ZoomIn": "{$LegacyMenu.168}",
 		"ZoomOut": "{$LegacyMenu.169}",
 		"Ellipsis": "...",
-		"ResourcePacks": "Texture Packs",
+		"ResourcePacks": "Resource Packs",
 		"LightMode_Color": "{$LegacyMenu.55}",
 		"LightMode_White": "{$LegacyMenu.56}",
 		"LightMode_Retro": "{$LegacyMenu.57}",
@@ -279,6 +279,136 @@
 		"WorldCannotBeLoadedBecauseItHasAnInvalidGameMode": "Error: This world has an invalid data!",
 		"WorldGenEasterEgg_GeneratingBees": "Generating bees",
 		"Credits": "Credits",
+		"WorkshopImportWorld": "Import Workshop Worlds",
+		"Rename": "Rename",
+		"Workshop": "Workshop",
+		"WorkshopHub": "Workshop Hub",
+		"WorkshopSelectWorldToPublishMenuTitle": "Select World To Publish",
+		"WorkshopSelectResourcePackToPublishMenuTitle": "Select Resource Pack To Publish",
+		"Import": "Import",
+		"ReportsPage": "Reports Page",
+		"IssueReporterHasThingsToShow": "See issues"
+	},
+	"Workshop": {
+		"HubDescriptionDefault": "Choose an option for more information.",
+		"HubWorlds": "Import Worlds",
+		"HubDescriptionImportWorlds": "Import Worlds you've subscribed to from the Steam Workshop to your own list of Worlds, so that you can explore them.",
+		"HubPublishWorlds": "Publish Worlds",
+		"HubDescriptionPublishWorlds": "Publish your Worlds to the Steam Workshop, so that others can enjoy them.",
+		"HubResourcePacks": "Use Resource Packs",
+		"HubDescriptionUseResourcePacks": "Use Resource Packs you've downloaded or subscribed to from the Steam Workshop, so that you can enjoy their art & localizations.",
+		"HubPublishResourcePacks": "Publish Resource Packs",
+		"HubDescriptionPublishResourcePacks": "Publish your Resource Packs to the Steam Workshop, so that others can enjoy them.",
+		"Publish": "Publish",
+		"WorldName": "Name:",
+		"ResourcePackName": "Name:",
+		"WorldPublishDescription": "Publishing a world will upload it to the Steam Workshop as private - visibly only to you, by default. You can adjust its preview image, title, and description as you wish from its steam Entry page, and then set it public when you're ready. By submitting this world, you agree to the workshop terms of service.", 
+		"ResourcePackPublishDescription": "Publishing a resource pack will upload it to the Steam Workshop as private - visibly only to you, by default. You can adjust its preview image, title, and description as you wish from its steam Entry page, and then set it public when you're ready. By submitting this resource pack, you agree to the workshop terms of service.", 
+		"SettingsPublicityPublic": "Public",
+		"SettingsPublicityFriendsOnly": "Friends Only",
+		"SettingsPublicityPrivate": "Private",
+		"SettingsPublicityDescriptionSharedNote": "You can adjust your content's visibility setting through its workshop page at any time",
+		"SettingsPublicityPublicDescription": "Your content will be visible & available to everyone as soon as it is published\n{$Workshop.SettingsPublicityDescriptionSharedNote}",
+		"SettingsPublicityFriendsOnlyDescription": "Your content will only be visible & usable by you & your friends once published\n{$Workshop.SettingsPublicityDescriptionSharedNote}",
+		"SettingsPublicityPrivateDescription": "Your content will only be visible to you once published\n{$Workshop.SettingsPublicityDescriptionSharedNote}",
+		"CategoryTitleDisclaimer": "Service Agreement",
+		"CategoryTitleTags": "Tags",
+		"CategoryTitlePublicity": "Visibility",
+		"SteamDisclaimer": "By submitting this item, you agree to the Workshop terms of service.",
+		"PreviewImagePathTitle": "Image:",
+		"PreviewImagePathEmpty": "Empty",
+		"PreviewImagePathDescription": "Choose a preview image for this item,\nthis image will be displayed when browsing the workshop (max size 512x512)",
+		"EnterNewNameForImportedWorld": "Enter World Name:",
+		"InfoDescriptionDefault": "Please choose how your item will be published with the options above",
+		"SteamDisclaimerDescrpition": "Open the full steam terms of service page\nPlease upload content responsibly",
+		"ReportIssue_CouldNotCreateTemporaryFolder": "Could not create temporary folder!",
+		"ReportIssue_CannotPublishZips": "Zipped Resource Packs cannot be published to the workshop!",
+		"ReportIssue_FailedToLoadSubscribedFile": "Failed to load subscribed file! path: {FilePath}! reason: {Reason}",
+		"ReportIssue_CouldNotCreateResourcePackManifestFile": "Could not create resource pack manifest! reason: {Reason}",
+		"ReportIssue_FailedToPublish_Common": "Failed to publish the item to steam!",
+		"ReportIssue_FailedToPublish_WithoutKnownReason": "{$Workshop.ReportIssue_FailedToPublish_Common} Error Code: {Reason}",
+		"ReportIssue_FailedToPublish_AccessDeniedBecauseUserDoesntOwnLicenseForApp": "{$Workshop.ReportIssue_FailedToPublish_Common} If this issue repeats, try restarting steam please!",
+		"ReportIssue_FailedToPublish_InvalidParametersForPublishing": "{$Workshop.ReportIssue_FailedToPublish_Common} Did you modify the game's steam application ID?",
+		"ReportIssue_FailedToPublish_CouldNotFindFolderToUpload": "{$Workshop.ReportIssue_FailedToPublish_Common} The content folder for the published item is missing?!",
+		"ReportIssue_FailedToPublish_SteamFileLockFailed": "{$Workshop.ReportIssue_FailedToPublish_Common} Failed to acquire UGC Lock. If this issue repeats, try restarting steam please!",
+		"ReportIssue_FailedToPublish_LimitExceeded": "{$Workshop.ReportIssue_FailedToPublish_Common} Size limit exceeded! Please make sure your preview image is under 1mb in size, and that you have space for you to publish to your steam cloud",
+		"ReportIssue_FailedToPublish_UserDidNotAcceptWorkshopTermsOfService": "{$Workshop.ReportIssue_FailedToPublish_Common} You need to accept the Workshop's terms of service!",
+		"ReportIssue_FailedToPublish_ImageSizeIsTooLarge": "The image you're trying to use has to be 512x512 pixels or less in size!\nCurrent Size: {Width}x{Height}.",
+		"ReportLogsButton": "Logs",
+		"ReportLogsInitialMessage": "There is nothing to show yet."
+	},
+	"WorkshopTags": {
+		"AdventureWorlds": "Adventure",
+        "AdventureWorldsDescription": "Hand-crafted Worlds where you go on an awesome adventure with defined rules!",
+
+		"GolfWorlds": "Golf",
+		"GolfWorldsDescription": "Handmade Terraria Golf Courses where you can tee off to set the course record.",
+
+		"AllItemsWorlds": "All Items",
+		"AllItemsWorldsDescription": "Worlds where you can find every item in chests.",
+
+		"StarterWorlds": "Starter",
+		"StarterWorldsDescription": "Worlds where you have a good head start.",
+
+		"JourneyWorlds": "Journey",
+		"JourneyWorldsDescription": "Worlds requiring Journey Mode characters – great power & great responsibility!",
+
+		"ClassicWorlds": "Classic",
+		"ClassicWorldsDescription": "Worlds based in the standard Terraria experience setting.",
+
+		"ExpertWorlds": "Expert",
+		"ExpertWorldsDescription": "Worlds based on expert difficulty -  fortune and glory, kid!",
+
+		"MasterWorlds": "Master",
+		"MasterWorldsDescription": "Worlds based on Master difficulty, only for the foolhardy challenge-seeker!",
+
+		"ChallengeWorlds": "Challenge",
+		"ChallengeWorldsDescription": "Worlds that challenge your abilities! From Parkour to Puzzles and more!",
+
+		"CorruptionWorlds": "Corruption",
+		"CorruptionWorldsDescription": "Worlds infected by the evil Corruption.",
+
+		"CrimsonWorlds": "Crimson",
+		"CrimsonWorldsDescription": "Worlds afflicted by the all-devouring Crimson.",
+
+		"SmallWorlds": "Small",
+		"SmallWorldsDescription": "Worlds that are small, compact, and comfortable!",
+
+		"MediumWorlds": "Medium",
+		"MediumWorldsDescription": "Worlds sized not too small or large, just right!",
+
+		"LargeWorlds": "Large",
+		"LargeWorldsDescription": "Worlds large enough for a full party!",
+
+		"OtherWorlds": "Other",
+		"OtherWorldsDescription": "Worlds that serve another purpose, not to be confused with Otherworlds!",
+
+		"FromTerrariaMods": "From Mods",
+		"FromTerrariaModsDescription": "Resource packs with content based on mods.",
+
+		"PopularCulture": "Pop Culture",
+		"PopularCultureDescription": "Resource packs filled with popular culture.",
+
+		"FunSilly": "Fun/Silly",
+		"FunSillyDescription": "Resource packs of amusing, silly things. Your memes go here!",
+
+		"Music": "Music",
+		"MusicDescription": "Resource packs that alter Terraria's music, giving new vibes!",
+
+		"LanguageTranslations": "Translations",
+		"LanguageTranslationsDescription": "Resource packs that adjust translations, or add completely new ones!",
+
+		"HighResolution": "High-Res",
+		"HighResolutionDescription": "Resource packs which focus on high resolution content.",
+
+		"Overhaul": "Overhaul",
+		"OverhaulDescription": "Resource packs that completely overhaul a portion, or all of Terraria!",
+
+		"Tweaks": "Tweaks",
+		"TweaksDescription": "Resource packs that aim to only make minor changes to specific things.",
+
+		"OtherResourcePacks": "Other",
+		"OtherResourceDescription": "Resource packs that serve another purpose, how otherworldly!",
 	},
 	"Net": {
 		"ClientStatusComplete": "({0}) {1} {2}: Complete!",
