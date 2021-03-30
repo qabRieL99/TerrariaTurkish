@@ -883,5 +883,7 @@
 		"FlinxMinion": "Flinx",
 		"DaybreakExplosion": "Solar Explosion",
 		"BoneWhip": "Spinal Tap",
+		"WandOfSparkingSpark": "{$ProjectileName.Spark}",
+		"StarCannonStar": "{$ProjectileName.FallingStar}",
 	}
 }
