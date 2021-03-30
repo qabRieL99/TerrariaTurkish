@@ -883,5 +883,7 @@
 		"FlinxMinion": "Flinx",
 		"DaybreakExplosion": "Güneşsel Patlaması",
 		"BoneWhip": "Omurilik Suyu",
+		"WandOfSparkingSpark": "{$ProjectileName.Spark}",
+		"StarCannonStar": "{$ProjectileName.FallingStar}",
 	}
 }

@@ -188,7 +188,7 @@
 		"ZoomIn": "{$LegacyMenu.168}",
 		"ZoomOut": "{$LegacyMenu.169}",
 		"Ellipsis": "...",
-		"ResourcePacks": "Doku Paketleri",
+		"ResourcePacks": "Kaynak Paketleri",
 		"LightMode_Color": "{$LegacyMenu.55}",
 		"LightMode_White": "{$LegacyMenu.56}",
 		"LightMode_Retro": "{$LegacyMenu.57}",
@@ -279,6 +279,136 @@
 		"WorldCannotBeLoadedBecauseItHasAnInvalidGameMode": "Hata: Bu dünyada geçersiz bir veri var!",
 		"WorldGenEasterEgg_GeneratingBees": "Arılar üretiliyor",
 		"Credits": "Yapımcılar",
+		"WorkshopImportWorld": "Atölye Dünyalarını İçe Aktar",
+		"Rename": "Yeniden Adlandır",
+		"Workshop": "Atölye",
+		"WorkshopHub": "Atölye Merkezi",
+		"WorkshopSelectWorldToPublishMenuTitle": "Yayınlanacak Dünyayı Seç",
+		"WorkshopSelectResourcePackToPublishMenuTitle": "Yayınlanacak Kaynak Paketini Seç",
+		"Import": "İçe Aktar",
+		"ReportsPage": "Rapor Sayfası",
+		"IssueReporterHasThingsToShow": "Sorunları gör"
+	},
+	"Workshop": {
+		"HubDescriptionDefault": "Daha fazla bilgi için bir seçenek seç.",
+		"HubWorlds": "Dünyaları İçe Aktar",
+		"HubDescriptionImportWorlds": "Steam Atölyesi'nden abone olduğun Dünyaları, keşfedebilmen için kendi Dünyalar listene aktar.",
+		"HubPublishWorlds": "Dünyaları Yayınla",
+		"HubDescriptionPublishWorlds": "Dünyalarını Steam Atölyesi'nde yayınla, böylece başkaları da onlardan keyif alsın.",
+		"HubResourcePacks": "Kaynak Paketlerini Kullan",
+		"HubDescriptionUseResourcePacks": "Sanat ve yerelleştirmelerinin keyfini çıkarmak için Steam Atölyesi'nden indirdiğin veya abone olduğun Kaynak Paketlerini kullan.",
+		"HubPublishResourcePacks": "Kaynak Paketlerini Yayınla",
+		"HubDescriptionPublishResourcePacks": "Kaynak Paketlerinizi Steam Atölyesinde yayınlayın, böylece başkaları da onlardan faydalanabilir.",
+		"Publish": "Yayınla",
+		"WorldName": "Ad:",
+		"ResourcePackName": "Ad:",
+		"WorldPublishDescription": "Bir dünya yayınlamak, onu Steam Atölyesi'ne varsayılan olarak yalnızca senin görebileceğin şekilde yükleyecektir. Önizleme görüntüsünü, başlığını ve açıklamasını Steam Giriş sayfasından dilediğin gibi ayarlayabilir ve hazır olduğunda herkese açık hale getirebilirsin. Bu dünyayı göndererek atölye hizmet şartlarını kabul etmiş olursun.", 
+		"ResourcePackPublishDescription": "Bir kaynak paketini yayınlamak, onu Steam Atölyesi'ne varsayılan olarak yalnızca senin görebileceğin şekilde yükleyecektir. Önizleme görüntüsünü, başlığını ve açıklamasını Steam Giriş sayfasından dilediğin gibi ayarlayabilir ve hazır olduğunda herkese açık hale getirebilirsin. Bu kaynak paketini göndererek atölye hizmet şartlarını kabul etmiş olursun.", 
+		"SettingsPublicityPublic": "Herkese açık",
+		"SettingsPublicityFriendsOnly": "Yalnızca Arkadaşlar",
+		"SettingsPublicityPrivate": "Özel",
+		"SettingsPublicityDescriptionSharedNote": "İçeriğinin görünürlük ayarını istediğin zaman atölye sayfasından değiştirebilirsin",
+		"SettingsPublicityPublicDescription": "İçeriğin yayınlanır yayınlanmaz herkes tarafından görülebilir ve erişilebilir olacak\n{$Workshop.SettingsPublicityDescriptionSharedNote}",
+		"SettingsPublicityFriendsOnlyDescription": "İçeriğin yayınlandıktan sonra yalnızca sen ve arkadaşların tarafından görülebilir ve kullanılabilir olacak\n{$Workshop.SettingsPublicityDescriptionSharedNote}",
+		"SettingsPublicityPrivateDescription": "İçeriğin yayınlandıktan sonra yalnızca sana görünür olacak\n{$Workshop.SettingsPublicityDescriptionSharedNote}",
+		"CategoryTitleDisclaimer": "Hizmet Sözleşmesi",
+		"CategoryTitleTags": "Etiketler",
+		"CategoryTitlePublicity": "Görünürlük",
+		"SteamDisclaimer": "Bu öğeyi göndererek, Atölye hizmet şartlarını kabul etmiş olursun.",
+		"PreviewImagePathTitle": "Görüntü:",
+		"PreviewImagePathEmpty": "Boş",
+		"PreviewImagePathDescription": "Bu öğe için bir önizleme resmi seç,\natölyeye göz atarken bu resim görüntülenecek (en fazla boyut: 512x512)",
+		"EnterNewNameForImportedWorld": "Dünya Adı Gir:",
+		"InfoDescriptionDefault": "Lütfen yukarıdaki seçeneklerle öğenin nasıl yayınlanacağını seç",
+		"SteamDisclaimerDescrpition": "Tam Steam hizmet şartları sayfasını aç\nLütfen içeriği sorumlu bir şekilde yükle",
+		"ReportIssue_CouldNotCreateTemporaryFolder": "Geçici klasör oluşturulamadı!",
+		"ReportIssue_CannotPublishZips": "Sıkıştırılmış Kaynak Paketleri atölyede yayınlanamaz!",
+		"ReportIssue_FailedToLoadSubscribedFile": "Abone olunan dosya yüklenemedi! Konum: {FilePath}! Sebep: {Reason}",
+		"ReportIssue_CouldNotCreateResourcePackManifestFile": "Kaynak paketi bildirimi oluşturulamadı! Sebep: {Reason}",
+		"ReportIssue_FailedToPublish_Common": "Öğe Steam'de yayınlanamadı!",
+		"ReportIssue_FailedToPublish_WithoutKnownReason": "{$Workshop.ReportIssue_FailedToPublish_Common} Hata kodu: {Reason}",
+		"ReportIssue_FailedToPublish_AccessDeniedBecauseUserDoesntOwnLicenseForApp": "{$Workshop.ReportIssue_FailedToPublish_Common} Bu sorun tekrar ederse, lütfen Steam'i yeniden başlatmayı dene!",
+		"ReportIssue_FailedToPublish_InvalidParametersForPublishing": "{$Workshop.ReportIssue_FailedToPublish_Common} Oyunun Steam uygulama kimliğini değiştirdin mi?",
+		"ReportIssue_FailedToPublish_CouldNotFindFolderToUpload": "{$Workshop.ReportIssue_FailedToPublish_Common} Yayınlanan öğenin içerik klasörü eksik.",
+		"ReportIssue_FailedToPublish_SteamFileLockFailed": "{$Workshop.ReportIssue_FailedToPublish_Common} UGC Kilidi alınamadı. Bu sorun tekrar ederse, lütfen Steam'i yeniden başlatmayı dene.",
+		"ReportIssue_FailedToPublish_LimitExceeded": "{$Workshop.ReportIssue_FailedToPublish_Common} Boyut sınırı aşıldı! Lütfen önizleme resminin boyutunun 1MB'nin altında olduğundan ve Steam bulutunda yayınlayabileceğin alanın olduğundan emin ol.",
+		"ReportIssue_FailedToPublish_UserDidNotAcceptWorkshopTermsOfService": "{$Workshop.ReportIssue_FailedToPublish_Common} Atölye'nin hizmet şartlarını kabul etmen gerekiyor!",
+		"ReportIssue_FailedToPublish_ImageSizeIsTooLarge": "Kullanmaya çalıştığın resmin boyutu 512x512 piksel veya daha küçük olmalıdır!\nŞu anki boyutu: {Width}x{Height}.",
+		"ReportLogsButton": "Kayıtlar",
+		"ReportLogsInitialMessage": "Henüz gösterilecek bir şey yok."
+	},
+	"WorkshopTags": {
+		"AdventureWorlds": "Maceralı",
+        "AdventureWorldsDescription": "Tanımlanmış kurallarla harika bir maceraya atılacağın el yapımı dünyalar!",
+
+		"GolfWorlds": "Golf",
+		"GolfWorldsDescription": "Saha rekorunu kırmak için golf oynayabileceğin el yapımı Terraria Golf Sahaları.",
+
+		"AllItemsWorlds": "Tüm eşyalar",
+		"AllItemsWorldsDescription": "Sandıklarda her öğeyi bulabileceğin dünyalar.",
+
+		"StarterWorlds": "Başlangıç",
+		"StarterWorldsDescription": "İyi başlangıç yapacağın dünyalar.",
+
+		"JourneyWorlds": "Macera",
+		"JourneyWorldsDescription": "Macera Modu karakterler, büyük güç ve büyük sorumluluk gerektiren dünyalar!",
+
+		"ClassicWorlds": "Klasik",
+		"ClassicWorldsDescription": "Standart Terraria deneyimine dayalı dünyalar.",
+
+		"ExpertWorlds": "Uzman",
+		"ExpertWorldsDescription": "Uzman zorluğuna dayalı dünyalar - servet ve şan, evlat!",
+
+		"MasterWorlds": "Usta",
+		"MasterWorldsDescription": "Usta zorluğuna dayalı dünyalar, sadece çılgınca bir mücadele arayanlar için!",
+
+		"ChallengeWorlds": "Meydan okuma",
+		"ChallengeWorldsDescription": "Yeteneklerine meydan okuyan dünyalar! Parkurdan bulmacalara ve daha fazlasına!",
+
+		"CorruptionWorlds": "Bozulma",
+		"CorruptionWorldsDescription": "Kötücül Bozulma tarafından pislik kapmış dünyalar.",
+
+		"CrimsonWorlds": "Kızıllık",
+		"CrimsonWorldsDescription": "Her şeyi yiyip bitiren Kızıllık'tan etkilenmiş dünyalar.",
+
+		"SmallWorlds": "Küçük",
+		"SmallWorldsDescription": "Küçük, kompakt ve rahat dünyalar!",
+
+		"MediumWorlds": "Orta",
+		"MediumWorldsDescription": "Ne küçük ne büyük, tam boyutunda olan dünyalar!",
+
+		"LargeWorlds": "Büyük",
+		"LargeWorldsDescription": "Dolu dolu bir parti için yeterince büyük dünyalar!",
+
+		"OtherWorlds": "Diğer",
+		"OtherWorldsDescription": "Başka bir amaca hizmet eden dünyalar, öteki dünyalarla karıştırılmamalıdır!",
+
+		"FromTerrariaMods": "Modlardan",
+		"FromTerrariaModsDescription": "Modlara dayalı içeriğe sahip kaynak paketleri.",
+
+		"PopularCulture": "Popüler Kültür",
+		"PopularCultureDescription": "Popüler kültürle dolu kaynak paketleri.",
+
+		"FunSilly": "Eğlenceli/Aptalca",
+		"FunSillyDescription": "Eğlenceli, aptalca şeyler için kaynak paketleri. Capsler buraya gelecek!",
+
+		"Music": "Müzik",
+		"MusicDescription": "Terraria'nın müziğini değiştiren, yeni hisler veren kaynak paketleri!",
+
+		"LanguageTranslations": "Çeviri",
+		"LanguageTranslationsDescription": "Çevirileri ayarlayan veya tamamen yenilerini ekleyen kaynak paketleri!",
+
+		"HighResolution": "Yüksek Çözünürlük",
+		"HighResolutionDescription": "Yüksek çözünürlüklü içeriğe odaklanan kaynak paketleri.",
+
+		"Overhaul": "Elden Geçirme",
+		"OverhaulDescription": "Terraria'nın bir kısmını veya tamamını tamamen elden geçiren kaynak paketleri!",
+
+		"Tweaks": "İnce Ayar",
+		"TweaksDescription": "Belirli şeylerde yalnızca küçük değişiklikler yapmayı amaçlayan kaynak paketleri.",
+
+		"OtherResourcePacks": "Diğer",
+		"OtherResourceDescription": "Başka bir amaca hizmet eden kaynak paketleri, ne kadar da diğer dünyevi!",
 	},
 	"Net": {
 		"ClientStatusComplete": "({0}) {1} {2}: Tamamlandı!",
