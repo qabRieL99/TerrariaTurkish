@@ -1,7 +1,7 @@
 
 
 # Terraria Türkçe Çevirisi :tr:
-![enter image description here](https://terraria.org/assets/logo-203e9bcd9af6ac8193d8b185aa64b8c8.png)
+![enter image description here](https://i.imgur.com/DmjgF18.jpg)
 
 :information_source: Terraria için gerçekleştirilen bir çeviri çalışmasıdır. An itibari ile oyunun güncel sürümü: `1.4.2.1`
 
