@@ -240,7 +240,7 @@
 		"WorldCreationNumberOfWorlds": "# of Worlds:",
 		"WorldCreationNumberOfWorldsDescription": "Number of worlds to generate at once",
 		"ItemCannotBePlacedInsideItself": "Placing into itself will be blocked",
-		"WorldDescriptionName": "Give your world a name! Choose carefully, you cannot change it later!",
+		"WorldDescriptionName": "Give your world a name! You can always change it later if needed!",
 		"WorldDescriptionSeed": "The DNA marker that defines your world's specific shape and traits.",
 		"WorldDescriptionSizeSmall": "Ideal for a quick, single player experience.",
 		"WorldDescriptionSizeMedium": "Bigger and better for prolonged exploration, or bringing a friend.",
@@ -408,7 +408,7 @@
 		"TweaksDescription": "Resource packs that aim to only make minor changes to specific things.",
 
 		"OtherResourcePacks": "Other",
-		"OtherResourceDescription": "Resource packs that serve another purpose, how otherworldly!",
+		"OtherResourcePacksDescription": "Resource packs that serve another purpose, how otherworldly!",
 	},
 	"Net": {
 		"ClientStatusComplete": "({0}) {1} {2}: Complete!",
