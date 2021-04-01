@@ -240,7 +240,7 @@
 		"WorldCreationNumberOfWorlds": "Dünya Sayısı:",
 		"WorldCreationNumberOfWorldsDescription": "Tek seferde yaratılacak dünya sayısı",
 		"ItemCannotBePlacedInsideItself": "Kendi içine yerleştirmek engellenecek",
-		"WorldDescriptionName": "Dünyana bir isim ver! Dikkatli seç, daha sonra değiştiremezsin!",
+		"WorldDescriptionName": "Dünyana bir isim ver! İstersen sonra değiştirebilirsin!",
 		"WorldDescriptionSeed": "Dünyanın belirli şeklini ve özelliklerini tanımlayan DNA işareti.",
 		"WorldDescriptionSizeSmall": "Hızlı, tek oyuncu deneyimi için en uygundur.",
 		"WorldDescriptionSizeMedium": "Uzun süreli keşif ya da bir arkadaş davet etmek için daha büyük.",
@@ -408,7 +408,7 @@
 		"TweaksDescription": "Belirli şeylerde yalnızca küçük değişiklikler yapmayı amaçlayan kaynak paketleri.",
 
 		"OtherResourcePacks": "Diğer",
-		"OtherResourceDescription": "Başka bir amaca hizmet eden kaynak paketleri, ne kadar da diğer dünyevi!",
+		"OtherResourcePacksDescription": "Başka bir amaca hizmet eden kaynak paketleri, ne kadar da diğer dünyevi!",
 	},
 	"Net": {
 		"ClientStatusComplete": "({0}) {1} {2}: Tamamlandı!",
