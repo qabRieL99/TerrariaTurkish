@@ -670,6 +670,8 @@
 		"EmpressButterfly": "Prizmatik Zarkanat",
 		"PirateGhost": "Korsan Laneti",
 		"TorchGod": "Meşale Tanrı'sı",
-		"Princess": "Prenses"
+		"Princess": "Prenses",
+		"ChaosBallTim": "{$NPCName.ChaosBall}",
+		"VileSpitEaterOfWorlds": "{$NPCName.VileSpit}",
 	}
 }
