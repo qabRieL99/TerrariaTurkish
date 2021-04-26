@@ -670,6 +670,8 @@
 		"EmpressButterfly": "Prismatic Lacewing",
 		"PirateGhost": "Pirate's Curse",
 		"TorchGod": "The Torch God",
-		"Princess": "Princess"
+		"Princess": "Princess",
+		"ChaosBallTim": "{$NPCName.ChaosBall}",
+		"VileSpitEaterOfWorlds": "{$NPCName.VileSpit}",
 	}
 }
