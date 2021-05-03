@@ -5508,7 +5508,7 @@
 		"ArcticDivingGear": "Yüzmeyi sağlar ve su altında nefes almayı büyük ölçüde artırır\nBuz üzerinde fazladan denge sağlar\nSu altında daha canlı hale gelen çok ince bir parıltı üretir",
 		"FrostsparkBoots": "Uçmayı, çok hızlı koşmayı ve buz üzerinde fazladan dengeyi sağlar\n%8 artırılmış hareket hızı",
 		"FartInABalloon": "Kuşanana çift zıplama yeteneği sunar\nZıplama yüksekliğini artırır",
-		"PapyrusScarab": "Azami yardakçı sayısını 1 artırır\nIncreases the damage and knockback of your minions",
+		"PapyrusScarab": "Azami yardakçı sayısını 1 artırır\nYardakçılarının verdiği hasarı ve geritepmeyi artırır",
 		"CelestialStone": "Hasara, yakın dövüş hızına, kritik vuruş olasılığına, sağlık yenilenmesine,\nsavunmaya, kazı hızına ve yardakçı geritepmesine ufak iyileştirmeler",
 		"Hoverboard": "{$CommonItemTooltip.FlightAndSlowfall}\n{$CommonItemTooltip.PressDownToHover}",
 		"Present": "{$CommonItemTooltip.RightClickToOpen}",
