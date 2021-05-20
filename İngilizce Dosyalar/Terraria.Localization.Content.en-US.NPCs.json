@@ -673,5 +673,6 @@
 		"Princess": "Princess",
 		"ChaosBallTim": "{$NPCName.ChaosBall}",
 		"VileSpitEaterOfWorlds": "{$NPCName.VileSpit}",
+		"GoldenSlime": "Golden Slime",
 	}
 }

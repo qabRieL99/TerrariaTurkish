@@ -1356,6 +1356,7 @@
 		"LegacyHack_IsBossAndNotExpert": "",
 		"IsExpert": "This is an Expert Mode drop rate",
 		"IsMasterMode": "This is a Master Mode drop rate",
+		"Is10thAnniverary": "This is an Anniversary Seed drop rate",
 		"IsCrimson": "Drops in the Crimson",
 		"IsCorruption": "Drops in the Corruption",
 		"IsCrimsonAndNotExpert": "",

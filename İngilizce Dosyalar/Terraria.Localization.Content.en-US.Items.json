@@ -32,7 +32,8 @@
 		"CreativeSacrificeNeeded": "Research {0} more to unlock duplication",
 		"CreativeSacrificeComplete": "Duplication unlocked",
 		"TeleportationPylon": "Teleport to another pylon when 2 villagers are nearby\nYou can only place one per type and in the matching biome",
-		"Whips": "Your summons will focus struck enemies"
+		"Whips": "Your summons will focus struck enemies",
+		"WizardHatDuringAnniversary": "Increases your max number of minions by 1"
 	},
 	"PaintingArtist": {
 		"Crowno": "'V. Costa Moura'",
@@ -7153,6 +7154,7 @@
 		"CrystalNinjaChestplate": "5% increased damage\nReduces ammo usage by 10%",
 		"CrystalNinjaLeggings": "20% increased movement speed\n10% increased melee speed",
 		"QueenSlimeMountSaddle": "Summons a rideable Winged Slime mount",
+		"QueenSlimeBossBag": "{$CommonItemTooltip.RightClickToOpen}",
 		"QueenSlimeCrystal": "Summons Queen Slime",
 		"RocketLauncher": "Does extra damage on a direct hit",
 		"ProximityMineLauncher": "Mines deal triple damage when armed",
