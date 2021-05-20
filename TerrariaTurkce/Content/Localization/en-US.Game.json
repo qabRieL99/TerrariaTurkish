@@ -1356,6 +1356,7 @@
 		"LegacyHack_IsBossAndNotExpert": "",
 		"IsExpert": "Bu, Uzman Modu düşüş oranıdır",
 		"IsMasterMode": "Bu bir Usta Modu düşme oranıdır",
+		"Is10thAnniverary": "Bu bir Yıl Dönümü Tohumu düşme oranıdır",
 		"IsCrimson": "Kızıllık'ta düşer",
 		"IsCorruption": "Bozulma'da düşer",
 		"IsCrimsonAndNotExpert": "",

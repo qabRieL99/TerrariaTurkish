@@ -32,7 +32,8 @@
 		"CreativeSacrificeNeeded": "Çoğaltmayı açmak için {0} tane daha araştır",
 		"CreativeSacrificeComplete": "Çoğaltma açıldı",
 		"TeleportationPylon": "Yakında 2 köylü varken başka bir direğe ışınlan\nHer tip için yalnızca eşleşen biyomda ve bir tane yerleştirebilirsin",
-		"Whips": "Yardakçıların saldırdığın düşmanlara odaklanır"
+		"Whips": "Yardakçıların saldırdığın düşmanlara odaklanır",
+		"WizardHatDuringAnniversary": "Azami yardakçı sayısını 1 artırır"
 	},
 	"PaintingArtist": {
 		"Crowno": "'V. Costa Moura'",
@@ -7153,6 +7154,7 @@
 		"CrystalNinjaChestplate": "%5 artırılmış hasar\nCephane tüketimini %10 azaltır",
 		"CrystalNinjaLeggings": "%20 artırılmış hareket hızı\n%10 artırılmış yakın dövüş hızı",
 		"QueenSlimeMountSaddle": "Sürülebilir Kanatlı Balçık bineğini çağırır",
+		"QueenSlimeBossBag": "{$CommonItemTooltip.RightClickToOpen}",
 		"QueenSlimeCrystal": "Kraliçe Balçık'ı çağırır",
 		"RocketLauncher": "Doğrudan vuruşta fazladan hasar verir",
 		"ProximityMineLauncher": "Mayınlar silahlandığında üç kat hasar verir",
