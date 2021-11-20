@@ -613,7 +613,9 @@
 		"BirthdayParty_2": "Looks like {0} & {1} are throwing a party",
 		"BirthdayParty_3": "Looks like {0}, {1}, and {2} are throwing a party",
 		"BallBounceResultGolf_Single": "{0} sunk the {1} in {2} stroke!",
-		"BallBounceResultGolf_Plural": "{0} sunk the {1} in {2} strokes!"
+		"BallBounceResultGolf_Plural": "{0} sunk the {1} in {2} strokes!",
+		"DarknessDanger": "It is very dark...you feel in danger...",
+		"DarknessSafe": "The danger of the dark has passed."
 	},
 	"Enemies": {
 		"TheTwins": "The Twins",
@@ -684,7 +686,9 @@
 		"Petrified_2": "{0} can't be put back together again.",
 		"Petrified_3": "{0} needs to be swept up.",
 		"Petrified_4": "{0} just became another dirt pile.",
-		"Inferno": "{0} was consumed by the inferno."
+		"Inferno": "{0} was consumed by the inferno.",
+		"DiedInTheDark": "{0} was killed by something in the dark!",
+		"Starved": "{0} starved to death."
 	},
 	"Misc": {
 		"ForceWaterSettling": "Forcing water to settle.",
@@ -1006,7 +1010,11 @@
 		"7": "Terraria: Slimeassic Park",
 		"8": "Terraria: The Grass is Greener on This Side",
 		"9": "Terraria: Small Blocks, Not for Children Under the Age of 5",
-		"55": "Terraria: Shut Up and Dig Gaiden!"
+		"55": "Terraria: Shut Up and Dig Gaiden!",
+		"56": "Terraria: Also try Don't Starve!"
+	},
+	"SpecialWorldName": {
+		"TheConstant": "The Constant"
 	},
 	"RandomWorldName_Legacy": {
 		"1": "Redigit's Kingdom",
@@ -3000,4 +3008,13 @@
 	"1": "Thank you for playing!",
 	},
 
+	"TitleLinks": {
+		"Discord": "Discord",
+		"Reddit": "Reddit",
+		"Instagram": "Instagram",
+		"Twitter": "Twitter",
+		"Forums": "Forums",
+		"Merch": "Store",
+		"Wiki": "Wiki",
+	},
 }

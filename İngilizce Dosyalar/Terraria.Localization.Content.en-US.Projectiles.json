@@ -885,5 +885,14 @@
 		"BoneWhip": "Spinal Tap",
 		"WandOfSparkingSpark": "{$ProjectileName.Spark}",
 		"StarCannonStar": "{$ProjectileName.FallingStar}",
+		"DeerclopsIceSpike": "Ice Spike",
+		"DeerclopsRangedProjectile": "Debris",
+		"AbigailMinion": "Abigail",
+		"InsanityShadowFriendly": "Shadow Hand",
+		"InsanityShadowHostile": "Shadow Hand",
+		"HoundiusShootius": "Houndius Shootius",
+		"HoundiusShootiusFireball": "Houndius Shootius",
+		"PewMaticHornShot": "Pew-Matic Stuff",
+		"WeatherPainShot": "Hurtnado",
 	}
 }

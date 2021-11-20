@@ -1,6 +1,7 @@
 {
 	"WorldGeneration": {
-		"OceanSand":  "Generating ocean sand"
+		"OceanSand":  "Generating ocean sand",
+		"WavyCaves": "Generating wavy caves"
 	},
 	"LoadingTips_Default": {
 		"1": "Other players can loot your chests! If you don't trust them, use a Safe or Piggy Bank; those items have storage that is exclusive to each player.",
@@ -305,7 +306,13 @@
 		"TownBestiaryGirlFox": "/{$EmojiName.TownBestiaryGirlFox}",
 		"BossEmpressOfLight": "/{$EmojiName.BossEmpressOfLight}",
 		"BossQueenSlime": "/{$EmojiName.BossQueenSlime}",
-		"TownPrincess": "/{$EmojiName.TownPrincess}"
+		"TownPrincess": "/{$EmojiName.TownPrincess}",
+		"Peckish": "/{$EmojiName.Peckish}",
+		"Hungry": "/{$EmojiName.Hungry}",
+		"Starving": "/{$EmojiName.Starving}",
+		"LucyTheAxe": "/{$EmojiName.LucyTheAxe}",
+		"BossDeerclops": "/{$EmojiName.BossDeerclops}"
+
 	},
 	"EmojiName": {
 		"EmotionLove": "heart",
@@ -453,7 +460,12 @@
 		"TownBestiaryGirlFox": "zoologistfox",
 		"BossEmpressOfLight": "eol",
 		"BossQueenSlime": "queenslime",
-		"TownPrincess": "princess"
+		"TownPrincess": "princess",
+		"Peckish": "peckish",
+		"Hungry": "hunger",
+		"Starving": "starving",
+		"LucyTheAxe": "lucy",
+		"BossDeerclops": "deerclops"
 	},
 	"Announcement": {
 		"HasBeenDefeated_Single": "{0} has been defeated!",
@@ -860,6 +872,15 @@
 		"OnFire3": "Hellfire",
 		"Frostburn2": "Frostbite",
 		"FlinxMinion": "Flinx",
+		"NeutralHunger": "Peckish",
+		"Hunger": "Hungry",
+		"Starving": "Starving",
+		"BerniePet": "Bernie",
+		"GlommerPet": "Glommer",
+		"DeerclopsPet": "Tiny Deerclops",
+		"PigPet": "Pig",
+		"ChesterPet": "Chester",
+		"AbigailMinion": "Abigail",
 		
 
 	},
@@ -985,7 +1006,7 @@
 		"ImpMinion": "The imp will fight for you",
 		"ZephyrFish": "It likes swimming around you",
 		"BunnyMount": "You are craving carrots",
-		"PigronMount": "Now you see me....",
+		"PigronMount": "Now you see me...",
 		"SlimeMount": "BOOOIIINNNG!",
 		"TurtleMount": "Slow if by land, zoom if by sea",
 		"BeeMount": "BzzzBzzBZZZZBzzz",
@@ -1017,7 +1038,7 @@
 		"DryadsWardDebuff": "The power of nature compells you",
 		"StardustGuardianMinion": "The stardust guardian will protect you",
 		"StardustDragonMinion": "The stardust dragon will protect you",
-		"Daybreak": "Incenerated by solar rays",
+		"Daybreak": "Incinerated by solar rays",
 		"SuspiciousTentacle": "A suspicious looking eye that provides light",
 		"CompanionCube": "Will never threaten to stab you and, in fact, cannot speak",
 		"PetDD2Gato": "A propeller gato is following you",
@@ -1134,9 +1155,9 @@
 		"ShadowMimic": "A shadow mimic is following you",
 		"VoltBunny": "A volt bunny is ecstatic about you",
 		"KingSlimePet": "He answers to a higher authority",
-		"EyeOfCthulhuPet": "Just keepin' an eye out . . .",
+		"EyeOfCthulhuPet": "Just keepin' an eye out...",
 		"EaterOfWorldsPet": "May ruin several backyards",
-		"BrainOfCthulhuPet": "It's crawling around . . . icky",
+		"BrainOfCthulhuPet": "It's crawling around... icky",
 		"SkeletronPet": "Skeletron Jr. Is following you",
 		"QueenBeePet": "A honey bee is following you",
 		"DestroyerPet": "For destruction on the go",
@@ -1156,7 +1177,7 @@
 		"DD2BetsyPet": "Itsy Betsy is following you",
 		"PirateShipMount": "You're the captain now",
 		"SpookyWoodMount": "Run, forest, run!",
-		"SantankMount": "Crossing off the naughty list . . .",
+		"SantankMount": "Crossing off the naughty list...",
 		"WallOfFleshGoatMount": "This ride is totally metal!",
 		"DarkMageBookMount": "The Book is now helping in your guidance",
 		"PaintedHorseMount": "Riding a Painted Horse",
@@ -1182,6 +1203,15 @@
 		"Frostburn2": "It's either really hot or really cold. Either way it REALLY hurts",
 		"OnFire3": "Slowly losing life",
 		"FlinxMinion": "The snow flinx will fight for you",
+		"NeutralHunger": "You could eat, but it's not so bad.",
+		"Hunger": "You are quite hungry and feeling weak.",
+		"Starving": "You are starving to death! Eat immediately!",
+		"BerniePet": "You're always there for me, Bernie",
+		"GlommerPet": "It's fuzzy! And slimy...",
+		"DeerclopsPet": "Holy crap!",
+		"PigPet": "Walking back bacon!",
+		"ChesterPet": "Otto von Chesterfield, Esquire",
+		"AbigailMinion": "Abigail will fight to protect you",
 
 	},
 	"ArmorSetBonus": {
@@ -1357,6 +1387,7 @@
 		"IsExpert": "This is an Expert Mode drop rate",
 		"IsMasterMode": "This is a Master Mode drop rate",
 		"Is10thAnniverary": "This is an Anniversary Seed drop rate",
+		"IsDontStarve": "This is a Don't Starve Seed drop rate",
 		"IsCrimson": "Drops in the Crimson",
 		"IsCorruption": "Drops in the Corruption",
 		"IsCrimsonAndNotExpert": "",
@@ -2034,6 +2065,7 @@
 		"npc_EmpressButterfly": "Should one of these luminescent beings perish in the chaos of night, a sleeping tyrant is rumored to violently awaken.",
 		"npc_TorchGod": "An unseen deity responsible for a torch's eternal flicker, however easily angered by the unsightly, ungrateful abuse of torch placement.",
 		"npc_Princess": "Shy and innocent, this happy young lady sees the positive in everything, and everybody. She appreciates all of her subjects, from all walks of life.",
+		"npc_Deerclops": "Hailing from a distant land, this cyclopic monstrosity lurks in cold places, wreaking havoc on those who disturb it.",
 	},
 		"CreativePowers": {
 		"InfiniteItemSacrificeShortDescription": "Researching <item name> will consume it",
@@ -2134,6 +2166,52 @@
 		"Sort_Blocks": "Blocks",
 		"Sort_Alphabetical": "Name",
 		"CantUsePowerBecauseOfNoPermissionFromServer": "You have no permission for this power"
+	},
+	"LucyTheAxe_Idle":
+	{
+		"1": "Hey! Chop some trees!",
+		"2": "This is perfect chopping weather.",
+		"3": "Chop chop chop. Heh.",
+		"4": "We make a good team!",
+		"5": "Let's find a small grove and just go nuts!",
+	},
+	"LucyTheAxe_Storage":
+	{
+		"1": "This sucks.",
+		"2": "It's dark in here!",
+		"3": "Help! Get me out!",
+		"4": "There's nothing to chop in here!",
+		"5": "I'm claustrophobic!",
+	},
+	"LucyTheAxe_ThrownAway":
+	{
+		"1": "You'll come back, right?",
+		"2": "Hey! I'd never throw you away!",
+		"3": "Don't forget about me!",
+		"4": "Aren't we friends?",
+		"5": "You're abandoning me?!",
+	},
+	"LucyTheAxe_PickedUp":
+	{
+		"1": "Oh, thank goodness!",
+		"2": "From now on we'll be inseparable.",
+		"3": "Ahh, I'm back where I belong.",
+	},
+	"LucyTheAxe_ChoppedTree":
+	{
+		"1": "Again! Let's chop another!",
+		"2": "This is AWESOME!",
+		"3": "Die! Die!",
+		"4": "This is what I live for!",
+		"5": "Stupid tree!",
+		"6": "I feel ALIVE!",
+		"7": "We did it!",
+		"8": "HaHAHA!",
+		"9": "Woooooo!",
+		"10": "YEEEESS!",
+	},
+	"LucyTheAxe_GemTree":
+	{
+		"1": "So, stone trees . . . what's up with that?",
 	}
-
 }
