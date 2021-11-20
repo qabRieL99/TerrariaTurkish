@@ -885,5 +885,14 @@
 		"BoneWhip": "Omurilik Suyu",
 		"WandOfSparkingSpark": "{$ProjectileName.Spark}",
 		"StarCannonStar": "{$ProjectileName.FallingStar}",
+		"DeerclopsIceSpike": "Buz Çivisi",
+		"DeerclopsRangedProjectile": "Döküntü",
+		"AbigailMinion": "Abigail",
+		"InsanityShadowFriendly": "Gölge El",
+		"InsanityShadowHostile": "Gölge El",
+		"HoundiusShootius": "Tazıyus Vuruşus",
+		"HoundiusShootiusFireball": "Tazıyus Vuruşus",
+		"PewMaticHornShot": "Dışıng-matik Korna",
+		"WeatherPainShot": "Acıtankasırga",
 	}
 }

@@ -674,5 +674,7 @@
 		"ChaosBallTim": "{$NPCName.ChaosBall}",
 		"VileSpitEaterOfWorlds": "{$NPCName.VileSpit}",
 		"GoldenSlime": "Altın Balçık",
+		"Deerclops": "Geyikgöz",
+		"DeerclopsLeg": "Geyikgöz Bacağı",
 	}
 }

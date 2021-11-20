@@ -613,7 +613,9 @@
 		"BirthdayParty_2": "Görünüşe göre {0} ve {1} parti veriyor",
 		"BirthdayParty_3": "Görünüşe göre {0}, {1} ve {2} parti veriyor",
 		"BallBounceResultGolf_Single": "{0}, {1} 'nu {2} vuruşta deliğe soktu!",
-		"BallBounceResultGolf_Plural": "{0}, {1} 'nu {2} vuruşta deliğe soktu!"
+		"BallBounceResultGolf_Plural": "{0}, {1} 'nu {2} vuruşta deliğe soktu!",
+		"DarknessDanger": "Çok karanlık... tehlikede hissediyorsun...",
+		"DarknessSafe": "Karanlığın tehlikesi geçti."
 	},
 	"Enemies": {
 		"TheTwins": "İkizler",
@@ -684,7 +686,9 @@
 		"Petrified_2": "{0} tekrar bir araya getirilemez.",
 		"Petrified_3": "{0}'in süpürülmesi gerekiyor.",
 		"Petrified_4": "{0} bir başka toz yığını oldu.",
-		"Inferno": "{0} cehennem tarafından tüketildi."
+		"Inferno": "{0} cehennem tarafından tüketildi.",
+		"DiedInTheDark": "{0} karanlıkta bir şey tarafından öldürüldü!",
+		"Starved": "{0} açlıktan geberdi."
 	},
 	"Misc": {
 		"ForceWaterSettling": "Su durulmaya zorlanıyor.",
@@ -1006,7 +1010,11 @@
 		"7": "Terraria: Slimeassic Park",
 		"8": "Terraria: The Grass is Greener on This Side",
 		"9": "Terraria: Small Blocks, Not for Children Under the Age of 5",
-		"55": "Terraria: Shut Up and Dig Gaiden!"
+		"55": "Terraria: Shut Up and Dig Gaiden!",
+		"56": "Terraria: Also try Don't Starve!"
+	},
+	"SpecialWorldName": {
+		"TheConstant": "The Constant"
 	},
 	"RandomWorldName_Legacy": {
 		"1": "Redigit'in Krallığı",
@@ -3000,4 +3008,13 @@
 	"1": "Oynadığın için teşekkürler!",
 	},
 	
+	"TitleLinks": {
+		"Discord": "Discord",
+		"Reddit": "Reddit",
+		"Instagram": "Instagram",
+		"Twitter": "Twitter",
+		"Forums": "Forum",
+		"Merch": "Mağaza",
+		"Wiki": "Wiki",
+	},
 }

@@ -15,6 +15,7 @@
 |Özgün|Çeviri|
 |--|--|
 |Brain of Cthulhu|Cthulhu'nun Beyni|
+|Deerclops|Geyikgöz|
 |Duke Fishron|Dük Balıkejder|
 |Eater of the Worlds|Cihan Yiyici|
 |Empress of Light|Işık İmparatoriçesi|

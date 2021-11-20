@@ -1,6 +1,7 @@
 {
 	"WorldGeneration": {
-		"OceanSand":  "Okyanus kumu üretiliyor"
+		"OceanSand":  "Okyanus kumu üretiliyor",
+		"WavyCaves": "Dalgalı mağaralar oluşturuluyor"
 	},
 	"LoadingTips_Default": {
 		"1": "Diğer oyuncular sandığını yağmalayabilir! Onlara güvenmiyorsan, Kasa veya Kumbara kullan; bu öğeler her oyuncuya özel depolama sunar.",
@@ -305,7 +306,13 @@
 		"TownBestiaryGirlFox": "/{$EmojiName.TownBestiaryGirlFox}",
 		"BossEmpressOfLight": "/{$EmojiName.BossEmpressOfLight}",
 		"BossQueenSlime": "/{$EmojiName.BossQueenSlime}",
-		"TownPrincess": "/{$EmojiName.TownPrincess}"
+		"TownPrincess": "/{$EmojiName.TownPrincess}",
+		"Peckish": "/{$EmojiName.Peckish}",
+		"Hungry": "/{$EmojiName.Hungry}",
+		"Starving": "/{$EmojiName.Starving}",
+		"LucyTheAxe": "/{$EmojiName.LucyTheAxe}",
+		"BossDeerclops": "/{$EmojiName.BossDeerclops}"
+
 	},
 	"EmojiName": {
 		"EmotionLove": "heart",
@@ -453,7 +460,12 @@
 		"TownBestiaryGirlFox": "zoologistfox",
 		"BossEmpressOfLight": "eol",
 		"BossQueenSlime": "queenslime",
-		"TownPrincess": "princess"
+		"TownPrincess": "princess",
+		"Peckish": "peckish",
+		"Hungry": "hunger",
+		"Starving": "starving",
+		"LucyTheAxe": "lucy",
+		"BossDeerclops": "deerclops"
 	},
 	"Announcement": {
 		"HasBeenDefeated_Single": "{0} bozguna uğratıldı!",
@@ -860,7 +872,16 @@
 		"OnFire3": "Cehennemateşi",
 		"Frostburn2": "Ayazısırığı",
 		"FlinxMinion": "Flinx",
-		
+		"NeutralHunger": "Acıkmış",
+		"Hunger": "Aç",
+		"Starving": "Çok Aç",
+		"BerniePet": "Bernie",
+		"GlommerPet": "Glommer",
+		"DeerclopsPet": "Ufak Deerclops",
+		"PigPet": "Domuz",
+		"ChesterPet": "Chester",
+		"AbigailMinion": "Abigail",
+
 
 	},
 	"BuffDescription": {
@@ -1182,6 +1203,15 @@
 		"Frostburn2": "Ya gerçekten sıcak ya da çok soğuk. Her iki durumda da GERÇEKTEN acıtıyor",
 		"OnFire3": "Yavaşça sağlık kaybedersin",
 		"FlinxMinion": "Kar flinx senin adına savaşacak",
+		"NeutralHunger": "Yemek yiyebilirsin ama o kadar da kötü değil.",
+		"Hunger": "Oldukça açsın ve kendini zayıf hissediyorsun.",
+		"Starving": "Açlıktan ölüyorsun! Hemen bir şeyler ye!",
+		"BerniePet": "Hep yanımdasın, Bernie",
+		"GlommerPet": "Bulanık! Ve sümüksü...",
+		"DeerclopsPet": "Hadi be!",
+		"PigPet": "Geri yürüyen pastırma!",
+		"ChesterPet": "Otto von Chesterfield, Esquire",
+		"AbigailMinion": "Abigail seni korumak için savaşacak",
 
 	},
 	"ArmorSetBonus": {
@@ -1357,6 +1387,7 @@
 		"IsExpert": "Bu, Uzman Modu düşüş oranıdır",
 		"IsMasterMode": "Bu bir Usta Modu düşme oranıdır",
 		"Is10thAnniverary": "Bu bir Yıl Dönümü Tohumu düşme oranıdır",
+		"IsDontStarve": "Bu bir Don't Starve Tohumu düşürme oranıdır",
 		"IsCrimson": "Kızıllık'ta düşer",
 		"IsCorruption": "Bozulma'da düşer",
 		"IsCrimsonAndNotExpert": "",
@@ -2034,6 +2065,7 @@
 		"npc_EmpressButterfly": "Bu ışıldayan varlıklardan biri gecenin kaosunda yok olursa, uyuyan bir zorbanın şiddetle uyandığı söylenir.",
 		"npc_TorchGod": "Bir meşalenin sonsuz titremesinden sorumlu, görünmeyen bir tanrı, ancak meşale yerleştirmeyi çirkin, nankör bir şekilde kötüye kullanılması tarafından kolayca öfkelenir.",
 		"npc_Princess": "Utangaç ve masum, bu mutlu genç bayan her şeyde ve herkeste olumlu yönü görüyor. Hayatın her kesiminden tüm konularını takdir ediyor.",
+		"npc_Deerclops": "Uzak bir ülkeden gelen bu tek gözlü canavar, soğuk yerlerde pusuya yatarak onu rahatsız edenleri alt üst eder.",
 	},
 		"CreativePowers": {
 		"InfiniteItemSacrificeShortDescription": "<item name> araştırmak onu yok edecektir",
@@ -2134,6 +2166,52 @@
 		"Sort_Blocks": "Bloklar",
 		"Sort_Alphabetical": "Ad",
 		"CantUsePowerBecauseOfNoPermissionFromServer": "Bu güç için yetkin yok."
+		},
+	"LucyTheAxe_Idle":
+	{
+		"1": "Hey! Biraz ağaç kes!",
+		"2": "Bu mükemmel bir ağaç kesme havası.",
+		"3": "Kes kes kes. Heh.",
+		"4": "İyi bir ekip oluşturduk!",
+		"5": "Küçük bir koru bulalım ve çıldıralım!",
+	},
+	"LucyTheAxe_Storage":
+	{
+		"1": "Berbat bişi.",
+		"2": "Burası karanlık!",
+		"3": "Yardım! Çıkar beni!",
+		"4": "Burada kesecek bir şey yok!",
+		"5": "Ben klostrofobiğim!",
+	},
+	"LucyTheAxe_ThrownAway":
+	{
+		"1": "Geri geleceksin, değil mi?",
+		"2": "Hey! Ben seni asla atmazdım!",
+		"3": "Beni unutmayasın!",
+		"4": "Arkadaş değil miyiz?",
+		"5": "Beni terk mi ediyorsun?!",
+	},
+	"LucyTheAxe_PickedUp":
+	{
+		"1": "Oh, çok şükür!",
+		"2": "Bundan böyle ayrılmaz olacağız.",
+		"3": "Ah, ait olduğum yere geri döndüm.",
+	},
+	"LucyTheAxe_ChoppedTree":
+	{
+		"1": "Yine! Başka bir tane keselim!",
+		"2": "Bu HARİKA!",
+		"3": "Geber! Geber!",
+		"4": "Bunun için yaşıyorum işte!",
+		"5": "Aptal ağaç!",
+		"6": "YAŞIYORUM be!",
+		"7": "Başardık!",
+		"8": "HaHAHA!",
+		"9": "Eveeet!",
+		"10": "EVEEEET!",
+	},
+	"LucyTheAxe_GemTree":
+	{
+		"1": "Demek taştan ağaçlar... o da neymiş öyle?",
 	}
-
 }
