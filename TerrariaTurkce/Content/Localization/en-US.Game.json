@@ -881,6 +881,7 @@
 		"PigPet": "Domuz",
 		"ChesterPet": "Chester",
 		"AbigailMinion": "Abigail",
+		"HeartyMeal": "Kalpli Yemek",
 
 
 	},
@@ -1212,7 +1213,8 @@
 		"PigPet": "Geri yürüyen pastırma!",
 		"ChesterPet": "Otto von Chesterfield, Esquire",
 		"AbigailMinion": "Abigail seni korumak için savaşacak",
-
+		"HeartyMeal": "Arttırılmış sağlık yenilenmesi",
+		
 	},
 	"ArmorSetBonus": {
 		"SquireTier3": "Azami taret sayını artırır\nMancınık etkililiğini büyük oranda artırır",
