@@ -881,6 +881,7 @@
 		"PigPet": "Pig",
 		"ChesterPet": "Chester",
 		"AbigailMinion": "Abigail",
+		"HeartyMeal": "Hearty Meal",
 		
 
 	},
@@ -1212,6 +1213,7 @@
 		"PigPet": "Walking back bacon!",
 		"ChesterPet": "Otto von Chesterfield, Esquire",
 		"AbigailMinion": "Abigail will fight to protect you",
+		"HeartyMeal": "Increased Life Regeneration",
 
 	},
 	"ArmorSetBonus": {
