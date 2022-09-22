@@ -1021,7 +1021,7 @@
 		"UFOMount": "It's a good thing you had a MAC",
 		"DrillMount": "Riding in a flying drill",
 		"ScutlixMount": "Pew Pew",
-		"Electrified": "You cannot move",
+		"Electrified": "Moving hurts!",
 		"MoonLeech": "You are unable to absorb healing effects",
 		"Sunflower": "Movement speed increased and monster spawns reduced",
 		"MonsterBanner": "Increased damage and defense from the following:",
@@ -2215,5 +2215,9 @@
 	"LucyTheAxe_GemTree":
 	{
 		"1": "So, stone trees . . . what's up with that?",
+	},
+	"LucyTheAxe_ChoppedCactus":
+	{
+		"1": "When you think about it, cacti are just prickly trees!",
 	}
 }
