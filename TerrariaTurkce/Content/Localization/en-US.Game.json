@@ -1021,7 +1021,7 @@
 		"UFOMount": "Bir MAC'in olması çok iyi bir şey",
 		"DrillMount": "Uçan bir delgiyi sürüyorsun",
 		"ScutlixMount": "Dışın dışın",
-		"Electrified": "Hareket edemezsin",
+		"Electrified": "Hareket etmek canını yakar!",
 		"MoonLeech": "İyileşme etkilerini soğuramazsın",
 		"Sunflower": "Hareket hızı artırıldı ve düşmanların ortaya çıkma oranı azaltıldı",
 		"MonsterBanner": "Şu düşmanlara karşı artırılmış hasar ve savunma:",
@@ -2215,5 +2215,9 @@
 	"LucyTheAxe_GemTree":
 	{
 		"1": "Demek taştan ağaçlar... o da neymiş öyle?",
+	},
+	"LucyTheAxe_ChoppedCactus":
+	{
+		"1": "Şöyle bi' düşününce, kaktüsler aslında sadece dikenli ağaçlardır!",
 	}
 }
