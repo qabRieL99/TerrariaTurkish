@@ -3,11 +3,11 @@
 # Terraria Türkçe Çevirisi :tr:
 <img src="https://i.imgur.com/DmjgF18.jpg" width="240" height="240"/>
 
-:information_source: Terraria için gerçekleştirilen bir çeviri çalışmasıdır. An itibari ile oyunun güncel sürümü: `1.4.3.2`
+:information_source: Terraria için gerçekleştirilen bir çeviri çalışmasıdır. An itibari ile oyunun güncel sürümü: `1.4.4.5`
 
 :information_source: Steam sürümlerinde çalışmaktadır.
 
-:information_source: Kapak tasarımı: Hypto.
+:information_source: Kapak tasarımı: [Hypto](https://steamcommunity.com/id/hyptonise/).
 
 
 :envelope_with_arrow: Geri dönüş için buradan veya [DonanımHaber](https://forum.donanimhaber.com/profil/794792#!/) ya da [Steam](https://steamcommunity.com/id/qabriel99) profilim üzerinden iletişime geçebilirsiniz.

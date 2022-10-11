@@ -124,6 +124,7 @@
 ### Mekanlar
 |Özgün|Çeviri|
 |--|--|
+|Aether|Esîr|
 |Cavern|Yeraltı Boşluğu|
 |Corruption|Bozulma|
 |Crimson|Kızıllık|
@@ -135,7 +136,7 @@
 |Underground|Yeraltı|
 |Underworld|Cehennem|
 
-### Dost NPC'ler
+### Dost NPCler
 |Özgün|Çeviri|
 |--|--|
 |Arms Dealer|Silah Satıcısı|
@@ -158,6 +159,7 @@
 |--|--|
 |Cultist|Tarikatçı|
 |Eyeball Spring|Göz Pınarı|
+|Faeling|Pericik|
 |Fishron|Balıkejder|
 |Goblin|Cincüce|
 |Harpy|?|
@@ -199,6 +201,7 @@
 ### Ahşap Çeşitleri
 |Özgün|Çeviri|
 |--|--|
+|Ashwood|Külahşap|
 |Boreal Wood|Kuzeyahşap|
 |Dynasty Wood|Hanedan Ahşap|
 |Ebonwood|Abanoz|
