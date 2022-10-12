@@ -439,6 +439,7 @@
 		"CheatingLiquidSpam": "Cheating attempt detected: Liquid spam",
 		"CheatingInvalid": "Cheating attempt detected: Invalid kick-out",
 		"ServerAutoShutdown": "Local player left. Autoshutdown starting.",
+		"ServerSavingOnExit": "Saving before exit...",
 		"ConnectingTo": "Connecting to {0}",
 		"IsReceivingTileData": "is receiving tile data",
 		"LostConnection": "Lost connection",
@@ -835,6 +836,8 @@
 		"CloudBalloon": "Cloud Ballooon",
 		"BlizzardBalloon": "Blizzard Balloon",
 		"SandstormBalloon": "Sandstorm Balloon",
+		"CritterGuides": "Guide to Critter Companionship",
+		"NatureGuides": "Guide to Environmental Preservation",
 		"CombatBookVolumeTwoUsed": "{$Misc.CombatBookUsed}",
 		"PeddlersSatchelUsed": "The Traveling Merchant's satchel deepens!",
 	},
@@ -1091,7 +1094,9 @@
 		"TRANSMUTE_ITEM_Name": "A Shimmer In The Dark",
 		"TRANSMUTE_ITEM_Description": "Shimmer an item into another item. What other transmutations can you find?",
 		"PURIFY_ENTIRE_WORLD_Name": "And Good Riddance!",
-		"PURIFY_ENTIRE_WORLD_Description": "Completely purify all Corruption, Crimson, and Hallow from your world, until the Dryad is satisfied!"
+		"PURIFY_ENTIRE_WORLD_Description": "Completely purify all Corruption, Crimson, and Hallow from your world, until the Dryad is satisfied!",
+		"TO_INFINITY_AND_BEYOND_Name": "To Infinity... and Beyond!",
+		"TO_INFINITY_AND_BEYOND_Description": "Fly a Kwad Racer into outer space.",
 
 	},
 	"ItemVariant": {
@@ -1183,8 +1188,8 @@
 		"7": "Terraria: Slimeassic Park",
 		"8": "Terraria: The Grass is Greener on This Side",
 		"9": "Terraria: Small Blocks, Not for Children Under the Age of 5",
-		"55": "Terraria: Shut Up and Dig Gaiden!",
-		"56": "Terraria: Also try Don't Starve!"
+		"66": "Terraria: Shut Up and Dig Gaiden!",
+		"67": "Terraria: Also try Don't Starve!"
 	},
 	"SpecialWorldName": {
 		"TheConstant": "The Constant"
