@@ -439,6 +439,7 @@
 		"CheatingLiquidSpam": "Hile girişimi algılandı: Liquid spam",
 		"CheatingInvalid": "Hile girişimi algılandı: Invalid kick-out",
 		"ServerAutoShutdown": "Yerel oyuncu ayrıldı. Otomatik kapatma başlıyor.",
+		"ServerSavingOnExit": "Çıkmadan önce kaydediliyor...",
 		"ConnectingTo": "{0} bağlanılıyor",
 		"IsReceivingTileData": "döşeme bilgisi alıyor",
 		"LostConnection": "Bağlantı kaybedildi",
@@ -835,6 +836,8 @@
 		"CloudBalloon": "Bulut Balonu",
 		"BlizzardBalloon": "Kar Fırtınası Balonu",
 		"SandstormBalloon": "Kum Fırtınası Balonu",
+		"CritterGuides": "Böcek Şampiyonası Rehberi",
+		"NatureGuides": "Çevre Koruma Rehberi",
 		"CombatBookVolumeTwoUsed": "{$Misc.CombatBookUsed}",
 		"PeddlersSatchelUsed": "Gezgin Tüccar'ın çantası derinleşiyor!",
 	},
@@ -1091,7 +1094,9 @@
 		"TRANSMUTE_ITEM_Name": "Karanlıkta Bir Parıltı",
 		"TRANSMUTE_ITEM_Description": "Bir öğeyi başka bir öğeye Parıltı'la. Başka hangi dönüşümleri bulabileceksin?",
 		"PURIFY_ENTIRE_WORLD_Name": "Hele Şükür!",
-		"PURIFY_ENTIRE_WORLD_Description": "Dryad tatmin olana kadar tüm Bozulma, Kızıllık ve Cennet'i dünyandan tamamen arındır!"
+		"PURIFY_ENTIRE_WORLD_Description": "Dryad tatmin olana kadar tüm Bozulma, Kızıllık ve Cennet'i dünyandan tamamen arındır!",
+		"TO_INFINITY_AND_BEYOND_Name": "Sonsuzluk ve... Ötesine!",
+		"TO_INFINITY_AND_BEYOND_Description": "Bir Kwad Yarış Uçangözü uzaya uçur.",
 		
 	},
 	"ItemVariant": {
@@ -1183,8 +1188,8 @@
 		"7": "Terraria: Slimeassic Park",
 		"8": "Terraria: The Grass is Greener on This Side",
 		"9": "Terraria: Small Blocks, Not for Children Under the Age of 5",
-		"55": "Terraria: Shut Up and Dig Gaiden!",
-		"56": "Terraria: Also try Don't Starve!"
+		"66": "Terraria: Shut Up and Dig Gaiden!",
+		"67": "Terraria: Also try Don't Starve!"
 	},
 	"SpecialWorldName": {
 		"TheConstant": "The Constant"
