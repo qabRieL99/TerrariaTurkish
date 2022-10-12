@@ -7,10 +7,9 @@
 		"RoomCheckStartedInASolidTile" : "Bu düz bir blok!",
 		"RoomHasAStinkbug" : "Bu oda bir süne tarafından istila edilmiş!",
 		"RoomHasAnEchoStinkbug" : "Bu oda bir hayalet süne tarafından istila edilmiş!"
-
 	},
 	
-		"MerchantNames": {
+	"MerchantNames": {
 		"Alfred": "Alfred",
 		"Barney": "Barney",
 		"Calvin": "Calvin",

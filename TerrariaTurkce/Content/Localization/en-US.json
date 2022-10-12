@@ -760,7 +760,8 @@
 		"Electrocuted_3": "{0} oyuncusunun pozitif yaşam gücü negatif oldu.",
 		"Electrocuted_4": "{0} oyuncusu yıldırımsavara dönüştü.",
 		"TriedToEscape": "{0} oyuncusu kaçmaya çalıştı.",
-		"WasLicked": "{0} oyuncusunu bir şey yaladı.",
+		"WasLicked_1": "{0} oyuncusunu bir şey yaladı.",
+		"WasLicked_2": "{0} oyuncusu Et Duvarı ile iyice yakınlaştı!",
 		"Teleport_1": "{0} oyuncusu cisimlenemedi",
 		"Teleport_2_Male": "{0} oyuncusunun bacakları başının olması gereken yerde ortaya çıktı.",
 		"Teleport_2_Female": "{0} oyuncusunun bacakları başının olması gereken yerde ortaya çıktı",
@@ -1093,7 +1094,6 @@
 		"PURIFY_ENTIRE_WORLD_Description": "Dryad tatmin olana kadar tüm Bozulma, Kızıllık ve Cennet'i dünyandan tamamen arındır!"
 		
 	},
-	
 	"ItemVariant": {
 		"Stronger": "Daha güçlü",
 		"Weaker": "Daha zayıf",
@@ -2315,7 +2315,6 @@
 		"Yard": "Yard",
 		"Yeet": "Yeet",
 		"Zone": "Zone",
-		"Zone": "Zone",
 		"Latte": "Latte",
 		"Vibe": "Vibe",
 		"Passenger": "Passenger",
@@ -3213,7 +3212,6 @@
 		"Xenon": "Xenon",
 		"Yoyos": "Yoyos",
 		"Zombies": "Zombies",
-		"Zoomers": "Zoomers",
 		"Zoomers": "Zoomers",
 		"FOMO": "FOMO",
 		"Boom-Boom": "Boom-Boom",
