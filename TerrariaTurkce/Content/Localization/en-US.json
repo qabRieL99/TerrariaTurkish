@@ -302,6 +302,7 @@
 		"IssueReporterHasThingsToShow": "Sorunları gör",
 		"AutoReuseAllOn": "Otomatik saldırı: Açık",
 		"AutoReuseAllOff": "Otomatik saldırı: Kapalı",
+		"Legendary": "Efsanevî",
 
 	},
 	"Workshop": {
@@ -1044,7 +1045,7 @@
 		"INDEPENDENCE_DAY_Name": "Bağımsızlık Günü",
 		"INDEPENDENCE_DAY_Description": "Marslı istilacıların lideri olan bir Ana Gemi'yi yen.",
 		"HEX_EDUCATION_Name": "Hex Eğitimi",
-		"HEX_EDUCATION_Description": "En karanlık alevlerin sihirbazı olan bir Cincüce Çağırıcı'sını yen.",
+		"HEX_EDUCATION_Description": "En karanlık alevlerin sihirbazı olan bir Cincüce Büyücüsü'nü yen.",
 		"DEFEAT_EMPRESS_OF_LIGHT_Name": "Peri Uçuşu",
 		"DEFEAT_EMPRESS_OF_LIGHT_Description": "Tüm bu parlak ışıklardan ve parıltılardan sorumlu olan Işık İmparatoriçesi'ni alt et.",
 		"DEFEAT_QUEEN_SLIME_Name": "Sadece Tatlılar",
