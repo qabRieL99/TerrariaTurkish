@@ -1286,7 +1286,8 @@
 	},
 	"GuideHelpText": {
 		"Help_1063": "Normally I'd try to teach you all about the Old One's Army, but you should probably ask {Bartender} about that.",
-		"Help_1064": "When the moon goes red, the water becomes like blood. Creatures submerged within may become grotesque and malicious."
+		"Help_1064": "When the moon goes red, the water becomes like blood. Creatures submerged within may become grotesque and malicious.",
+		"Help_1065": "You can even remove people from their home from the housing interface! <right> the banner hanging in their house. You can also <left> to assign them to a new home."
 	},
 
 	"GuideHelpTextSpecific": {

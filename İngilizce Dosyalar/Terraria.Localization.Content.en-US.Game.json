@@ -128,7 +128,8 @@
 		"10": "Hold {InputTrigger_RadialQuickbar} and {InputTrigger_RadialHotbar} to bring up the Radial Quickbar and Radial Hotbar menus. These will allow you to quickly access potions, mounts, and the items in your hotbar.",
 		"11": "There are multiple Gamepad control layouts available in the menu. Choose from Redigit's Pick, Yoraiz0r's Pick, Xbox, Playstation, or even make your own Custom settings!",
 		"12": "If you select DPad Cursor Snap in the Gamepad settings, you can use the DPad for improved precision when mining or building.",
-		"13": "When using Gamepad, you can lock on to enemies by pressing {InputTrigger_LockOn}. Locked on targets will be marked by a spinning reticle, and long range weapons will automatically aim at your target!"
+		"13": "When using Gamepad, you can lock on to enemies by pressing {InputTrigger_LockOn}. Locked on targets will be marked by a spinning reticle, and long range weapons will automatically aim at your target!",
+		"14": "You can assign or remove NPCs from houses! From the housing interface, {InputTrigger_UseOrAttack} to assign them to a home, and {InputTrigger_InteractWithTile} their banner to kick them out!"
 	},
 	"LoadingTips_Keyboard": {
 		"0": "You can continuously use some items by holding down the {InputTrigger_UseOrAttack} button.",
@@ -138,7 +139,8 @@
 		"4": "You can remove Torches with {InputTrigger_InteractWithTile} or with a pickaxe.",
 		"5": "In your Inventory, you can press {InputTrigger_InteractWithTile} to equip items such as armor or accessories directly to a usable slot.",
 		"6": "Hold {InputTrigger_SmartSelect} to use Auto Select, a versatile feature that adapts to your environment. It will allow you to automatically hold your Torches in dark caves, Glowsticks when underwater, or even select the right tool for breaking something.",
-		"7": "Press {InputTriggerUI_FavoriteItem} and {InputTrigger_UseOrAttack} to Favorite an item. Favorited items can no longer be sold, thrown away, or dropped. No more accidentally losing your favorite items!"
+		"7": "Press {InputTriggerUI_FavoriteItem} and {InputTrigger_UseOrAttack} to Favorite an item. Favorited items can no longer be sold, thrown away, or dropped. No more accidentally losing your favorite items!",
+		"8": "You can assign or remove NPCs from houses! From the housing interface, {InputTrigger_UseOrAttack} to assign them to a home, and {InputTrigger_InteractWithTile} their banner to kick them out!"
 	},
 	"ChatCommand": {
 		"Party": "/p",
@@ -2128,7 +2130,7 @@
 		"npc_TownSlimeRed": "Irascible and insufferable, this grumpy slime is probably up to no good. Probably. It's the thought that counts, really.",
 		"npc_TownSlimeYellow": "This slime knows that great witches wear impressive hats, but it only found a droopy one. Might explain the backfired polymorph!",
 		"npc_TownSlimeCopper": "A hero amongst slimes, it wields the greatest arms and armor known to its kind. It doesn't actually know how to use them, but it's a start.",
-		"npc_BoundTownSlimeYellow": "A curious frog with a funny hat, wandering around the Jungle! There is more than meets the eye with this slimy amphibian...",
+		"npc_BoundTownSlimeYellow": "A curious frog with a funny hat, surrounded by potent magic! Perhaps something can break its curse... you probably shouldn't kiss it!",
 		"npc_Shimmerfly": "These scintillating fairy-like creatures are born when animals wander into the glowing depths of a Shimmer pond.",
 		"npc_ShimmerSlime": "After a quick swim in the Shimmer, this prismatic slime has been infused with the powers of the mysterious fluid.",
 

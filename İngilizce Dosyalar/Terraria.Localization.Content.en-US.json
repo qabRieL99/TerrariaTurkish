@@ -305,6 +305,21 @@
 		"Legendary": "Legendary",
 
 	},
+	"CaptureBiomeChoice": {
+		"0": "Automatic",
+		"1": "Purity",
+		"2": "{$Bestiary_Biomes.TheCorruption}",
+		"3": "{$Bestiary_Biomes.Jungle}",
+		"4": "{$Bestiary_Biomes.TheHallow}",
+		"5": "{$Bestiary_Biomes.Snow}",
+		"6": "{$Bestiary_Biomes.Oasis}",
+		"7": "{$Bestiary_Biomes.Underground}",
+		"8": "{$Bestiary_Biomes.Caverns}",
+		"9": "{$Bestiary_Biomes.Crimson}",
+		"10": "{$Bestiary_Biomes.Desert}",
+		"11": "{$Bestiary_Biomes.Ocean}",
+		"12": "Glowing Mushroom Fields"
+	},
 	"Workshop": {
 		"HubDescriptionDefault": "Choose an option for more information.",
 		"HubWorlds": "Import Worlds",
