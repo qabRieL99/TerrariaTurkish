@@ -1286,7 +1286,8 @@
 	},
 	"GuideHelpText": {
 		"Help_1063": "Normalde sana Kadim'in Ordusu hakkında her şeyi öğretmeye çalışırdım, ama muhtemelen bunu {Bartender}'a sormalısın.",
-		"Help_1064": "Ay kırmızıya döndüğünde su kan gibi olur. İçine batmış yaratıklar acayip ve kötü niyetli olabilir."
+		"Help_1064": "Ay kırmızıya döndüğünde su kan gibi olur. İçine batmış yaratıklar acayip ve kötü niyetli olabilir.",
+		"Help_1065": "İnsanları evlerinden konaklama arayüzünü kullanarak atabilirsin bile! Atmak için evlerindeki bayrağın üzerine gelip <right> tuşuna bas. Ayrıca yeni bir eve atamak için <left> tuşuna basabilirsin."
 	},
 
 	"GuideHelpTextSpecific": {

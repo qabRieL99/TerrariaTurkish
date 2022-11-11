@@ -128,7 +128,8 @@
 		"10": "Hold {InputTrigger_RadialQuickbar} and {InputTrigger_RadialHotbar} to bring up the Radial Quickbar and Radial Hotbar menus. These will allow you to quickly access potions, mounts, and the items in your hotbar.",
 		"11": "There are multiple Gamepad control layouts available in the menu. Choose from Redigit's Pick, Yoraiz0r's Pick, Xbox, Playstation, or even make your own Custom settings!",
 		"12": "If you select DPad Cursor Snap in the Gamepad settings, you can use the DPad for improved precision when mining or building.",
-		"13": "When using Gamepad, you can lock on to enemies by pressing {InputTrigger_LockOn}. Locked on targets will be marked by a spinning reticle, and long range weapons will automatically aim at your target!"
+		"13": "When using Gamepad, you can lock on to enemies by pressing {InputTrigger_LockOn}. Locked on targets will be marked by a spinning reticle, and long range weapons will automatically aim at your target!",
+		"14": "You can assign or remove NPCs from houses! From the housing interface, {InputTrigger_UseOrAttack} to assign them to a home, and {InputTrigger_InteractWithTile} their banner to kick them out!"
 	},
 	"LoadingTips_Keyboard": {
 		"0": "Bazı öğeleri {InputTrigger_UseOrAttack} tuşuna basılı tutarak kesintisiz bir şekilde kullanabilirsin.",
@@ -138,7 +139,8 @@
 		"4": "Meşaleleri {InputTrigger_InteractWithTile} veya bir kazma ile kaldırabilirsin.",
 		"5": "Envanterindeyken, zırh veya aksesuarlar gibi öğeleri, doğrudan kullanılabilir bir yuvaya donatmak için {InputTrigger_InteractWithTile} basabilirsin.",
 		"6": "Ortama uyum sağlayan çok yönlü bir özellik olan Otomatik Seçimi kullanmak için {InputTrigger_SmartSelect} basılı tut. Karanlık mağaralarda Meşale'lerini, su altındayken Parlak Çubuk'larını otomatik olarak kuşanmana hatta bir şeyi kırmak için doğru aracı seçmene izin verir.",
-		"7": "Bir öğeyi Gözdeler'e eklemek için {InputTriggerUI_FavoriteItem} ve {InputTrigger_UseOrAttack} bas. Gözdelere eklenen öğeler artık satılamaz, atılamaz veya düşürülemez. Artık gözde eşyalarını yanlışlıkla kaybetmek diye bir şey yok!"
+		"7": "Bir öğeyi Gözdeler'e eklemek için {InputTriggerUI_FavoriteItem} ve {InputTrigger_UseOrAttack} bas. Gözdelere eklenen öğeler artık satılamaz, atılamaz veya düşürülemez. Artık gözde eşyalarını yanlışlıkla kaybetmek diye bir şey yok!",
+		"8": "NPCleri evlere atayabilir veya oradan atabilirsin! Konaklama arayüzünü kullanarak {InputTrigger_UseOrAttack} tuşuyla onları bir eve atayabilir ve {InputTrigger_InteractWithTile} tuşuyla onları evden atabilirsin!"
 	},
 	"ChatCommand": {
 		"Party": "/p",
@@ -2128,7 +2130,7 @@
 		"npc_TownSlimeRed": "Hırçın ve dayanılmaz olan bu huysuz balçık muhtemelen kötü bir şeyler planlıyor. Muhtemelen. Gerçekten önemli olan düşüncedir.",
 		"npc_TownSlimeYellow": "Bu balçık, büyük cadıların etkileyici şapkalar taktığını biliyor ancak yalnızca sarkık bir şapka bulabildi. Geri tepmiş polimorfunu bu durum açıklayabilir!",
 		"npc_TownSlimeCopper": "Balçıklar arasında bir kahraman, türünün bilinen en büyük silahlarına ve zırhlarına sahip. Aslında onları nasıl kullanacağını bilmiyor ama bu da bir başlangıç.",
-		"npc_BoundTownSlimeYellow": "Ormanda dolaşan komik şapkalı meraklı bir kurbağa! Bu sümüksü amfibide göründüğünden daha fazlası var...",
+		"npc_BoundTownSlimeYellow": "Güçlü bir sihirle çevrili, komik şapkalı meraklı bir kurbağa! Belki bir şey lanetini bozabilir... muhtemelen onu öpmemelisin!",
 		"npc_Shimmerfly": "Bu parıldayan peri benzeri yaratıklar, hayvanlar bir Parıltılı göletin parıldayan derinliklerinde dolaşırken doğarlar.",
 		"npc_ShimmerSlime": "Parıltı'da hızlı bir şekilde yüzdükten sonra, bu prizmatik balçık gizemli sıvının güçleri ile aşılanmıştır.",
 		
