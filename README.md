@@ -3,7 +3,7 @@
 # Terraria Türkçe Çevirisi :tr:
 <img src="https://i.imgur.com/DmjgF18.jpg" width="240" height="240"/>
 
-:information_source: Terraria için gerçekleştirilen bir çeviri çalışmasıdır. An itibari ile oyunun güncel sürümü: `1.4.4.8.1`
+:information_source: Terraria için gerçekleştirilen bir çeviri çalışmasıdır. An itibari ile oyunun güncel sürümü: `1.4.4.9`
 
 :information_source: Steam sürümlerinde çalışmaktadır.
 
