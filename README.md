@@ -11,10 +11,22 @@
 
 
 :envelope_with_arrow: Geri dönüş için buradan veya [DonanımHaber](https://forum.donanimhaber.com/profil/794792#!/) ya da [Steam](https://steamcommunity.com/id/qabriel99) profilim üzerinden iletişime geçebilirsiniz.
-
 ## :camera: Ekran Görüntüleri
-<img src="https://i.imgur.com/pdPlBov.jpg" width="460" height="260"/> <img src="https://i.imgur.com/Ysjqht4.jpg" width="460" height="260"/> <img src="https://i.imgur.com/fWI0Tfb.jpg" width="460" height="260"/>
-<img src="https://i.imgur.com/vGYX5RH.jpg" width="460" height="260"/> <img src="https://i.imgur.com/DfSdtVD.jpg" width="460" height="260"/> <img src="https://i.imgur.com/HeiXyHJ.jpg" width="460" height="260"/> <img src="https://i.imgur.com/OfJLtE9.jpg" width="460" height="260"/>
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/pdPlBov.jpg?raw=true" width=50% height=50% /></td>
+    <td><img src="https://i.imgur.com/Ysjqht4.jpg?raw=true" width=50% height=50% /></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/fWI0Tfb.jpg?raw=true" width=50% height=50% /></td>
+    <td><img src="https://i.imgur.com/vGYX5RH.jpg?raw=true" width=50% height=50% /></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/DfSdtVD.jpg?raw=true" width=50% height=50% /></td>
+    <td><img src="https://i.imgur.com/HeiXyHJ.jpg?raw=true" width=50% height=50% /></td>
+  </tr>
+</table>
+
 
 ## :floppy_disk: İndirme Bağlantısı 
 [Terraria %100 Türkçe Yama](https://steamcommunity.com/sharedfiles/filedetails/?id=2441453094)
