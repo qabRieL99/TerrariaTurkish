@@ -11,21 +11,23 @@
 
 
 :envelope_with_arrow: Geri dönüş için buradan veya [DonanımHaber](https://forum.donanimhaber.com/profil/794792#!/) ya da [Steam](https://steamcommunity.com/id/qabriel99) profilim üzerinden iletişime geçebilirsiniz.
+
 ## :camera: Ekran Görüntüleri
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td><img src="https://i.imgur.com/pdPlBov.jpg?raw=true" width=50% height=50% /></td>
-    <td><img src="https://i.imgur.com/Ysjqht4.jpg?raw=true" width=50% height=50% /></td>
+    <td style="width: 50%;"><img src="https://i.imgur.com/pdPlBov.jpg?raw=true" width="100%" height="auto" /></td>
+    <td style="width: 50%;"><img src="https://i.imgur.com/Ysjqht4.jpg?raw=true" width="100%" height="auto" /></td>
   </tr>
   <tr>
-    <td><img src="https://i.imgur.com/fWI0Tfb.jpg?raw=true" width=50% height=50% /></td>
-    <td><img src="https://i.imgur.com/vGYX5RH.jpg?raw=true" width=50% height=50% /></td>
+    <td style="width: 50%;"><img src="https://i.imgur.com/fWI0Tfb.jpg?raw=true" width="100%" height="auto" /></td>
+    <td style="width: 50%;"><img src="https://i.imgur.com/vGYX5RH.jpg?raw=true" width="100%" height="auto" /></td>
   </tr>
   <tr>
-    <td><img src="https://i.imgur.com/DfSdtVD.jpg?raw=true" width=50% height=50% /></td>
-    <td><img src="https://i.imgur.com/HeiXyHJ.jpg?raw=true" width=50% height=50% /></td>
+    <td style="width: 50%;"><img src="https://i.imgur.com/DfSdtVD.jpg?raw=true" width="100%" height="auto" /></td>
+    <td style="width: 50%;"><img src="https://i.imgur.com/HeiXyHJ.jpg?raw=true" width="100%" height="auto" /></td>
   </tr>
 </table>
+
 
 
 ## :floppy_disk: İndirme Bağlantısı 
