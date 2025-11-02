@@ -24,8 +24,8 @@
 |Mourning Wood|Yaslayan Ağaç|
 |Pumpking|Kabakral|
 |Queen Bee|Kraliçe Arı|
-|Skeletron Prime|Esas İskeletör|
-|Skeletron|İskeletör|
+|Skeletron Prime|Esas İskeletron|
+|Skeletron|İskeletron|
 |The Destroyer|Yok Edici|
 |The Twins|İkizler|
 |Wall of Flesh|Et Duvarı|
@@ -126,10 +126,10 @@
 |--|--|
 |Aether|Esîr|
 |Cavern|Yeraltı Boşluğu|
-|Corruption|Bozulma|
+|Corruption|Yozlaşma|
 |Crimson|Kızıllık|
 |Floating Island|Süzülen Ada|
-|Hallow|Cennet|
+|Hallow|Kutsal|
 |Living Wood|Yaşayan Odun|
 |Surface|Yüzey|
 |Town|Semt|
