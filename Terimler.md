@@ -80,7 +80,7 @@
 |Crimstone/Crimtane|Kızıltaş|
 |Demonite|İblisit|
 |Ebonstone|Karataş|
-|Ectoplasm|Dışkansıvı|
+|Ectoplasm|Ruhsıvısı|
 |Hellstone|Cehennemtaşı|
 |Luminite|Aysalit|
 |Meteorite|Göktaşı|
@@ -129,12 +129,14 @@
 |Corruption|Yozlaşma|
 |Crimson|Kızıllık|
 |Floating Island|Süzülen Ada|
-|Hallow|Kutsal|
+|Hallow|Kutsallık|
 |Living Wood|Yaşayan Odun|
 |Surface|Yüzey|
 |Town|Semt|
 |Underground|Yeraltı|
 |Underworld|Cehennem|
+
+Not: Kızıllık, Kutsallık ve Yozlaşma için, eğer bir sıfat olarak kullanılıyorsa, Kızıl, Kutsal ve Yoz olarak kullan.
 
 ### Dost NPCler
 |Özgün|Çeviri|
@@ -173,7 +175,7 @@
 |Sharkron|Köpekbalığıtör|
 |Slime|Balçık|
 |Stardust|Yıldıztozu|
-|Wisp|?|
+|Wisp|Işıkruh|
 
 ### Olaylar
 |Özgün|Çeviri|
