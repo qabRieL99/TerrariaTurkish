@@ -219,8 +219,8 @@
 		"HealthManaStyle_HorizontalBars": "Çubuk",
 		"HealthManaStyle_HorizontalBarsWithText": "Çubuk 2",
 		"HealthManaStyle_HorizontalBarsWithFullText": "Çubuk 3",
-		"ShowBossLifeTextOn": "Boss Sağlık Çubuğu Numaraları: Açık",
-		"ShowBossLifeTextOff": "Boss Sağlık Çubuğu Numaraları: Kapalı",
+		"ShowBossLifeTextOn": "Patron Sağlık Çubuğu Numaraları: Açık",
+		"ShowBossLifeTextOff": "Patron Sağlık Çubuğu Numaraları: Kapalı",
 		"SpawnPoint": "Doğum Yeri",
 		"SpawnBed": "Ev",
 		"EmoteCategoryGeneral": "Genel",
@@ -1120,7 +1120,7 @@
 		"Weaker": "Daha zayıf",
 		"Rebalanced": "Yeniden dengelenmiş",
 		"Enabled": "Etkin",
-		"DisabledBossSummon": "Boss Çağrımı Devre Dışı"
+		"DisabledBossSummon": "Patron Çağrımı Devre Dışı"
 	},
 	"ItemVariantCondition": {
 		"RemixWorld": "Remix Tohumu",
@@ -3528,7 +3528,7 @@
 	
 "CreditsRollCategory_SpecialThanksto": {
 	"1": "Özel Teşekkürler",
-	"2": "MMeşale Tanrısı,
+	"2": "Meşale Tanrısı",
 	"3": "Ben “Coldwin” Spaulding",
 	"4": "Kane Hart",
 	"5": "James “Chippy” Bennett",
