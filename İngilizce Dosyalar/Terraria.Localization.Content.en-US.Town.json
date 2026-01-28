@@ -1,14 +1,15 @@
 {
 	"TownNPCHousingFailureReasons": {
-		"TooCloseToWorldEdge" : "We need better text for this!!!",
-		"RoomIsTooBig" : "This room is too big",
-		"RoomIsTooSmall" : "This room is too small",
-		"HoleInWallIsTooBig" : "This room is missing a wall",
-		"RoomCheckStartedInASolidTile" : "This is a solid block!",
-		"RoomHasAStinkbug" : "This room is infested by a stinkbug!",
-		"RoomHasAnEchoStinkbug" : "This room is infested by a ghostly stinkbug!"
+		"TooCloseToWorldEdge": "We need better text for this!!!",
+		"RoomIsTooBig": "This room is too big",
+		"RoomIsTooSmall": "This room is too small",
+		"HoleInWallIsTooBig": "This room is missing a wall",
+		"RoomCheckStartedInASolidTile": "This is a solid block!",
+		"RoomHasAStinkbug": "This room is infested by a stinkbug!",
+		"RoomHasAnEchoStinkbug": "This room is infested by a ghostly stinkbug!",
+		"RoomHasNoStandingSpace": "This room has no space to stand in!",
+		"RoomHasUnsafeWalls": "Natural walls in this room need replacing!"
 	},
-
 	"MerchantNames": {
 		"Alfred": "Alfred",
 		"Barney": "Barney",
@@ -145,7 +146,7 @@
 		"Kevin": "Kevin",
 		"Brian": "Brian",
 		"Colin": "Colin",
-		"Jan": "Jan",
+		"Jan": "Jan"
 	},
 	"DemolitionistNames": {
 		"Dolbere": "Dolbere",
@@ -192,7 +193,6 @@
 		"Herald": "Herald",
 		"Roland": "Roland",
 		"Lincoln": "Lincoln",
-		"Lloyd": "Lloyd",
 		"Edgar": "Edgar",
 		"Eustace": "Eustace",
 		"Benjamin": "Benjamin",
@@ -349,7 +349,7 @@
 		"Fantasia": "Fantasia",
 		"Star": "Star",
 		"Cherry": "Cherry",
-		"Amanda": "Amanda",
+		"Amanda": "Amanda"
 	},
 	"CyborgNames": {
 		"Alpha": "Alpha",
@@ -368,7 +368,6 @@
 		"Nu": "Nu",
 		"Ci": "Ci",
 		"Rho": "Rho",
-		"Phi": "Phi",
 		"Fender": "Fender",
 		"T-3E0": "T-3E0",
 		"Niner-7": "Niner-7",
@@ -494,7 +493,7 @@
 		"Mandible Calavera": "Mandible Calavera",
 		"Mika": "Mika",
 		"No-Eyed Wiley": "No-Eyed Wiley",
-		"Victor": "Victor",
+		"Victor": "Victor"
 	},
 	"TaxCollectorNames": {
 		"McKinly": "McKinly",
@@ -649,7 +648,8 @@
 		"Charlie": "Charlie",
 		"Rascal": "Rascal",
 		"Critter": "Critter",
-		"Adol": "Adol"
+		"Adol": "Adol",
+		"Lawnmower": "Lawnmower",
 	},
 	"CatNames_RussianBlue": {
 		"Alexi": "Alexi",
@@ -689,7 +689,8 @@
 		"Cutie": "Cutie",
 		"Renne": "Renne",
 		"Miette": "Miette",
-		"Tula": "Tula"
+		"Tula": "Tula",
+		"Kibby": "Kibby"
 	},
 	"CatNames_White": {
 		"Misty": "Misty",
@@ -726,7 +727,9 @@
 		"Bitsy": "Bitsy",
 		"Mike": "Mike",
 		"Sparky": "Sparky",
-		"Lucky": "Lucky"
+		"Lucky": "Lucky",
+		"Bubbles": "Bubbles",
+		"Tank": "Tank"
 	},
 	"DogNames_PitBull": {
 		"Max": "Max",
@@ -744,7 +747,6 @@
 		"Buster": "Buster",
 		"Doug": "Doug"
 	},
-
 	"DogNames_Beagle": {
 		"Zelda": "Zelda",
 		"Navi": "Navi",
@@ -774,7 +776,9 @@
 		"Ammy": "Ammy",
 		"Charles": "Charles",
 		"Estelle": "Estelle",
-		"Astro": "Astro"
+		"Astro": "Astro",
+		"Kilo": "Kilo",
+		"AK": "AK"
 	},
 	"DogNames_Dalmation": {
 		"Spot": "Spot",
@@ -823,7 +827,8 @@
 		"Inaba": "Inaba",
 		"Shirayuki": "Shirayuki",
 		"Lilia": "Lilia",
-		"Ears": "Ears"
+		"Ears": "Ears",
+		"Jimothy": "Jimothy"
 	},
 	"BunnyNames_Angora": {
 		"Breadbuns": "Breadbuns",
@@ -835,7 +840,7 @@
 		"Pom": "Pom",
 		"Muffin": "Muffin",
 		"Maximus": "Maximus",
-		"Donald": "Donald",
+		"Donald": "Donald"
 	},
 	"BunnyNames_Dutch": {
 		"Oreo": "Oreo",
@@ -894,7 +899,6 @@
 		"Dustbunny": "Dustbunny",
 		"Dusty": "Dusty"
 	},
-
 	"SlimeNames_Blue": {
 		"Steve": "Steve",
 		"Seymour": "Seymour",
@@ -1124,8 +1128,6 @@
 		"Selmy": "Selmy",
 		"Shortie": "Shortie"
 	},
-
-
 	"AnglerQuestChatter": {
 		"Chatter_1": "Wooow! You've bothered me, like, {AnglerCompletedQuestsCount} times! If I didn't have a cool fish for each time, I would be really mad!",
 		"Chatter_2": "Did you know I have {AnglerCompletedQuestsCount} amazingly awesome fish now!? That's because as far as errand monkeys go, you're actually a bit useful!"
@@ -1202,63 +1204,74 @@
 		"Chatter_12": "{?DukeFishronDefeated}I once met with a Duke on the beach. He looked kinda fishy, and lacked good manners!",
 		"Chatter_13": "Um... being a princess can be so uneventful sometimes, so I took up many hobbies! ",
 		"Chatter_14": "I'm so happy to finally travel the world, and meet new people!",
-		"Chatter_15": "As much as I love people, I am rather shy. It takes me awhile to break the ice...",
+		"Chatter_15": "As much as I love people, I am rather shy. It takes me a while to break the ice...",
 		"Chatter_16": "{?BloodMoon}The rivers are running red, everyone seem awfully on edge, hmm... it's a trying night, indeed!",
 		"Chatter_17": "{?!Day}The stars at night remind me of glitter on a beautiful, black dress. I shall soon have one made!"
 	},
 	"CatChatter": {
 		"Chatter_1": "Meow!",
 		"Chatter_2": "Purr...",
-		"Chatter_3": "Merrooow!"
+		"Chatter_3": "Merrooow!",
+		"NoHome": "Meow?"
 	},
 	"DogChatter": {
 		"Chatter_1": "Woof!",
 		"Chatter_2": "Bark!",
-		"Chatter_3": "Woof woof!"
+		"Chatter_3": "Woof woof!",
+		"NoHome": "Woof?"
 	},
 	"BunnyChatter": {
 		"Chatter_1": "*Rabbit noises*",
-		"Chatter_2": "*Bunny noises*"
+		"Chatter_2": "*Bunny noises*",
+		"NoHome": "*Bunny noises*?"
 	},
 	"SlimeBlueChatter": {
 		"Chatter_1": "Burble bubble? Hrm!",
 		"Chatter_2": "Babble babble blub... gulp!",
-		"Chatter_3": "Kaplunk! Hmm... bleb. Uh-huh."
+		"Chatter_3": "Kaplunk! Hmm... bleb. Uh-huh.",
+		"NoHome": "Burble bubble?"		
 	},
 	"SlimeGreenChatter": {
 		"Chatter_1": "Drip!",
 		"Chatter_2": "Sizzle fo shizzle!",
-		"Chatter_3": "Yo, slurp glurp!"
+		"Chatter_3": "Yo, slurp glurp!",
+		"NoHome": "Drip?"
 	},
 	"SlimeOldChatter": {
 		"Chatter_1": "Hrumble grumble!",
 		"Chatter_2": "Poot... ahem!",
-		"Chatter_3": "Glug glug? Pshaw!"
+		"Chatter_3": "Glug glug? Pshaw!",
+		"NoHome": "Hrumble grumble?"
 	},
 	"SlimeRainbowChatter": {
 		"Chatter_1": "Dribble bleam!",
 		"Chatter_2": "Sprinkle, tinkle!",
-		"Chatter_3": "Ripple? Blip blop!"
+		"Chatter_3": "Ripple? Blip blop!",
+		"NoHome": "Dribble bleam?"
 	},
 	"SlimePurpleChatter": {
 		"Chatter_1": "Berp.",
 		"Chatter_2": "*Awkward Silence*",
-		"Chatter_3": "Plop. Pop... splat."
+		"Chatter_3": "Plop. Pop... splat.",
+		"NoHome": "Berp?"
 	},
 	"SlimeRedChatter": {
 		"Chatter_1": "Murble burble... glup!!!",
 		"Chatter_2": "Hiss! Gargle! Grrrrr...",
-		"Chatter_3": "Burp... heh."
+		"Chatter_3": "Burp... heh.",
+		"NoHome": "Murble burble... glup?"
 	},
 	"SlimeYellowChatter": {
 		"Chatter_1": "Bubble bubble! Boil glubble!",
 		"Chatter_2": "Blobra kaslobra!",
-		"Chatter_3": "Kasploosh!"
+		"Chatter_3": "Kasploosh!",
+		"NoHome": "Bubble bubble?"
 	},
 	"SlimeCopperChatter": {
 		"Chatter_1": "Blip blop, huzzah!",
 		"Chatter_2": "Kerslash! Kersplish!",
-		"Chatter_3": "Squish 'n sploink!"
+		"Chatter_3": "Squish 'n sploink!",
+		"NoHome": "Blip blop?"
 	},
 	"BestiaryGirlSpecialText": {
 		"Party": "So, uh, I can't wear the hat. Sorry. I'm still here for the party, no worries!",
@@ -1287,9 +1300,8 @@
 	"GuideHelpText": {
 		"Help_1063": "Normally I'd try to teach you all about the Old One's Army, but you should probably ask {Bartender} about that.",
 		"Help_1064": "When the moon goes red, the water becomes like blood. Creatures submerged within may become grotesque and malicious.",
-		"Help_1065": "You can even remove people from their home from the housing interface! <right> the banner hanging in their house. You can also <left> to assign them to a new home."
+		"Help_1065": "You can even remove people from their home from the housing interface! {InputTrigger_InteractWithTile} the banner hanging in their house. You can also {InputTrigger_UseOrAttack} to assign them to a new home."
 	},
-
 	"GuideHelpTextSpecific": {
 		"Help_1100": "I hear a race of lizardmen live in the jungle. Maybe you can get the attention of one by felling a giant beast of the jungle?",
 		"Help_1101": "I hear there's a woman out there well-versed in fighting back the forces you just unleashed. Maybe if you prove yourself, you can get her attention.",
@@ -1344,7 +1356,6 @@
 		"Help_1159": "If you combine lenses at a crimson altar, you might be able to find a way to summon a powerful monster. You will want to wait until night before using it, though.",
 		"Help_1160": "In the middle of the night on snowy evenings, a terrifying roaring sound comes from the wilderness! Something is out there!"
 	},
-
 	"AnglerQuestText": {
 		"NoQuest_1": "I don't have anything for you to do right now.",
 		"NoQuest_2": "You have entertained me enough for today, go.",
@@ -1392,7 +1403,7 @@
 		"Quest_Fishron": "There's a legend of a mighty being known as the Fishron! It's part pig, part dragon, and part FISH! I hear it hangs around in the frozen subterranean lakes of the coldest part of the world! I'm not going there, so YOU go catch it and makes sure it lands in my hands! I'm so excited!\n\n(Caught in Underground Tundra)",
 		"Quest_InfectedScabbardfish": "A really long fish that looks like a sword's sheath swims in the murky waters of the corruption! It looks a lot like ebonstone, so don't let it fool you! That's right, you. You're catching it, not me!\n\n(Caught in Corruption)",
 		"Quest_Mudfish": "Watch your step when wading through jungle waters! Why? No, not because I care about you being eaten by piranhas. I care because you'll step on one of my favorite kinds of fish, the Mud Fish! I also care a lot that you're going to grab me one as a pet!\n\n(Caught in Jungle)",
-		"Quest_TropicalBarracuda": "Piranhas and sharks are ugly! Soooo ugly! Did you know there's a fish that looks very pretty and still can eat your face off? I would pay 2 platinum to see that happen, by the way... To the point, though, you catchy for me. Just make sure I have it before you lose your face!\n\n(Caught Jungle Surface)",
+		"Quest_TropicalBarracuda": "Piranhas and sharks are ugly! Soooo ugly! Did you know there's a fish that looks very pretty and still can eat your face off? I would pay 2 platinum to see that happen, by the way... To the point, though, you catchy for me. Just make sure I have it before you lose your face!\n\n(Caught in Jungle Surface)",
 		"Quest_TundraTrout": "You ever wonder why the lakes on the surface of the snowy areas of {WorldName} never ice over? I don't. The fish, however, do! A fish made out of ice would make a great offering to the mighty and amazing {Angler}! Go, my loyal subject, and bring me this Tundra Trout with haste!\n\n(Caught in Surface Tundra)",
 		"Quest_Slimefish": "In the forest, the slimes are kinda gross. Slimefish are even more so! I don't want to swim with slimes, so yoink one out of the water for me!\n\n(Caught in Surface Forest)",
 		"Quest_ScarabFish": "I read this ancient story about a fish that looks like a magical scarab! That's beetle, for simpletons like you! Where do you find it? Where do you think? In the desert, duh! Don't look at me like that... it's true! There is actually water out there! I'd go, but I don't like having my eyeballs pecked out by vultures. So... you do it!\n\n(Caught in Desert)",
@@ -1497,7 +1508,7 @@
 	"GuideSpecialText": {
 		"Party": "Never been to a party before? You might want to check around with the others. People sometimes bring out special party favors.",
 		"Graveyard1": "Graveyards are spooky and very dangerous. I'd watch your step, kid.",
-        "Graveyard2": "It's cold and ominous around here. I feel something very evil calling out to me.",
+		"Graveyard2": "It's cold and ominous around here. I feel something very evil calling out to me.",
 		"Rain1": "Be advised that certain creatures only come out during rain.",
 		"Rain2": "Don't be alarmed, it is just water. I hear certain species of fish can fly when it rains!",
 		"Windy1": "Don't get blown away by the strong gusts going on, and be wary of monsters which take advantage of them!",
@@ -1513,7 +1524,7 @@
 		"AfterDD2Start": "I don't see why we can't just blow up those portals.",
 		"Party": "You might want to be careful today. Us dwarves tend to have pretty explosive parties.",
 		"Graveyard1": "The stench of death here is worse than the skeleton-infested caverns where I work!",
-        "Graveyard2": "All these piles of bones and stones... perfect for blowin' up!",
+		"Graveyard2": "All these piles of bones and stones... perfect for blowin' up!",
 		"Windy1": "Now might not be the best time to lob grenades on the surface, my tall friend!",
 		"Windy2": "You want boomerang bombs? Throw some out in that gust, they'll come back to you alright!",
 		"Storm1": "BOOM! Even mother nature likes a taste of gratifying demolition!",
@@ -1524,7 +1535,7 @@
 	"ClothierSpecialText": {
 		"Party": "Mama always said you've got to put the past behind you before you can party on.",
 		"Graveyard1": "I've been cursed! Take me to the hospital!",
-        "Graveyard2": "It's a big graveyard, we'll divide it up! The dead stay in their half, we'll stay in ours!",
+		"Graveyard2": "It's a big graveyard, we'll divide it up! The dead stay in their half, we'll stay in ours!",
 		"Windy1": "Sometimes, I guess there's just not enough windmills.",
 		"Windy2": "The air has certainly got it, today!",
 		"Storm1": "Remember to keep breathing, because eventually this storm will pass!",
@@ -1535,7 +1546,7 @@
 	"GoblinTinkererSpecialText": {
 		"Party": "Goblin parties are a lot like humans. They both have games like \"Pin the Blame on the Human\" er... I don't play that game at my parties.",
 		"Graveyard1": "I'm working on a Photon Sack. It's an invention to trap all the ghasts lurking around outside!",
-        "Graveyard2": "The constant moaning and ear-piercing screeching noises are distracting me from my work!",
+		"Graveyard2": "The constant moaning and ear-piercing screeching noises are distracting me from my work!",
 		"Windy1": "This weather is the reason why I wear goggles! I can't have dirt and sand blowing in my eyes.",
 		"Windy2": "Now would be a great time to tinker a pinwheel accessory!",
 		"Storm1": "I'm working on an invention that will harness the energy being released around us!",
@@ -1547,7 +1558,7 @@
 		"AfterDD2Tier1": "You know, I think I've seen a portal like that before, but it was gold.",
 		"Party": "Clearly I throw the most magical of parties.",
 		"Graveyard1": "I can't bring anyone back from the dead, so don't ask!",
-        "Graveyard2": "Funny, when I look far enough into the crystal ball, this is where every customer ends up!",
+		"Graveyard2": "Funny, when I look far enough into the crystal ball, this is where every customer ends up!",
 		"Windy1": "This gale got you bothered? There's a spell for that.",
 		"Windy2": "A blast of wind terrorizing our world? Did I do that?",
 		"Storm1": "Did somebody steal my spell book again!?",
@@ -1565,7 +1576,7 @@
 		"LuckIsGood1": "I sense a speck of good karma about you, but I could be mistaken.",
 		"LuckIsGood2": "There's something unusually warm about you. I'm not sure how to place it, but keep walking in that direction.",
 		"LuckIsGreat1": "You are giving off a positive energy, like something grand could occur at any moment.",
-		"LuckIsGreat2": "There are vibes of good fortune emanating from you, as though your wishes could possibly come true.",		
+		"LuckIsGreat2": "There are vibes of good fortune emanating from you, as though your wishes could possibly come true.",
 		"LuckIsAmazing1": "Have you a garden of four-leaf clovers? You are bursting with essences of great fortune!",
 		"LuckIsAmazing2": "Serendipity smiles upon you! It is likely you shall find profit in all things!",
 		"LuckIsGodly1": "You are overflowing with a blessing of stupendous prosperity!!",
@@ -1574,7 +1585,7 @@
 	"MechanicSpecialText": {
 		"Party": "Do you think anyone would mind if I wired a cake with bulbs instead of candles?",
 		"Graveyard1": "I should light up this dark and scary place to keep the monsters away.",
-        "Graveyard2": "I'd run some wire here, but the spooky dead things are in the way!",
+		"Graveyard2": "I'd run some wire here, but the spooky dead things are in the way!",
 		"Windy1": "Oh no! There are pockets of low pressure rolling in, I must secure the power grid.",
 		"Windy2": "My wires are getting tangled in this cyclone. Watch where you step!",
 		"Storm1": "Great! There goes another pump. When will the lightning stop frying my equipment?!",
@@ -1585,7 +1596,7 @@
 	"TruffleSpecialText": {
 		"Party": "I would have invited everyone to party in my home, but there's not mushroom.",
 		"Graveyard1": "This is an excellent place to start a family. Most of my friends were born here!",
-        "Graveyard2": "This place makes me feel good. I'm not sure why...",
+		"Graveyard2": "This place makes me feel good. I'm not sure why...",
 		"Windy1": "Our kind is very brittle, I worry for my brothers on this breezy day.",
 		"Windy2": "Wind is not my friend, I like the dark, calm places.",
 		"Storm1": "The weather seems detrimental to your species, human.",
@@ -1594,9 +1605,9 @@
 		"Rain2": "Rain is cause for celebration for my people."
 	},
 	"SteampunkerSpecialText": {
-		"Party": "Everyone said they like stacked cakes, so I installed smokestacks in mine",
+		"Party": "Everyone said they like stacked cakes, so I installed smokestacks in mine.",
 		"Graveyard1": "Golly! What uncultured swine decided to break ground here?",
-        "Graveyard2": "Neither blood nor steam pumps in this miserable locale.",
+		"Graveyard2": "Neither blood nor steam pumps in this miserable locale.",
 		"Windy1": "Ahh... a sip of tea to enjoy the breeze.",
 		"Windy2": "Why, this windy phenomena has inspired me ideas for a new jetpack engine!",
 		"Storm1": "Electricity? Don't be ludicrous! Nothing beats the power of steam!",
@@ -1613,7 +1624,7 @@
 		"NoPlant_2": "These dye bottles? Sorry dear friend, these don't take coin. I only take the most precious and rare of flora in exchange for one of this!",
 		"Party": "I truly love parties, so many beautiful colors and happy people.",
 		"Graveyard1": "My, my... this is no good. The putrid surroundings are dulling my dye petals.",
-        "Graveyard2": "You think this a place worthy of my presence? So drab, so dull, these people are literally below me.",
+		"Graveyard2": "You think this a place worthy of my presence? So drab, so dull, these people are literally below me.",
 		"Windy1": "Marvelous! The wind brings me petals of all colors!",
 		"Windy2": "Give me a moment, my dear. I must secure my palette from the gusty gales!",
 		"Storm1": "Egads! I loathe these bothersome storms!",
@@ -1626,7 +1637,7 @@
 		"Party_1": "Hmm? Nothing special today... just kidding! It's party time, and then it's after party time!",
 		"Party_2": "At last, my time has come!",
 		"Graveyard1": "Woo hoo! It's party time! ...Uh, why isn't anyone moving?",
-        "Graveyard2": "We should party so loud that we LITERALLY wake the dead! Hee hee!",
+		"Graveyard2": "We should party so loud that we LITERALLY wake the dead! Hee hee!",
 		"Windy1": "Did somebody say hurricane party!? I'll bring the batteries!",
 		"Windy2": "This is like, an amazing time to fling confetti everywhere!",
 		"Storm1": "There was a sudden crash of thunder at the disco, and I panicked!",
@@ -1643,7 +1654,7 @@
 	"CyborgSpecialText": {
 		"Party": "This party is going to be nuts, maybe even bolts!",
 		"Graveyard1": "Fascinating. This appears to be a storage unit for broken and malfunctioning humans.",
-        "Graveyard2": "My sensors indicate an increased density of energy particles. My visual receptors are unable to identify any of them.",
+		"Graveyard2": "My sensors indicate an increased density of energy particles. My visual receptors are unable to identify any of them.",
 		"Windy1": "Sensors indicate strong shifts in barometric pressure. Caution is advised.",
 		"Windy2": "A strong contrast between high and low pressure detected.",
 		"Storm1": "BEEP! Severe weather warning. This is not a test. Take shelter, immediately. BEEP!",
@@ -1654,7 +1665,7 @@
 	"PainterSpecialText": {
 		"Party": "I tried having a paintball fight, but everyone wanted food and decorations instead.",
 		"Graveyard1": "I paint walls and furniture, not bones! It isn't Dia de Muertos!",
-        "Graveyard2": "What a dreary place... it sure could use a splash of color, huh?",
+		"Graveyard2": "What a dreary place... it sure could use a splash of color, huh?",
 		"Windy1": "Feel that draft coming through? It's wafting paint fumes all over the place.",
 		"Windy2": "This wind storm just blew all the fresh paint right off the wall!",
 		"Storm1": "When the thunder rolls, and the lightning strikes... it really brings out the colors on the furniture.",
@@ -1666,7 +1677,7 @@
 		"AfterDD2Tier1": "I sense a kindred spirit in the Etherian Dark Mages. A pity they are our enemies, I would have liked to learn from them.",
 		"Party": "I wanted to see how your kind celebrate, I am not disappointed.",
 		"Graveyard1": "Rise, zombie! Zombie, arise!",
-        "Graveyard2": "You may remove the reaper from the cemetery, but you may not remove the cemetery from the reaper...",
+		"Graveyard2": "You may remove the reaper from the cemetery, but you may not remove the cemetery from the reaper...",
 		"Rain1": "The sound of rain is soothing to the soul.",
 		"Rain2": "Balance is key. We need sun, we need rain. Too much of either leads to ruin.",
 		"Windy1": "Keep your talismans close... if you wind some, you lose some.",
@@ -1677,7 +1688,7 @@
 	"PirateSpecialText": {
 		"Party": "After all that cake, you might have to call me White Beard for a while.",
 		"Graveyard1": "Arr... hate to say it, but many me mateys put these holes in the ground... if ye catch me drift!",
-        "Graveyard2": "Hardee harr... the sea be a pirate's graveyard! Ye landlubbers waste ye time!",
+		"Graveyard2": "Hardee harr... the sea be a pirate's graveyard! Ye landlubbers waste ye time!",
 		"Windy1": "Hoist the sails, ye curs! We pirates startin' a leg of a race! Yarharharr!",
 		"Windy2": "All hands on deck! A storm of wind be brewin'!",
 		"Storm1": "Ahoy! Brace fer impact, swashbuckler! 'Tis a'mother of all tempests!",
@@ -1688,7 +1699,7 @@
 	"StylistSpecialText": {
 		"Party": "I may have gotten my hair done up just for today, but honestly, I just want to pop balloons with my scissors.",
 		"Graveyard1": "Eek! This deathly atmosphere is ruining my perm!",
-        "Graveyard2": "I kinda want to go out there and collect heads of hair for wigs, but I kinda don't want to GO OUT THERE!",
+		"Graveyard2": "I kinda want to go out there and collect heads of hair for wigs, but I kinda don't want to GO OUT THERE!",
 		"Windy1": "Want windswept hair? Go outside, it's free.",
 		"Windy2": "Ugh! I should just take the day off, this wind will blow away all my hard work!",
 		"Storm1": "I'm staying inside! The Einstein look is NOT in fashion.",
@@ -1699,7 +1710,7 @@
 	"AnglerSpecialText": {
 		"Party": "What, you think I like parties because I am a kid? Well, you're right, so get to partying!",
 		"Graveyard1": "I'm totally scared right now! It is all YOUR fault!",
-        "Graveyard2": "How can I fish out there?! Are you crazy, or just stupid!?",
+		"Graveyard2": "How can I fish out there?! Are you crazy, or just stupid!?",
 		"Windy1": "Wind is usually a great time to fish, but this is too much! I almost hooked my eye out!",
 		"Windy2": "Is this some kinda hurricane!? I almost got hit by a dolphin!",
 		"Storm1": "Thunderstorms are the best time to go fishing! Also the most dangerous! That's why I'll send you to do it for me!",
@@ -1710,15 +1721,15 @@
 		"BloodMoonFishing2": "You should try fishing when the water is all bloody! It's to die for!"
 	},
 	"TaxCollectorSpecialText": {
-        "Graveyard1": "Death and taxes, nothing more sure in life than that!",
-        "Graveyard2": "The people here aren't paying up! They are better off dead! Oh, perhaps they already are.",
+		"Graveyard1": "Death and taxes, nothing more sure in life than that!",
+		"Graveyard2": "The people here aren't paying up! They are better off dead! Oh, perhaps they already are.",
 		"Windy1": "Just because your house blows down, doesn't mean you stop paying taxes!",
 		"Windy2": "Bah! If this wind keeps up, people will lose their precious possessions and stop paying me!",
 		"Storm1": "A marvelous storm! A remarkable storm!",
 		"Storm2": "I am as giddy as a drunken man! I love this weather!",
 		"Rain1": "Humbug! Someone tried to tell me they saw a fish walking on land. Who do they take ME for?!",
 		"Rain2": "Why can't it be raining gold coins!? Water is everywhere! Bah, how useless!"
-    },
+	},
 	"BartenderSpecialText": {
 		"FirstHelp": "For starters, take a few of these Defender Medals, on the house! I've got some special defenses you can purchase, but only with Defender Medals!",
 		"FirstMeeting": "Huh? How did I get here? The last thing I remember was a portal opening up in front of me...",
@@ -1736,21 +1747,21 @@
 		"Storm2": "You look a bit frazzled! Perhaps a mug'll calm your singed nerves.",
 		"Rain1": "You look like a drowned, shaggy dog! How 'bout you down some ale, eh?",
 		"Rain2": "Wipe your feet before you step in here, the floor was just waxed!"
-    },
+	},
 	"GolferSpecialText": {
 		"FirstMeeting1": "Thank you for the rescue. If I were trapped out here any longer, I could have come down with a heat stroke!",
 		"FirstMeeting2": "Why, thank you! I've been stuck in this sand pit for days. Good thing you can get water out of a cactus.",
 		"Party_1": "I'm having trouble concentrating on this swing because of the obnoxious party going on around me.",
 		"Party_2": "I hit a hole in one! That's a good reason for us all to celebrate. Time to put my club down and have a margarita.",
-        "Graveyard1": "Graveyards creep me out. I don't like practicing my swings on top of my family and friends.",
-        "Graveyard2": "Don't play golf in a cemetery. The grass grows too efficiently and makes the entire course rough.",
+		"Graveyard1": "Graveyards creep me out. I don't like practicing my swings on top of my family and friends.",
+		"Graveyard2": "Don't play golf in a cemetery. The grass grows too efficiently and makes the entire course rough.",
 		"Windy1": "This wind makes for a very difficult course.",
 		"Windy2": "A strong gale adds challenge to a game of golf, but this is rather excessive.",
 		"Storm1": "I don't think so, {PlayerName}.",
 		"Storm2": "The odds of being struck by lightning are the same as the lottery. Going outside swinging an iron is a winning ticket!",
 		"Rain1": "Golfing in the rain is less fun. Everything is all slippery!",
 		"Rain2": "Water hazards are a lot larger when it rains, making it that much harder to reach the green!"
-    },
+	},
 	"PrincessSpecialText": {
 		"Party": "A party? Like.. a festival? I LOVE FESTIVALS! So much pink! So much glitter! It's so cheerful!!",
 		"Graveyard1": "Um... it's kind of scary out there. I better have some tea.",
@@ -1765,7 +1776,7 @@
 	"SantaSpecialText": {
 		"Party": "Come now, you didn't think I only celebrated on Christmas did you?",
 		"Graveyard1": "Ho ho ho! Wait, look at this place... did I come two months too early!?",
-        "Graveyard2": "Naughty or Nice? Hm, how unusual... the people here have all been crossed off my list for some time now.",
+		"Graveyard2": "Naughty or Nice? Hm, how unusual... the people here have all been crossed off my list for some time now.",
 		"Windy1": "Ho ho! My reindeer will fly at mach speeds, tonight!",
 		"Storm1": "Oh ho... whoah! There goes Dasher. There went Donner, too!",
 		"Rain1": "Got a torch? If so, won't you guide my sleigh tonight?!"
@@ -1773,7 +1784,7 @@
 	"TravellingMerchantSpecialText": {
 		"Party": "Many say that parties give you the richest of memories. So buy something and make this memory rich!",
 		"Graveyard1": "Whew! Look at my many wares! I totally did NOT take them off the dead buried here, to sell to you.",
-        "Graveyard2": "In my travels, I've never run across anyone living in a dismal place like this! Ah, well, as long as you have coin...",
+		"Graveyard2": "In my travels, I've never run across anyone living in a dismal place like this! Ah, well, as long as you have coin...",
 		"Windy1": "I go where winds take me, but this is ridiculous!",
 		"Windy2": "I would sell you exotic wind socks, but I'm afraid I forgot to stock them!",
 		"Storm1": "Hurry up and buy!",
@@ -1782,11 +1793,14 @@
 		"Rain2": "If my exotic coat shrinks, I will be a tad upset!"
 	},
 	"SkeletonMerchantSpecialText": {
-	    "Graveyard1": "As much as you would think I'd belong here, I really don't.",
-        "Graveyard2": "How did I get here!? These are not my friends!",
+		"Graveyard1": "As much as you would think I'd belong here, I really don't.",
+		"Graveyard2": "How did I get here!? These are not my friends!",
 		"Windy1": "The world above is turbulent and chaotic. I like my bones to stay attached, as it were!",
 		"Storm1": "The surface is overabundant with destructive weather. Singed bones would be bad for my complexion!",
 		"Rain1": "Up there? Heard it's pretty wet. Don't want my bones getting soggy and mushy..."
+	},
+	"SkeletonMerchantChatter": {
+		"1": "Chicken Bones? Why are you asking, do you need any?"
 	},
 	"GolferQuestsChatterMaster": {
 		"1": "You are a God walking among mere mortals! A spectacular golfer!",
@@ -1835,7 +1849,7 @@
 		"LikeNPC": "I like {NPCName}.",
 		"LoveNPC": "I love {NPCName}.",
 		"DislikeNPC": "I dislike {NPCName}.",
-		"HateNPC": "I hate {NPCName}.",
+		"HateNPC": "I hate {NPCName}."
 	},
 	"TownNPCMood_Guide": {
 		"Content": "I'm feeling quite alright.",
@@ -1852,7 +1866,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "{NPCName} rubs me the wrong way. Maybe it's the weird clothing?",
 		"HateNPC": "I hate that {NPCName} is around. The world is fine the way it was made!",
-		"LikeNPC_Princess": "Having {NPCName} around makes me feel at ease, as though a curse was finally lifted from me.",
+		"LikeNPC_Princess": "Having {NPCName} around makes me feel at ease, as though a curse was finally lifted from me."
 	},
 	"TownNPCMood_Merchant": {
 		"Content": "I'm feeling successful! Want to buy something?",
@@ -1869,7 +1883,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "I dislike {NPCName}, too frugal and doesn't ever buy my things.",
 		"HateNPC": "I hate {NPCName}'s terrible personality!",
-		"LikeNPC_Princess": "{NPCName} could buy out my whole shop! Pleasant to talk to, as well.",
+		"LikeNPC_Princess": "{NPCName} could buy out my whole shop! Pleasant to talk to, as well."
 	},
 	"TownNPCMood_Nurse": {
 		"Content": "My vital signs are normal, if that's what you're asking.",
@@ -1886,7 +1900,7 @@
 		"LoveNPC": "What? {NPCName}? I don't have a crush! I don't! Shut up!",
 		"DislikeNPC": "I don't like {NPCName} that much, kinda weirds me out.",
 		"HateNPC": "Oh, I hate treating {NPCName}, so difficult!",
-		"LikeNPC_Princess": "I accidentally dislocated {NPCName}'s shoulder during a check-up, and she apologized to ME for the inconvenience!",
+		"LikeNPC_Princess": "I accidentally dislocated {NPCName}'s shoulder during a check-up, and she apologized to ME for the inconvenience!"
 	},
 	"TownNPCMood_Painter": {
 		"Content": "Yeah, I might be in a good mood. What's it to ya?",
@@ -1903,7 +1917,7 @@
 		"LoveNPC": "I would really love to paint {NPCName}... because of the vivid colors, of course!",
 		"DislikeNPC": "{NPCName} is just too bland for my tastes, I dislike associating with dull types.",
 		"HateNPC": "I hate being around {NPCName}.",
-		"LikeNPC_Princess": "{NPCName} commissioned me to paint a mural on the roof of her throne room!",
+		"LikeNPC_Princess": "{NPCName} commissioned me to paint a mural on the roof of her throne room!"
 	},
 	"TownNPCMood_DyeTrader": {
 		"Content": "Me? I'm fine, I'm fine.",
@@ -1920,7 +1934,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "Oh dear, that {NPCName} has no sense of color or style, I don't like.",
 		"HateNPC": "I truly, truly hate how unsavory {NPCName} can be.",
-		"LikeNPC_Princess": "The hues on {NPCName}'s dress are deeper and more vivid than I've ever seen in my entire life!",
+		"LikeNPC_Princess": "The hues on {NPCName}'s dress are deeper and more vivid than I've ever seen in my entire life!"
 	},
 	"TownNPCMood_PartyGirl": {
 		"Content": "I'm in my best party mood!",
@@ -1937,7 +1951,7 @@
 		"LoveNPC": "I love that {NPCName} always dazzles at my parties.",
 		"DislikeNPC": "I think {NPCName} is a killjoy at parties.",
 		"HateNPC": "I hate how {NPCName} always tries to shut down my after-parties. What a grump!",
-		"LikeNPC_Princess": "YES, {NPCName} loves pink and bright, glittery things, SHE LOVES TO PARTY! ",
+		"LikeNPC_Princess": "YES, {NPCName} loves pink and bright, glittery things, SHE LOVES TO PARTY! "
 	},
 	"TownNPCMood_Angler": {
 		"Content": "I'm good, now fetch me a fish!",
@@ -1954,7 +1968,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "I dislike {NPCName}.",
 		"HateNPC": "I hate {NPCName}, and anyone else who treats me like a child!",
-		"LikeNPC_Princess": "{NPCName} is not a fish, yet she doesn't annoy me! That's really cool!",
+		"LikeNPC_Princess": "{NPCName} is not a fish, yet she doesn't annoy me! That's really cool!"
 	},
 	"TownNPCMood_Stylist": {
 		"Content": "I'm feeling fresh today.",
@@ -1971,9 +1985,9 @@
 		"LoveNPC": "{NPCName} is quite the looker... so exotic... I think I'm in love...",
 		"DislikeNPC": "I tried to work on {NPCName}, but was rudely rejected, I don't like stubborn people!",
 		"HateNPC": "I hate {NPCName}, how can you literally NOT grow hair?",
-		"LikeNPC_Princess": "I can't even touch {NPCName}'s hair, it's too perfect!",
+		"LikeNPC_Princess": "I can't even touch {NPCName}'s hair, it's too perfect!"
 	},
-"TownNPCMood_Demolitionist": {
+	"TownNPCMood_Demolitionist": {
 		"Content": "Well, I don't feel like exploding today!",
 		"NoHome": "I don't have a place to live, did I blow up my last one?",
 		"FarFromHome": "I need more BOOM, I think I left it way back at home.",
@@ -1988,7 +2002,7 @@
 		"LoveNPC": "I love how well {NPCName} can handle a container of fireball!",
 		"DislikeNPC": "I wanna strap {NPCName} to a rocket and watch what happens!",
 		"HateNPC": "I hate being around {NPCName}.",
-		"LikeNPC_Princess": "WHAT... {NPCName}? Is that a new brand of nitro? Oh, HER, Yes, good lass!",
+		"LikeNPC_Princess": "WHAT... {NPCName}? Is that a new brand of nitro? Oh, HER, Yes, good lass!"
 	},
 	"TownNPCMood_Dryad": {
 		"Content": "All is peaceful, don't mess it up.",
@@ -2005,7 +2019,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "I don't like that {NPCName} has no respect for other beings.",
 		"HateNPC": "I hate {NPCName}'s destructive habits towards nature!",
-		"LikeNPC_Princess": "{NPCName} brings order and peace to everyone who lives in this world.",
+		"LikeNPC_Princess": "{NPCName} brings order and peace to everyone who lives in this world."
 	},
 	"TownNPCMood_DD2Bartender": {
 		"Content": "I'm livin' the dream.",
@@ -2022,7 +2036,7 @@
 		"LoveNPC": "{NPCName} is one crazy little drinker, I love it!",
 		"DislikeNPC": "I rather dislike {NPCName}, they put out similar vibes as some of the dark things from Etheria.",
 		"HateNPC": "{NPCName}'s eccentric and narcissistic personality really makes me want to smash a table!",
-		"LikeNPC_Princess": "{NPCName} would make a great ruler where I come from, as well.",
+		"LikeNPC_Princess": "{NPCName} would make a great ruler where I come from, as well."
 	},
 	"TownNPCMood_ArmsDealer": {
 		"Content": "I'm good, buddy!",
@@ -2039,7 +2053,7 @@
 		"LoveNPC": "Think {NPCName} ever, ya know, checks me out?",
 		"DislikeNPC": "I don't really like {NPCName} bein' on my turf, ya know?",
 		"HateNPC": "I'd REALLY like to use {NPCName} as a range target sometime.",
-		"LikeNPC_Princess": "I never would have expected it, man, but {NPCName} knows her way around a gun!",
+		"LikeNPC_Princess": "I never would have expected it, man, but {NPCName} knows her way around a gun!"
 	},
 	"TownNPCMood_GoblinTinkerer": {
 		"Content": "Feelings are currently nominal.",
@@ -2051,12 +2065,12 @@
 		"LikeBiome": "Ahh, {BiomeName} is a nice, quiet place to construct more gadgets. Major like-age!",
 		"LoveBiome": "I love {BiomeName}.",
 		"DislikeBiome": "I don't like {BiomeName}, it is filled with loud, annoying pests that get in the way of my work!",
-		"HateBiome": "I hate {BiomeName}, I cannot put merge these trinkets into one piece if I'm fighting to keep myself that way!",
+		"HateBiome": "I hate {BiomeName}, I cannot combine these trinkets into one piece if I'm fighting to keep myself that way!",
 		"LikeNPC": "{NPCName} understands how fun it is to mix things together, I can respect that!",
 		"LoveNPC": "{NPCName} makes my cardiac core function improperly, it appears I love how that feels!",
 		"DislikeNPC": "I detect eerie vibes from {NPCName}, as if they contain dark secrets. I don't like the feeling.",
 		"HateNPC": "I really hate how {NPCName} humiliated me, all because male goblins cannot grow real hair!",
-		"LikeNPC_Princess": "{NPCName} likes my inventions, and says all friendly goblins are welcome!",
+		"LikeNPC_Princess": "{NPCName} likes my inventions, and says all friendly goblins are welcome!"
 	},
 	"TownNPCMood_WitchDoctor": {
 		"Content": "I embody contentedness.",
@@ -2073,7 +2087,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "I dislike the practices of {NPCName}. True healing cannot come from metal and glass.",
 		"HateNPC": "Fury fills my being as abominations sprout from tainted earth - I speak of {NPCName}.",
-		"LikeNPC_Princess": "Kind to my people, {NPCName} is. Much appreciated. ",
+		"LikeNPC_Princess": "Kind to my people, {NPCName} is. Much appreciated. "
 	},
 	"TownNPCMood_Clothier": {
 		"Content": "What's normal, anyways?",
@@ -2090,7 +2104,7 @@
 		"LoveNPC": "{NPCName}? I hadn't seen anything so delicious in my life.",
 		"DislikeNPC": "For some reason, being around {NPCName} makes me feel uneasy.",
 		"HateNPC": "I hate {NPCName} and I don't know why.",
-		"LikeNPC_Princess": "There's no greater joy than seen through the eyes of {NPCName}!",
+		"LikeNPC_Princess": "There's no greater joy than seen through the eyes of {NPCName}!"
 	},
 	"TownNPCMood_Mechanic": {
 		"Content": "Everything's working correctly - oh, me? Yeah I'm fine!",
@@ -2107,7 +2121,7 @@
 		"LoveNPC": "Umm... {NPCName} makes my heart flutter, I need to get that checked!",
 		"DislikeNPC": "I don't really like that {NPCName} won't leave me alone!",
 		"HateNPC": "I hate how {NPCName} doesn't know how to treat a woman!",
-		"LikeNPC_Princess": "{NPCName} hotwired one of my pumps, I'm super impressed!",
+		"LikeNPC_Princess": "{NPCName} hotwired one of my pumps, I'm super impressed!"
 	},
 	"TownNPCMood_TaxCollector": {
 		"Content": "What? I AM in a good mood.",
@@ -2124,11 +2138,11 @@
 		"LoveNPC": "I highly admire {NPCName}. Anyone who knows the true value of money earns my utmost respect!",
 		"DislikeNPC": "{NPCName} is just too noisy, away with them and their ilk!",
 		"HateNPC": "I loathe the very existence of {NPCName}! What kind of lunatic just gives things away for free?",
-		"LikeNPC_Princess": "{NPCName} shouldn't pay taxes, she's the princess... but she insisted.",
+		"LikeNPC_Princess": "{NPCName} shouldn't pay taxes, she's the princess... but she insisted."
 	},
 	"TownNPCMood_Pirate": {
 		"Content": "Yarr. I be in ship shape!",
-		"NoHome": "The open sea's me true home, but if I be landlocked for awhile... well I need me shelter, matey.",
+		"NoHome": "The open sea's me true home, but if I be landlocked for a while... well I need me shelter, matey.",
 		"FarFromHome": "Me bed and me rum be callin' me name back home.",
 		"DislikeCrowded": "Avast! Too many landlubbers on me ship be foulin' my mood.",
 		"HateCrowded": "Ye too hate the feelin' that a mutiny be comin'? Too many scallywags gettin' close to me quarters.",
@@ -2141,7 +2155,7 @@
 		"LoveNPC": "Ahoy, me takes {NPCName} under me wing, landlubber. Me love raisin' sea pups!",
 		"DislikeNPC": "Ye know me don't like that {NPCName} tries to cut me beard, I've slit scurvy throats fer less!",
 		"HateNPC": "Me want to make {NPCName} walk ye plank, sea dog! Hate the coddlin' and the dastardly smell!",
-		"LikeNPC_Princess": "Yarr, {NPCName}'d fetch a hefty reward on the seas... jus' kidding, she's me favorite lass.",
+		"LikeNPC_Princess": "Yarr, {NPCName}'d fetch a hefty reward on the seas... jus' kidding, she's me favorite lass."
 	},
 	"TownNPCMood_Wizard": {
 		"Content": "I feel magical.",
@@ -2158,7 +2172,7 @@
 		"LoveNPC": "I love that there's a lot to talk about with {NPCName}.",
 		"DislikeNPC": "{NPCName} dabbles in things that shouldn't be disturbed, and I don't like that.",
 		"HateNPC": "That loathsome {NPCName} is a complete and total abomination to magic!",
-		"LikeNPC_Princess": "{NPCName}? We have a princess? Fascinating, she seems nice.",
+		"LikeNPC_Princess": "{NPCName}? We have a princess? Fascinating, she seems nice."
 	},
 	"TownNPCMood_Steampunker": {
 		"Content": "I am jolly good.",
@@ -2175,7 +2189,7 @@
 		"LoveNPC": "I love how unique and interesting {NPCName} truly is, remarkable!",
 		"DislikeNPC": "{NPCName} is too otherworldly! I dinnae like them much.",
 		"HateNPC": "I hate being near {NPCName}.",
-		"LikeNPC_Princess": "The jolly {NPCName} volunteered to try my new teleporter, I love an enthusiastic assistant!",
+		"LikeNPC_Princess": "The jolly {NPCName} volunteered to try my new teleporter, I love an enthusiastic assistant!"
 	},
 	"TownNPCMood_Cyborg": {
 		"Content": "All neural functions appear to be operating smoothly.",
@@ -2192,7 +2206,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "{NPCName} does not comprehend my existence, for it deviates from the norm. Unusual. The negative feeling is mutual.",
 		"HateNPC": "{NPCName}'s functions cannot be scientifically analyzed. Neutral functions overloaded. Translation: I hate this.",
-		"LikeNPC_Princess": "{NPCName} analyzed: Most wholesome carbon lifeform ever recorded.",
+		"LikeNPC_Princess": "{NPCName} analyzed: Most wholesome carbon lifeform ever recorded."
 	},
 	"TownNPCMood_SantaClaus": {
 		"Content": "I am jolly!",
@@ -2209,7 +2223,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "I dislike being around{NPCName}.",
 		"HateNPC": "I hate people who don't believe in me! For example, {NPCName}, the naughtiest I've ever known!",
-		"LikeNPC_Princess": "Ho ho ho, {NPCName} is most certainly on top of the nice list. ",
+		"LikeNPC_Princess": "Ho ho ho, {NPCName} is most certainly on top of the nice list. "
 	},
 	"TownNPCMood_Golfer": {
 		"Content": "I'm doing fine!",
@@ -2226,7 +2240,7 @@
 		"LoveNPC": "Unpopular opinion: I quite love having {NPCName} around. I get my water hazards returned to me!",
 		"DislikeNPC": "I dislike being around {NPCName}. Makes me feel uneasy.",
 		"HateNPC": "I hate {NPCName}'s greedy attitude. It's pretty unnecessary in a world like this.",
-		"LikeNPC_Princess": "I tried to teach {NPCName} a few slick golf tricks, but she schooled me instead! I like her.",
+		"LikeNPC_Princess": "I tried to teach {NPCName} a few slick golf tricks, but she schooled me instead! I like her."
 	},
 	"TownNPCMood_Truffle": {
 		"Content": "I am quite happy, considering.",
@@ -2243,7 +2257,7 @@
 		"LoveNPC": "I love {NPCName} for being able to talk to me without mysteriously getting hungry.",
 		"DislikeNPC": "{NPCName} has tried to eat me so many times. I swear, one time they weren't even human! I, obviously, dislike it.",
 		"HateNPC": "{NPCName} has tried to throw me into a pot filled with other unusual ingredients. I hate that.",
-		"LikeNPC_Princess": "{NPCName} doesn't try to eat me, that's good in my book.",
+		"LikeNPC_Princess": "{NPCName} doesn't try to eat me, that's good in my book."
 	},
 	"TownNPCMood_BestiaryGirl": {
 		"Content": "I'm feeling good, actually! Thanks for askin'!",
@@ -2260,24 +2274,24 @@
 		"LoveNPC": "I can't explain it. I have like, a thing for {NPCName}. Is it because of the tail?",
 		"DislikeNPC": "I don't like how cruel {NPCName} is!",
 		"HateNPC": "I really totally hate what {NPCName} does to animals!",
-		"LikeNPC_Princess": "Like, {NPCName} has her subjects searching for a way for me to break my fox curse! Yass!",
+		"LikeNPC_Princess": "Like, {NPCName} has her subjects searching for a way for me to break my fox curse! Yass!"
 	},
 	"TownNPCMood_BestiaryGirlTransformed": {
-        "Content": "Rrrr... feel fine.",
-        "NoHome": "GRAH! Need HOME! NOW!",
-        "FarFromHome": "Grrawr... home! far FAR! CANNOT TRACK.",
-        "DislikeCrowded": "Rawgh! PEOPLE. TOO MANY. Irritate!",
-        "HateCrowded": "Snarrrrrll... CANNOT. STAND. CROWDING!",
-        "LoveSpace": "Rrrrr... open space. HAPPY.",
-        "LikeBiome": "In {BiomeName}... Good RUN! PLAY! HUNT! Yee!",
-        "LoveBiome": "FAVORITE LAND... {BiomeName}. DELIGHT.",
-        "DislikeBiome": "Mrrrr... {BiomeName}. NO SMELL GOOD.",
-        "HateBiome": "Gughhh, {BiomeName}... I LOATHE. BAD SCENERY.",
-        "LikeNPC": "{NPCName}. Rrr... GOOD. FEEL.",
-        "LoveNPC": "LOVE. STRONG... {NPCName}. Yeeyee!",
-        "DislikeNPC": "{NPCName}.... VIBES. BAD! Grrl",
-        "HateNPC": "Arghl! NO {NPCName}. HATE. FURY. DISGUST!!",
-		"LikeNPC_Princess": "{NPCName}... PINK. GOOD.",
+		"Content": "Rrrr... feel fine.",
+		"NoHome": "GRAH! Need HOME! NOW!",
+		"FarFromHome": "Grrawr... home! far FAR! CANNOT TRACK.",
+		"DislikeCrowded": "Rawgh! PEOPLE. TOO MANY. Irritate!",
+		"HateCrowded": "Snarrrrrll... CANNOT. STAND. CROWDING!",
+		"LoveSpace": "Rrrrr... open space. HAPPY.",
+		"LikeBiome": "In {BiomeName}... Good RUN! PLAY! HUNT! Yee!",
+		"LoveBiome": "FAVORITE LAND... {BiomeName}. DELIGHT.",
+		"DislikeBiome": "Mrrrr... {BiomeName}. NO SMELL GOOD.",
+		"HateBiome": "Gughhh, {BiomeName}... I LOATHE. BAD SCENERY.",
+		"LikeNPC": "{NPCName}. Rrr... GOOD. FEEL.",
+		"LoveNPC": "LOVE. STRONG... {NPCName}. Yeeyee!",
+		"DislikeNPC": "{NPCName}.... VIBES. BAD! Grrl",
+		"HateNPC": "Arghl! NO {NPCName}. HATE. FURY. DISGUST!!",
+		"LikeNPC_Princess": "{NPCName}... PINK. GOOD."
 	},
 	"TownNPCMood_Princess": {
 		"Content": "All matters are well at hand, my loyal subject!",
@@ -2324,5 +2338,11 @@
 		"LoveNPC_TownDog": "{NPCName} is really adorable!",
 		"LoveNPC_TownBunny": "{NPCName} is really adorable!",
 		"LoveNPC_TownSlime": "{NPCName} is really adorable!"
+	},
+
+	"HousingText": {
+		"HousingRequirements" : "(In order for a room to be considered a home, it needs to have a door, a chair, a table, and a light source.  Make sure the house has walls as well.)",
+		"HousingRequirements_Truffle" : "(In order for {NPCName} to consider a home, it needs to be in Glowing Mushroom Fields and have a door, a chair, a table, and a light source.  Make sure the house has walls as well.)"
 	}
+		
 }
