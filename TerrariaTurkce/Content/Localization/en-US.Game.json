@@ -1,7 +1,7 @@
 {
 	"WorldGeneration": {
 		"OceanSand":  "Okyanus kumu üretiliyor",
-		"WavyCaves": "Dalgalı mağaralar oluşturuluyor"
+		"WavyCaves": "Kıvrımlı mağaralar oluşturuluyor"
 	},
 	"LoadingTips_Default": {
 		"1": "Diğer oyuncular sandıklarını yağmalayabilir! Onlara güvenmiyorsan, Kasa veya Kumbara kullan; bu eşyalar her oyuncuya özel depolama alanı sunar.",
@@ -82,7 +82,7 @@
 		"77": "Bazen düşmanlar başka boyutlardan bile seni istila edebilir.",
 		"78": "Balkabağı Ay Madalyonu, Balkabağı Ay'ını çağırmak için kullanılabilir. Ürpertici!",
 		"79": "Kışın soğuğunu mu hissediyorsun? Ayaz Ay'ı çağırmak için bir Yaramaz Hediye kullan!",
-		"80": "Bir Kum Fırtınası çıktığında, çöller çok tehlikeli olabilir. Yeni düşmanlar, azalan görüş derken hareket etmek bile zorlaşabilir!",
+		"80": "Bir Kum Fırtınası çıktığında, çöller çok tehlikeli olabilir. Yeni düşmanlar, azalan görüş yüzünden hareket etmek bile zorlaşabilir!",
 		"81": "Silah Satıcısı silahlar hakkında herkesten çok şey bilir. Bir tane silah bulursan, yanına taşınabilir.",
 		"82": "Teknisyen, Zindan'da kaybolmuş. Taşınmasını istiyorsan ona yardım etmen gerekecek.",
 		"83": "Bir Yaşam Billuru kullandığında, Hemşire yanına taşınabilir! Herhangi bir zamanda tedavi görmek için onunla konuş... tabii bir bedel karşılığında.",
@@ -112,7 +112,7 @@
 		"107": "Yeraltını keşfederken tek tehlike düşmanlar değildir. Tuzaklara da dikkat et!",
 		"108": "Değişik yeni bir malzeme mi buldun? Ne yapabileceğini mi öğrenmek istiyorsun? Dost canlısı komşun Rehber'e danış!",
 		"109": "Bazı karakterler yok mu oldu? Merak etme, sabaha karşı geri gelirler.",
-		"110": "Patlayıcılar tehlikelidir!\n...ve etkili..."
+		"110": "Patlayıcılar tehlikelidir!\n...ve etkilidir..."
 	},
 	"LoadingTips_GamePad": {
 		"0": "You can assign your favorite items to the DPad for rapid use by enabling DPad Hotbar in Gamepad Settings!",
@@ -738,7 +738,7 @@
 		"WindPushed": "Kuvvetli Rüzgar",
 		"WitheredArmor": "Soluk Zırh",
 		"WitheredWeapon": "Soluk Silah",
-		"OgreSpit": "Sızıntı",
+		"OgreSpit": "Vıcık Vıcık",
 		"ParryDamageBuff": "Çarpıcı Aralık",
 		"BallistaPanic": "Mancınık Ürküntüsü!",
 		"MinecartRightMech": "Maden Kamyonu",
@@ -1350,12 +1350,12 @@
 		"Oasis": "Vaha",
 		"SpiderNest": "Örümcek Yuvası",
 		"Crimson": "Kızıllık",
-		"SolarPillar": "Güneş Sütünu",
+		"SolarPillar": "Güneş Sütunu",
 		"VortexPillar": "Girdap Sütunu",
 		"TheTemple": "Tapınak",
 		"UndergroundCorruption": "Yeraltı Yozlaşması",
 		"Hallow": "Kutsallık",
-		"NebulaPillar": "Bulut Sütunu",
+		"NebulaPillar": "Bulutsu Sütunu",
 		"CorruptUndergroundDesert": "Yoz Mağara Çölü",
 		"CrimsonUndergroundDesert": "Kızıl Mağara Çölü",
 		"HallowUndergroundDesert": "Kutsal Mağara Çölü",
@@ -1457,7 +1457,7 @@
 		"FrozenKeyCondition": "Zormod Kar'ında düşer",
 		"DesertKeyCondition": "Zormod Çöl'ünde düşer",
 		"BeatAnyMechBoss": "Herhangi bir Mekanik Patron'u yendikten sonra düşer",
-		"YoyoCascade": "İskeletron'ü yendikten sonra ama Zormod'a girmeden önce düşer",
+		"YoyoCascade": "İskeletron'u yendikten sonra ama Zormod'a girmeden önce düşer",
 		"YoyosAmarok": "Zormod'da düşer",
 		"YoyosYelets": "Herhangi bir Mekanik Patron'u yendikten sonra düşer",
 		"YoyosKraken": "Plantera'yı yendikten sonra düşer",
@@ -1475,7 +1475,7 @@
 	"biome_OldOnesArmy": "Etheria'dan gelen hizmetkârlar... Yanlışlıkla bu dünyayı işgal etmiş olabilirler ama yine de burayı yönetmek istiyorlar!",
 	"biome_PumpkinMoon": "Gecenin ortasında acı bir hasat yükselir. Kötülüğün ve karanlığın yaratıkları, yollarındaki her şeyi öldürerek toprakları ürkütür.",
 	"biome_FrostMoon": "Ho ho ho! Bu pek de sessiz olmayan gecede, şenlikli yaratıklar dünyayı kan ve katliam armağanlarıyla yağmura tutmak istiyorlar.",
-	"biome_FrostLegion": "Bu organize, soğukkanlı katil ailesi yollarına çıkan herkesi buzlamak istiyor ve ispiyoncuları sevmiyor... anladın mı?",
+	"biome_FrostLegion": "Bu organize, soğukkanlı katil ailesi yollarına çıkan herkesi harcamak istiyor ve ispiyoncuları sevmiyor... anladın mı?",
 	"biome_SlimeRain": "Herhangi bir meteorolojik açıklamanın ötesinde nedenlerden dolayı, balçıksı şeyler kovalarla aşağı doğru akıyor!",
 	"biome_WindyDay": "Kendini kaptırma! Doğa bir parti veriyor ve herkesi yerinden söküp savurmak istiyor!",
 	"biome_BloodMoon": "Ay kana bulanmış olarak yükseldiğinde, ölü de onunla birlikte yükselir! Bu ürkütücü yaratıklar, damlayan saflarına taze et eklemeye çalışıyor.",
@@ -1598,7 +1598,7 @@
 		"npc_Skeleton": "{$CommonBestiaryFlavor.Skeleton}",
 		"npc_SkeletonArcher": "{$CommonBestiaryFlavor.Skeleton}",
 		"npc_ArmoredSkeleton": "{$CommonBestiaryFlavor.Skeleton}",
-		"npc_Guide": "Rehber daima yararlı öğütler ve tarifler sunar. Kökeni ve bu dünyayla olan sıradışı bağlantıları ise gizemini koruyor.",
+		"npc_Guide": "Rehber her zaman yararlı ipuçları ve tarifler sunar. Kökeni ve bu dünyayla olan sıradışı bağlantıları ise gizemini koruyor.",
 		"npc_MeteorHead": "Göktaşları yüzeye çarptığında, parçaları başkaları alsın diye sağa sola savrulur. Bazı parçaları ise canlıdır ve saldıracaktır.",
 		"npc_FireImp": "Cehennem büyüsüyle güçlendirilmiş küçük bir iblis. Işınlanabilir ve düşmanlarına hayalet alev topları fırlatabilir.",
 		"npc_GoblinPeon": "Cincüce Ordusu'nun sıradan askerleri olan bu iğrenç yaratıklar, saldırıya sırf ölsünler diye gönderilmiştir... ve kapıları kırsınlar diye.",
@@ -2262,7 +2262,7 @@
 	"LucyTheAxe_PickedUp":
 	{
 		"1": "Oh, çok şükür!",
-		"2": "Bundan böyle ayrılmaz olacağız.",
+		"2": "Bundan böyle ayrılmaz bir ikili olacağız.",
 		"3": "Ah, ait olduğum yere geri döndüm.",
 	},
 	"LucyTheAxe_ChoppedTree":
