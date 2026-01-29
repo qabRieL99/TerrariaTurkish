@@ -1003,5 +1003,9 @@
 		"RainbowBoulderPet": "Rainbow Boulder",
 		"SlimeSpear": "Slime Spear",
 		"SlimeWhip": "Slime Whip",
+		"ObsidianFire": "Obsidian Fire",
+		"ObsidianFire2": "{$ProjectileName.ObsidianFire}",
+		"ObsidianFire3": "{$ProjectileName.ObsidianFire}",
+		"SkyDragonsFuryElectrosphere": "{$ProjectileName.Electrosphere}",
 	}
 }
