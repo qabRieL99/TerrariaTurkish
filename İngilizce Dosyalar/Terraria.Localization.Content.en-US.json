@@ -400,7 +400,15 @@
 		"SwitchPage": "Switch Page",
 		"HousingAssign": "Assign {0}",
 		"HousingEvict": "Evict {0}",
-		"HousingAim": "Aim"
+		"HousingAim": "Aim",
+		"PortraitsDetailed": "Portraits Style: Detailed",
+		"PortraitsCloseUp": "Portraits Style: Profile",
+		"PortraitsFullBody": "Portraits Style: Retro",
+		"PortraitsDisabled": "Portraits Style: Disabled",
+		"FlashyEffectsWorldOn": "Thunder Effects: On",
+		"FlashyEffectsWorldOff": "Thunder Effects: Reduced",
+		"FlashyEffectsInterfaceOn": "Inventory Effects: On",
+		"FlashyEffectsInterfaceOff": "Inventory Effects: Reduced",
 	},
 	"CaptureBiomeChoice": {
 		"0": "Automatic",
@@ -685,6 +693,7 @@
 		"SuperCartDisabled": "Minecart: Normal",
 		"BannersWindow": "Banners Window",
 		"BannersTitle": "Banners",
+		"ScreenShake": "Screen Shake: {0}",
 	},
 	"Controls": {
 		"LeftClick": "Left Click",
