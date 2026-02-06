@@ -19,13 +19,16 @@
 |Duke Fishron|Dük Balıkejder|
 |Eater of the Worlds|Cihan Yiyici|
 |Empress of Light|Işık İmparatoriçesi|
+|Eye of Cthulhu|Cthulhu'nun Gözü|
+|King Slime|Kral Balçık|
 |Lunatic Cultist|Aysal Tarikatçı|
 |Moon Lord|Ay Efendisi|
 |Mourning Wood|Yaslayan Ağaç|
 |Pumpking|Kabakral|
 |Queen Bee|Kraliçe Arı|
-|Skeletron Prime|Esas İskeletron|
+|Queen Slime|Kraliçe Balçık|
 |Skeletron|İskeletron|
+|Skeletron Prime|Esas İskeletron|
 |The Destroyer|Yok Edici|
 |The Twins|İkizler|
 |Wall of Flesh|Et Duvarı|
@@ -91,6 +94,7 @@
 |Palladium|Paladyum|
 |Pearlstone|Aktaş|
 |Platinum|Platin|
+|Shimmer|Parıltı|
 |Shroomite|Mantarit|
 |Spectre|Ruhani|
 |Tin|Kalay|
@@ -99,11 +103,16 @@
 ### Mekanikler
 |Özgün|Çeviri|
 |--|--|
+|Ammo|Cephane|
 |Banner|Sancak|
 |Bar|Kalıp|
 |Bestiary|Yaratık Kitabı|
 |Biome|Biyom?|
+|Buff|Güçlendirme|
+|Consumable|Tüketilebilir|
 |Counterweight|Karşı Ağırlık|
+|Crafting|İşleme|
+|Debuff|Zayıflatma|
 |Expert|Uzman|
 |Housing|Konaklama|
 |Lunar|Göksel|
@@ -114,12 +123,14 @@
 |Mount|Binek|
 |Nebula|Bulutsu|
 |Planter Box|Ekim Kutusu|
+|Sentry|Nöbetçi|
 |Solar|Güneşsel|
 |Stardust|Yıldıztozu|
+|Summon Tag|Çağrı Etiketi|
+|Throwable|Atılabilir|
 |Tile|Döşeme|
 |Trophy|Ganimet|
 |Vortex|Girdap|
-|Summon Tag|Çağrı Etiketi|
 
 ### Mekanlar
 |Özgün|Çeviri|
@@ -128,9 +139,13 @@
 |Cavern|Yeraltı Boşluğu|
 |Corruption|Yozlaşma|
 |Crimson|Kızıllık|
+|Desert|Çöl|
+|Dungeon|Zindan|
 |Floating Island|Süzülen Ada|
 |Hallow|Kutsallık|
+|Jungle|Orman|
 |Living Wood|Yaşayan Odun|
+|Ocean|Okyanus|
 |Surface|Yüzey|
 |Town|Semt|
 |Underground|Yeraltı|
@@ -141,17 +156,23 @@ Not: Kızıllık, Kutsallık ve Yozlaşma için, eğer bir sıfat olarak kullan�
 ### Dost NPCler
 |Özgün|Çeviri|
 |--|--|
+|Angler|Balıkçı|
 |Arms Dealer|Silah Satıcısı|
 |Clothier|Terzi|
+|Demolitionist|Bombacı|
 |Dye Trader|Boya Tüccarı|
 |Goblin Tinkerer|Cincüce Tamirci|
+|Golfer|Golfçü|
+|Guide|Rehber|
 |Mechanic|Teknisyen|
+|Merchant|Tüccar|
 |Painter|Ressam|
 |Party Girl|Partici Kız|
 |Steampunker|Steampunkçı|
 |Stylist|Stilist|
 |Tavernkeep|Gazinocu|
 |Tax Collector|Vergi Tahsildarı|
+|Travelling Merchant|Seyyar Tüccar|
 |Tuffle|Yermantarı|
 |Witch Doctor|Cadı Doktor|
 |Zoologist|Hayvanbilimci|
@@ -183,11 +204,14 @@ Not: Kızıllık, Kutsallık ve Yozlaşma için, eğer bir sıfat olarak kullan�
 |Blood Moon|Kanlı Ay|
 |Frost Legion|Ayaz Birliği|
 |Frost Moon|Ayaz Ay|
+|Goblin Invasion|Cincüce İstilası|
 |Martian Madness|Marslı Çılgınlığı|
 |Old One's Army|Kadim'in Ordusu|
 |Pirate Invasion|Korsan Baskını|
 |Pumpkin Moon|Balkabağı Ay|
+|Slime Rain|Balçık Yağmuru|
 |Solar Eclipse|Güneş Tutulması|
+|Windy Day|Rüzgarlı Gün|
 
 ### Taşlar
 |Özgün|Çeviri|

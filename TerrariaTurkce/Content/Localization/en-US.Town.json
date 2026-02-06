@@ -1,14 +1,15 @@
-{
+﻿{
 	"TownNPCHousingFailureReasons": {
-		"TooCloseToWorldEdge" : "Bunun için daha iyi bir metne ihtiyacımız var !!!",
-		"RoomIsTooBig" : "Bu oda çok büyük",
-		"RoomIsTooSmall" : "Bu oda çok küçük",
-		"HoleInWallIsTooBig" : "Bu odada bir duvar eksik",
-		"RoomCheckStartedInASolidTile" : "Bu düz bir blok!",
-		"RoomHasAStinkbug" : "Bu oda bir süne tarafından istila edilmiş!",
-		"RoomHasAnEchoStinkbug" : "Bu oda bir hayalet süne tarafından istila edilmiş!"
+		"TooCloseToWorldEdge": "Dünya kenarına çok yakın!",
+		"RoomIsTooBig": "Bu oda çok büyük",
+		"RoomIsTooSmall": "Bu oda çok küçük",
+		"HoleInWallIsTooBig": "Bu odada bir duvar eksik",
+		"RoomCheckStartedInASolidTile": "Burası katı bir blok!",
+		"RoomHasAStinkbug": "Bu odada bir osuruk böceği istilası var!",
+		"RoomHasAnEchoStinkbug": "Bu odada hayalet bir osuruk böceği istilası var!",
+		"RoomHasNoStandingSpace": "Bu odada duracak yer yok!",
+		"RoomHasUnsafeWalls": "Bu odadaki doğal duvarların değiştirilmesi gerekiyor!"
 	},
-	
 	"MerchantNames": {
 		"Alfred": "Alfred",
 		"Barney": "Barney",
@@ -145,7 +146,7 @@
 		"Kevin": "Kevin",
 		"Brian": "Brian",
 		"Colin": "Colin",
-		"Jan": "Jan",
+		"Jan": "Jan"
 	},
 	"DemolitionistNames": {
 		"Dolbere": "Dolbere",
@@ -181,7 +182,6 @@
 		"Pip": "Pip",
 		"Cyril": "Cyril",
 		"Fitz": "Fitz",
-		"Lloyd": "Lloyd",
 		"Arthur": "Arthur",
 		"Rodney": "Rodney",
 		"Graham": "Graham",
@@ -349,7 +349,7 @@
 		"Fantasia": "Fantasia",
 		"Star": "Star",
 		"Cherry": "Cherry",
-		"Amanda": "Amanda",
+		"Amanda": "Amanda"
 	},
 	"CyborgNames": {
 		"Alpha": "Alpha",
@@ -362,7 +362,6 @@
 		"Omicron": "Omicron",
 		"Sigma": "Sigma",
 		"Upsilon": "Upsilon",
-		"Phi": "Phi",
 		"Zeta": "Zeta",
 		"Lambda": "Lambda",
 		"Nu": "Nu",
@@ -494,7 +493,7 @@
 		"Mandible Calavera": "Mandible Calavera",
 		"Mika": "Mika",
 		"No-Eyed Wiley": "No-Eyed Wiley",
-		"Victor": "Victor",
+		"Victor": "Victor"
 	},
 	"TaxCollectorNames": {
 		"McKinly": "McKinly",
@@ -649,7 +648,8 @@
 		"Charlie": "Charlie",
 		"Rascal": "Rascal",
 		"Critter": "Critter",
-		"Adol": "Adol"
+		"Adol": "Adol",
+		"Lawnmower": "Lawnmower"
 	},
 	"CatNames_RussianBlue": {
 		"Alexi": "Alexi",
@@ -689,7 +689,8 @@
 		"Cutie": "Cutie",
 		"Renne": "Renne",
 		"Miette": "Miette",
-		"Tula": "Tula"
+		"Tula": "Tula",
+		"Kibby": "Kibby"
 	},
 	"CatNames_White": {
 		"Misty": "Misty",
@@ -726,7 +727,9 @@
 		"Bitsy": "Bitsy",
 		"Mike": "Mike",
 		"Sparky": "Sparky",
-		"Lucky": "Lucky"
+		"Lucky": "Lucky",
+		"Bubbles": "Bubbles",
+		"Tank": "Tank"
 	},
 	"DogNames_PitBull": {
 		"Max": "Max",
@@ -744,7 +747,6 @@
 		"Buster": "Buster",
 		"Doug": "Doug"
 	},
-
 	"DogNames_Beagle": {
 		"Zelda": "Zelda",
 		"Navi": "Navi",
@@ -774,7 +776,9 @@
 		"Ammy": "Ammy",
 		"Charles": "Charles",
 		"Estelle": "Estelle",
-		"Astro": "Astro"
+		"Astro": "Astro",
+		"Kilo": "Kilo",
+		"AK": "AK"
 	},
 	"DogNames_Dalmation": {
 		"Spot": "Spot",
@@ -823,7 +827,8 @@
 		"Inaba": "Inaba",
 		"Shirayuki": "Shirayuki",
 		"Lilia": "Lilia",
-		"Ears": "Ears"
+		"Ears": "Ears",
+		"Jimothy": "Jimothy"
 	},
 	"BunnyNames_Angora": {
 		"Breadbuns": "Breadbuns",
@@ -835,7 +840,7 @@
 		"Pom": "Pom",
 		"Muffin": "Muffin",
 		"Maximus": "Maximus",
-		"Donald": "Donald",
+		"Donald": "Donald"
 	},
 	"BunnyNames_Dutch": {
 		"Oreo": "Oreo",
@@ -894,7 +899,6 @@
 		"Dustbunny": "Dustbunny",
 		"Dusty": "Dusty"
 	},
-	
 	"SlimeNames_Blue": {
 		"Steve": "Steve",
 		"Seymour": "Seymour",
@@ -1124,8 +1128,6 @@
 		"Selmy": "Selmy",
 		"Shortie": "Shortie"
 	},
-
-
 	"AnglerQuestChatter": {
 		"Chatter_1": "Vay be! {AnglerCompletedQuestsCount} kez falan beni rahatsız ettin! Her seferinde güzel bir balığım olmasaydı, çok kızardım!",
 		"Chatter_2": "Şu anda {AnglerCompletedQuestsCount} tane son derece harika balığım olduğunu biliyor muydun?! Çünkü ayak işleri yapan maymunlar denince, oldukça faydalısın!"
@@ -1209,57 +1211,68 @@
 	"CatChatter": {
 		"Chatter_1": "Miyav!",
 		"Chatter_2": "Mırrr......",
-		"Chatter_3": "Miyyyav!"
+		"Chatter_3": "Miyyyav!",
+		"NoHome": "Miyav?"
 	},
 	"DogChatter": {
 		"Chatter_1": "Hav!",
 		"Chatter_2": "Havvuuu!",
-		"Chatter_3": "Hav hav!"
+		"Chatter_3": "Hav hav!",
+		"NoHome": "Hav?"
 	},
 	"BunnyChatter": {
 		"Chatter_1": "*Tavşan sesleri*",
-		"Chatter_2": "*Tavşan sesleri*"
+		"Chatter_2": "*Tavşan sesleri*",
+		"NoHome": "*Tavşan sesleri*?"
 	},
 	"SlimeBlueChatter": {
 		"Chatter_1": "Burble bubble? Hrm!",
 		"Chatter_2": "Babble babble blub... gulp!",
-		"Chatter_3": "Kaplunk! Hmm... bleb. Uh-huh."
+		"Chatter_3": "Kaplunk! Hmm... bleb. Uh-huh.",
+		"NoHome": "Burble bubble?"
 	},
 	"SlimeGreenChatter": {
 		"Chatter_1": "Drip!",
 		"Chatter_2": "Sizzle fo shizzle!",
-		"Chatter_3": "Yo, slurp glurp!"
+		"Chatter_3": "Yo, slurp glurp!",
+		"NoHome": "Drip?"
 	},
 	"SlimeOldChatter": {
 		"Chatter_1": "Hrumble grumble!",
 		"Chatter_2": "Poot... ahem!",
-		"Chatter_3": "Glug glug? Pshaw!"
+		"Chatter_3": "Glug glug? Pshaw!",
+		"NoHome": "Hrumble grumble?"
 	},
 	"SlimeRainbowChatter": {
 		"Chatter_1": "Dribble bleam!",
 		"Chatter_2": "Sprinkle, tinkle!",
-		"Chatter_3": "Ripple? Blip blop!"
+		"Chatter_3": "Ripple? Blip blop!",
+		"NoHome": "Dribble bleam?"
 	},
 	"SlimePurpleChatter": {
 		"Chatter_1": "Berp.",
 		"Chatter_2": "*garip sessizlik*",
-		"Chatter_3": "Plop. Pop... splat."
+		"Chatter_3": "Plop. Pop... splat.",
+		"NoHome": "Berp?"
 	},
 	"SlimeRedChatter": {
 		"Chatter_1": "Murble burble... glup!!!",
 		"Chatter_2": "Hiss! Gargle! Grrrrr...",
-		"Chatter_3": "Burp... heh."
+		"Chatter_3": "Burp... heh.",
+		"NoHome": "Murble burble... glup?"
 	},
 	"SlimeYellowChatter": {
 		"Chatter_1": "Bubble bubble! Boil glubble!",
 		"Chatter_2": "Blobra kaslobra!",
-		"Chatter_3": "Kasploosh!"
+		"Chatter_3": "Kasploosh!",
+		"NoHome": "Bubble bubble?"
 	},
 	"SlimeCopperChatter": {
 		"Chatter_1": "Blip blop, huzzah!",
 		"Chatter_2": "Kerslash! Kersplish!",
-		"Chatter_3": "Squish 'n sploink!"
-	},	
+		"Chatter_3": "Squish 'n sploink!",
+		"NoHome": "Blip blop?"
+	},
 	"BestiaryGirlSpecialText": {
 		"Party": "Yani şey, şapkayı takamam. Afedersin. Parti için hâlâ buradayım ama, endişelenme!",
 		"Graveyard1": "İçgüdülerim tamamen çılgına dönüyor. Gerçekten buradan çıkmam gerekiyor!",
@@ -1274,22 +1287,21 @@
 	"BartenderHelpText": {
 		"Help_1": "Benden satın alabileceğin özel savunma eserleri var, ama bunları almak için Savunma Madalyaların olması gerekiyor!",
 		"Help_2": "Bu eserleri tuzaklar ve savunma kuleleri oluşturmak için kullanabilirsin. Bunu yapmak, yalnızca Kadim'in Ordusu üyeleri tarafından düşürülen özel bir enerji olan Etheria sihri tüketir!",
-		"Help_3": "Kadim'in Ordusu'na meydan okumak oldukça basit. Eternia Billurları'nın gücüne çekilirler ve bu onları tuzağa düşürmek için kullanılabilir.",
-		"Help_4": "Bir Eternia Billuru yerleştirmek için, bir Eternia Billuru ve onu yerleştirmek için bir ayak almalısın. Şansa bak ki, onları benden satın alabilirsin!",
-		"Help_5": "Eternia Billuru standını oldukça açık, düz bir alana yerleştirmen mantıklı olacaktır. Çok sayıda duvar ve malzeme, korumayı oldukça zorlaştırabilir!",
-		"Help_6": "Standın kurulduktan sonra, bir Eternia Billuru tutarken onunla etkileşime geç ve dövüşe hazırlan!",
-		"Help_7": "Elbette, Kadim'in Ordusu'nun Eternia Billuru'nu yok etmesine izin veremezsin! Bunun, benim Etheria dünyam için felaket sonuçları olur!",
-		"Help_8": "10 Etheria sihri pahasına savunma yerleştirebilirsin. Eternia Billuru yerleştirildikten sonra bu sihrin bir kısmını serbest bırakılır. Aksi takdirde, daha fazlasını elde etmek için düşmanları yenmen gerekecektir.",
-		"Help_9": "Savunmanın yardımıyla, hem seni hem de Eternia Billuru'nu yok etmeye çalışan birkaç istilacı dalgasını püskürtmen gerekecek!",
+		"Help_3": "Kadim'in Ordusu'na meydan okumak oldukça basit. Eternia Kristalleri'nin gücüne çekilirler ve bu onları tuzağa düşürmek için kullanılabilir.",
+		"Help_4": "Bir Eternia Kristali yerleştirmek için, bir Eternia Kristali ve onu yerleştirmek için bir ayak almalısın. Şansa bak ki, onları benden satın alabilirsin!",
+		"Help_5": "Eternia Kristali standını oldukça açık, düz bir alana yerleştirmen mantıklı olacaktır. Çok sayıda duvar ve malzeme, korumayı oldukça zorlaştırabilir!",
+		"Help_6": "Standın kurulduktan sonra, bir Eternia Kristali tutarken onunla etkileşime geç ve dövüşe hazırlan!",
+		"Help_7": "Elbette, Kadim'in Ordusu'nun Eternia Kristali'ni yok etmesine izin veremezsin! Bunun, benim Etheria dünyam için felaket sonuçları olur!",
+		"Help_8": "10 Etheria sihri pahasına savunma yerleştirebilirsin. Eternia Kristali yerleştirildikten sonra bu sihrin bir kısmını serbest bırakılır. Aksi takdirde, daha fazlasını elde etmek için düşmanları yenmen gerekecektir.",
+		"Help_9": "Savunmanın yardımıyla, hem seni hem de Eternia Kristali'ni yok etmeye çalışan birkaç istilacı dalgasını püskürtmen gerekecek!",
 		"Help_10": "İstilayı başarılı bir şekilde geri püskürtürsen, daha fazla eser ve diğer bazı özel ödüller satın almak için bana getirebileceğin daha fazla Savunma Madalyası ile ödüllendirileceksin!",
 		"Help_11": "Ayrıca, Kadim'in Ordusu'nu yenersen, eserlerin gücünün daha fazla açılabileceğine dair söylentiler de duydum. Belki de onları dilediğiniz zaman kullanabilirsin!"
 	},
 	"GuideHelpText": {
 		"Help_1063": "Normalde sana Kadim'in Ordusu hakkında her şeyi öğretmeye çalışırdım, ama muhtemelen bunu {Bartender}'a sormalısın.",
 		"Help_1064": "Ay kırmızıya döndüğünde su kan gibi olur. İçine batmış yaratıklar acayip ve kötü niyetli olabilir.",
-		"Help_1065": "İnsanları evlerinden konaklama arayüzünü kullanarak atabilirsin bile! Atmak için evlerindeki bayrağın üzerine gelip <right> tuşuna bas. Ayrıca yeni bir eve atamak için <left> tuşuna basabilirsin."
+		"Help_1065": "İnsanları evlerinden konaklama arayüzünü kullanarak atabilirsin bile! Atmak için evlerindeki bayrağın üzerine gelip {InputTrigger_InteractWithTile} tuşuna bas. Ayrıca yeni bir eve atamak için {InputTrigger_UseOrAttack} tuşuna basabilirsin."
 	},
-
 	"GuideHelpTextSpecific": {
 		"Help_1100": "Ormanda yaşayan bir kertenkele ırkı duydum. Belki ormandaki dev bir canavarı devirerek birinin dikkatini çekebilirsin?",
 		"Help_1101": "Dışarlarda bir yerde, ortaya çıkardığın güçlerle savaşma konusunda usta bir kadın olduğunu duydum. Belki kendini kanıtlarsan, onun dikkatini çekebilirsin.",
@@ -1344,7 +1356,6 @@
 		"Help_1159": "Mercekleri bir kızıl sunakta birleştirirsen, güçlü bir canavarı çağırmanın bir yolunu bulabilirsin. Yine de kullanmadan önce geceye kadar beklemen gerekecek.",
 		"Help_1160": "Karlı akşamlarda gecenin bir yarısı vahşi doğadan korkunç bir kükreme sesi gelir! Dışarıda bir şey var!"
 	},
-
 	"AnglerQuestText": {
 		"NoQuest_1": "Şu an sana verecek bir görevim yok.",
 		"NoQuest_2": "Beni bugün yeterince eğlendirdin, git artık.",
@@ -1497,7 +1508,7 @@
 	"GuideSpecialText": {
 		"Party": "Daha önce hiç partiye gitmedin mi? Diğerlerini kontrol etmek isteyebilirsin. İnsanlar bazen özel parti malzemeleri getirirler.",
 		"Graveyard1": "Mezarlıklar ürkütücü ve çok tehlikelidir. Adımına dikkat ederdim evlat.",
-        "Graveyard2": "Buralar soğuk ve uğursuz. Bana seslenen çok kötü bir şey hissediyorum.",
+		"Graveyard2": "Buralar soğuk ve uğursuz. Bana seslenen çok kötü bir şey hissediyorum.",
 		"Rain1": "Bazı canlıların yalnızca yağmur sırasında ortaya çıktığını unutma.",
 		"Rain2": "Endişelenme, bu sadece su. Yağmur yağdığında bazı balık türlerinin uçabildiğini duydum!",
 		"Windy1": "Devam eden güçlü rüzgarlar seni uçurmasın ve onlardan yararlanan canavarlara karşı dikkatli ol!",
@@ -1513,7 +1524,7 @@
 		"AfterDD2Start": "Neden o geçitleri havaya uçuramayacağımızı anlamıyorum.",
 		"Party": "Bugün dikkatli olmak isteyebilirsin. Biz cüceler oldukça patlayıcı partiler düzenleriz.",
 		"Graveyard1": "Buradaki ölüm kokusu, çalıştığım yerdeki iskelet istilasına uğramış mağaralardan daha kötü!",
-        "Graveyard2": "Tüm bu kemik ve taş yığınları... patlamak için mükemmel!",
+		"Graveyard2": "Tüm bu kemik ve taş yığınları... patlamak için mükemmel!",
 		"Windy1": "Şimdi yüzeye el bombası atmak için en iyi zaman olmayabilir, uzun dostum!",
 		"Windy2": "Bumerang bombaları ister misin? Onları bu rüzgara at, san geri döneceklerdir!",
 		"Storm1": "Güm! Doğa ana bile tatmin edici bir yıkımın tadını sever!",
@@ -1524,7 +1535,7 @@
 	"ClothierSpecialText": {
 		"Party": "Annem her zaman, partiye başlamadan önce geçmişi geride bırakman gerektiğini söylerdi.",
 		"Graveyard1": "Lanetlendim! Beni hastaneye götür!",
-        "Graveyard2": "Burası büyük bir mezarlık, onu böleriz! Ölüler kendi yarısında kalır, biz de bizimkinde kalırz!",
+		"Graveyard2": "Burası büyük bir mezarlık, onu böleriz! Ölüler kendi yarısında kalır, biz de bizimkinde kalırz!",
 		"Windy1": "Bazen, sanırım yeterince yel değirmeni yok diye düşünüyorum.",
 		"Windy2": "Bugün hava kesin biraz tuhaf!",
 		"Storm1": "Nefes almaya devam etmeyi unutma, çünkü sonunda bu fırtına geçecek!",
@@ -1535,7 +1546,7 @@
 	"GoblinTinkererSpecialText": {
 		"Party": "Cincüce partileri insanlarınkine çok benzer. Her iki tarafta da \"Suçu İnsana At\" gibi oyunlar var. Şey... Bu oyunu partilerimde oynamam.",
 		"Graveyard1": "Bir Foton Çuvalı üzerinde çalışıyorum. Dışarıda gizlenen bütün hayaletleri tuzağa düşürmek için bir icat!",
-        "Graveyard2": "Sürekli inilti ve kulak delici çığlık sesleri beni işimden alıkoyuyor!",
+		"Graveyard2": "Sürekli inilti ve kulak delici çığlık sesleri beni işimden alıkoyuyor!",
 		"Windy1": "Bu hava, gözlük takmamın nedeni! Gözlerime kir ve kum kaçmasına izin veremem.",
 		"Windy2": "Şimdi bir fırıldak aksesuarını tamir etmek için harika bir zaman!",
 		"Storm1": "Etrafımızda açığa çıkan enerjiden yararlanacak bir icat üzerinde çalışıyorum!",
@@ -1547,7 +1558,7 @@
 		"AfterDD2Tier1": "Biliyor musun, sanırım daha önce böyle bir geçit görmüştüm, ama altındı.",
 		"Party": "Açıkçası en büyülü partileri veriyorum.",
 		"Graveyard1": "Kimseyi ölümden geri getiremem, o yüzden sorma!",
-        "Graveyard2": "Tuhaf, kristal kürenin içine yeterince baktığımda, her müşterinin geldiği yer burası!",
+		"Graveyard2": "Tuhaf, kristal kürenin içine yeterince baktığımda, her müşterinin geldiği yer burası!",
 		"Windy1": "Bu fırtına seni rahatsız mı etti? Bunun için bir sihir var.",
 		"Windy2": "Dünyamızı korkutan bir rüzgar patlaması mı? Bunu ben mi yaptım?",
 		"Storm1": "Biri yine sihir kitabımı mı çaldı?!",
@@ -1565,7 +1576,7 @@
 		"LuckIsGood1": "Senin hakkında iyi bir karma zerresi hissediyorum, ama yanılıyor olabilirim.",
 		"LuckIsGood2": "Sende alışılmadık derecede sıcak bir şeyler var. Nasıl yerleştireceğimi bilmiyorum ama bu yönde ilerlemeye devam et.",
 		"LuckIsGreat1": "Her an büyük bir şeyin gerçekleşebileceği gibi pozitif bir enerji yayıyorsun.",
-		"LuckIsGreat2": "Senden sanki dileklerin gerçekleşecekmiş gibi yayılan iyi talih hissi var.",		
+		"LuckIsGreat2": "Senden sanki dileklerin gerçekleşecekmiş gibi yayılan iyi talih hissi var.",
 		"LuckIsAmazing1": "Dört yapraklı yoncadan oluşan bir bahçen mi var? Büyük talihin özleriyle dolusun!",
 		"LuckIsAmazing2": "Şans sana gülümsüyor! Muhtemelen her şeyden kar edeceksin!",
 		"LuckIsGodly1": "Muazzam bir refahın lütfu ile dolup taşıyorsun!",
@@ -1574,7 +1585,7 @@
 	"MechanicSpecialText": {
 		"Party": "Sence mum yerine ampullü soğan yapsam bir sakıncası olur mu?",
 		"Graveyard1": "Canavarları uzak tutmak için bu karanlık ve korkutucu yeri aydınlatmalıyım.",
-        "Graveyard2": "Buraya biraz tel çekirdim, ama ürkütücü ölü şeyler önümü kesiyor!",
+		"Graveyard2": "Buraya biraz tel çekirdim, ama ürkütücü ölü şeyler önümü kesiyor!",
 		"Windy1": "Olamaz! Gelmekte olan düşük basınçlı cepler var, elektrik şebekesini güvene almalıyım.",
 		"Windy2": "Kablolarım bu kasırgada karmakarışık oldu. Adım attığın yere dikkat et!",
 		"Storm1": "Harika! Bir pompa daha gitti. Yıldırım, ekipmanımı kızartmayı ne zaman bırakacak?!",
@@ -1585,7 +1596,7 @@
 	"TruffleSpecialText": {
 		"Party": "Herkesi evimde partiye davet ederdim ama mantar yok.",
 		"Graveyard1": "Burası bir aile kurmak için mükemmel bir yer. Arkadaşlarımın çoğu burada doğdu!",
-        "Graveyard2": "Bu yer bana iyi geliyor, nedenini bilmiyorum... Neden olduğundan emin değilim...",
+		"Graveyard2": "Bu yer bana iyi geliyor, nedenini bilmiyorum... Neden olduğundan emin değilim...",
 		"Windy1": "Bizim türümüz çok kırılgan, bu havadar günde kardeşlerim için endişeleniyorum.",
 		"Windy2": "Rüzgar dostum değil, karanlık, sakin yerleri severim.",
 		"Storm1": "Hava durumu, türün için zararlı görünüyor, insan.",
@@ -1596,7 +1607,7 @@
 	"SteampunkerSpecialText": {
 		"Party": "Herkes yığılmış kekleri sevdiğini söyledi, ben de benimkine bacalar yerleştirdim.",
 		"Graveyard1": "Allah Allah! Hangi kültürsüz domuz buraya yerleşmeye karar verdi?",
-        "Graveyard2": "Bu berbat yerde ne kan ne de buhar pompalanır.",
+		"Graveyard2": "Bu berbat yerde ne kan ne de buhar pompalanır.",
 		"Windy1": "Ah... esintinin tadını çıkarmak için bir yudum çay.",
 		"Windy2": "Oh, bu rüzgarlı olay, yeni bir jetpack motoru için bana ilham verdi!",
 		"Storm1": "Elektrik mi? Gülünç olma! Hiçbir şey buharın gücünü yenemez!",
@@ -1613,7 +1624,7 @@
 		"NoPlant_2": "Bu boya şişelerini mi istiyorsun? Üzgünüm sevgili arkadaşım, bunlar para ile satılmıyor. Bunun karşılığında sadece en değerli ve ender bitki örtüsünü alıyorum!",
 		"Party": "Partileri, çok güzel renkleri ve mutlu insanları gerçekten seviyorum.",
 		"Graveyard1": "Amanın... bu iyi değil. Çevredeki çürüklük, boya yapraklarımı köreltiyor.",
-        "Graveyard2": "Sence burası benim varlığıma layık bir yer mi? Çok gri, çok sıkıcı, bu insanlar tam anlamıyla benim seviyemin altında.",
+		"Graveyard2": "Sence burası benim varlığıma layık bir yer mi? Çok gri, çok sıkıcı, bu insanlar tam anlamıyla benim seviyemin altında.",
 		"Windy1": "Harikulade! Rüzgar bana her renkten taç yaprakları getiriyor!",
 		"Windy2": "Bana bir dakika ver canım. Paletimi sert fırtınalardan korumalıyım!",
 		"Storm1": "Aman Tanrım! Bu rahatsız edici fırtınalardan nefret ediyorum!",
@@ -1626,9 +1637,9 @@
 		"Party_1": "Hım... Bugün özel bir şey yok... şaka ediyorum! Şimdi parti zamanı ve ondan sonra da parti sonrası parti zamanı!",
 		"Party_2": "Sonunda vaktim geldi!",
 		"Graveyard1": "Evet! Parti zamanı! Ah, neden kimse hareket etmiyor?",
-        "Graveyard2": "O kadar gürültülü parti yapalım ki, kelimenin tam anlamıyla ölüleri uyandıralım! He he!",
+		"Graveyard2": "O kadar gürültülü parti yapalım ki, kelimenin tam anlamıyla ölüleri uyandıralım! He he!",
 		"Windy1": "Biri kasırga partisi mi dedi? Pilleri getireyim!",
-		"Windy2": "Bu, her yere konfeti fırlatmak için harika bir zaman gibi!",
+		"Windy2": "Bu, her yere saçı fırlatmak için harika bir zaman gibi!",
 		"Storm1": "Diskoda ani bir gök gürültüsü oldu ve panikledim!",
 		"Storm2": "Hadi dans edelim! Kalçalarımızı gökyüzünün ritmine göre sallayabiliriz!",
 		"Rain1": "Dışarıda yağmur yağıyor! İçeri gel ve parti yap!",
@@ -1643,7 +1654,7 @@
 	"CyborgSpecialText": {
 		"Party": "Bu parti çılgın olacak, hatta belki cıvata!",
 		"Graveyard1": "Büyüleyici. Burası bozuk ve arızalı insanlar için bir depolama birimi gibi görünüyor.",
-        "Graveyard2": "Alıcılarım artan enerji parçacığı yoğunluğu gösteriyor. Görsel alıcılarımsa bunların hiçbirini tanımlayamıyor.",
+		"Graveyard2": "Alıcılarım artan enerji parçacığı yoğunluğu gösteriyor. Görsel alıcılarımsa bunların hiçbirini tanımlayamıyor.",
 		"Windy1": "Alıcılar, barometrik basınçta güçlü değişimler gösteriyor. Dikkatli olunması önerilir.",
 		"Windy2": "Yüksek ve düşük basınç arasında güçlü bir karşıtlık algılandı.",
 		"Storm1": "BİP! Şiddetli hava uyarısı. Bu bir deney değil. Derhal bir yere sığın. BİP!",
@@ -1654,7 +1665,7 @@
 	"PainterSpecialText": {
 		"Party": "Paintball savaşı yapmayı denedim ama herkes bunun yerine yemek ve dekorasyon istedi.",
 		"Graveyard1": "Kemikleri değil, duvarları ve mobilyaları boyarım! Ölüler Günü'nde değiliz!",
-        "Graveyard2": "Ne kadar kasvetli bir yer... bir renk sıçraması gerçekten işe yarayabilirdi, değil mi?",
+		"Graveyard2": "Ne kadar kasvetli bir yer... bir renk sıçraması gerçekten işe yarayabilirdi, değil mi?",
 		"Windy1": "Bu hava akımının geldiğini hissediyor musun? Her yere boya dumanı saçıyor.",
 		"Windy2": "Bu rüzgar fırtınası tüm taze boyayı duvardan fırlattı!",
 		"Storm1": "Gök görlediğinde ve şimşek çaktığında... mobilyaların üzerindeki renkler gerçekten ortaya çıkar.",
@@ -1666,7 +1677,7 @@
 		"AfterDD2Tier1": "Etherialı Kara Büyücüler'de tanıdık bir ruh hissediyorum. Ne yazık ki bizim düşmanlarımız, onlardan bir şeyler öğrenmek isterdim.",
 		"Party": "Senin türünün nasıl kutladığını görmek istedim, hayal kırıklığına uğramadım.",
 		"Graveyard1": "Kalk zombi! Zombi, ayağa kalk!",
-        "Graveyard2": "Orak makinesini mezarlıktan çıkarabilirsin ama mezarlığı orak makinesinden çıkaramazsın...",
+		"Graveyard2": "Orak makinesini mezarlıktan çıkarabilirsin ama mezarlığı orak makinesinden çıkaramazsın...",
 		"Rain1": "Yağmurun sesi ruhu yatıştırır.",
 		"Rain2": "Denge anahtardır. Güneşe de ihtiyacımız var, yağmura da. Her ikisinin de fazlası, mahvolmaya neden olur.",
 		"Windy1": "Tılsımlarını yakında tut... eğer biraz dolaşırsan, biraz kaybedersin.",
@@ -1677,7 +1688,7 @@
 	"PirateSpecialText": {
 		"Party": "O kadar pastadan sonra bana bir süre Beyaz Sakal demen gerekebilir.",
 		"Graveyard1": "Bunu söylemekten nefret ediyorum, ama arkadaşlarımın çoğu bu deliklerde yatıyor... Eğer demek istediğimi anladıysan!",
-        "Graveyard2": "Deniz bir korsan mezarlığıdır! Siz kara avcıları zamanınızı boşa harcıyorsunuz!",
+		"Graveyard2": "Deniz bir korsan mezarlığıdır! Siz kara avcıları zamanınızı boşa harcıyorsunuz!",
 		"Windy1": "Yelkenleri kaldırın, lanetler! Biz korsanlar bir yarış ayağına başlıyoruz!",
 		"Windy2": "Herkes iş başına! Bir rüzgar fırtınası yaklaşıyor!",
 		"Storm1": "Ahoy! Çarpışmaya hazır olun, efeler! Tüm fırtınaların anası bu gelen!",
@@ -1688,7 +1699,7 @@
 	"StylistSpecialText": {
 		"Party": "Saçımı sadece bugün için yaptırmış olabilirim, ama dürüst olmak gerekirse, sadece makasımla balon patlatmak istiyorum.",
 		"Graveyard1": "Öğğ! Bu ölümcül atmosfer permamı mahvediyor!",
-        "Graveyard2": "Oraya gidip peruk için saç tokası toplamak istiyorum gibi de, ama oraya gitmek de istemiyorum gibi!",
+		"Graveyard2": "Oraya gidip peruk için saç tokası toplamak istiyorum gibi de, ama oraya gitmek de istemiyorum gibi!",
 		"Windy1": "Rüzgârlı saç ister misin? Dışarı çık, bedava.",
 		"Windy2": "Ah! Bugün izne ayrılmalıyım yoksa bu rüzgar tüm sıkı çalışmamı uçuracak!",
 		"Storm1": "Ben içeride kalıyorum! Einstein görünüşü şu an moda değil.",
@@ -1699,7 +1710,7 @@
 	"AnglerSpecialText": {
 		"Party": "Ne, çocuk olduğum için partileri sevdiğimi mi sanıyorsun? Pekala, haklısın, o yüzden partiye başlayalım.",
 		"Graveyard1": "Şu anda çok korkuyorum! Hepsi senin hatan!",
-        "Graveyard2": "Orada nasıl balık tutabilirim?! Deli misin yoksa sadece aptal mı?",
+		"Graveyard2": "Orada nasıl balık tutabilirim?! Deli misin yoksa sadece aptal mı?",
 		"Windy1": "Rüzgarlı hava genellikle balık tutmak için harika bir zamandır, ancak bu çok fazla! Neredeyse gözümü çıkarıyordum!",
 		"Windy2": "Bu bir tür kasırga mı?! Neredeyse bir yunus bana çarpacaktı!",
 		"Storm1": "Fırtınalar, balığa çıkmak için en iyi zamandır! Ayrıca en tehlikelisi! Bu yüzden benim adıma yapman için seni göndereceğim!",
@@ -1710,19 +1721,19 @@
 		"BloodMoonFishing2": "Su kanlı olduğunda balık tutmayı denemelisin! Ölmeye değer!"
 	},
 	"TaxCollectorSpecialText": {
-        "Graveyard1": "Ölüm ve vergiler, hayatta bunlardan gerisi yalan!",
-        "Graveyard2": "Buradaki insanlar ödeme yapmıyor! Ölmeleri daha iyi! Oh, belki zaten öyleler.",
+		"Graveyard1": "Ölüm ve vergiler, hayatta bunlardan gerisi yalan!",
+		"Graveyard2": "Buradaki insanlar ödeme yapmıyor! Ölmeleri daha iyi! Oh, belki zaten öyleler.",
 		"Windy1": "Sırf evininin yıkılması, vergi ödemeyi bırakacağın anlamına gelmez!",
 		"Windy2": "Pıf! Bu rüzgar devam ederse, insanlar değerli eşyalarını kaybedecek ve bana para ödemeyi bırakacak!",
 		"Storm1": "Muhteşem bir fırtına! Olağanüstü bir fırtına!",
 		"Storm2": "Sarhoş bir adam kadar başım dönüyor! Bu havayı seviyorum!",
 		"Rain1": "Saçmalık! Biri bana karada yürüyen bir balık gördüklerini söylemeye çalıştı. Beni ne zannediyor bunlar?!",
 		"Rain2": "Neden altın sikke yağmıyor?! Her yer su! Pıf, ne kadar işe yaramaz!"
-    },
+	},
 	"BartenderSpecialText": {
 		"FirstHelp": "Başlangıç olarak, bu Savunucu Madalyalarından birkaçını al, benim ikramım! Satın alabileceğin bazı özel savunmalarım var ancak yalnızca Savunucu Madalyaları ile alabilirsin!",
 		"FirstMeeting": "Ha? Buraya nasıl geldim? Hatırladığım son şey önümde açılan bir geçitti...",
-		"BeforeDD2Tier1": "Kadim'in Ordusu hakkında gerçekten bir şeyler yapmamız gerekiyor. Daha fazlasını öğrenmek istiyorsan bana Eternia Billuru'nu sor.",
+		"BeforeDD2Tier1": "Kadim'in Ordusu hakkında gerçekten bir şeyler yapmamız gerekiyor. Daha fazlasını öğrenmek istiyorsan bana Eternia Kristali'ni sor.",
 		"AfterDD2Tier1": "Kadim'in Ordusu ile savaşırken harika iş çıkardın! Ama eminim sonuncusunu görmedik, bu sefer pek kavga ettiler sayılmaz.",
 		"AfterDD2Tier2": "Kadim'in Ordusu güçlenmeye devam ediyor, ancak sen onları geri itmeye devam ediyorsun! Ama bir şey bana, henüz bizimle işlerinin bitmediğini söylüyor.",
 		"AfterDD2Tier3": "Gerçekten Kadim'in Ordusu'nun tüm gücünü bizden uzakta mı tuttun? Belki bir ara Etheria'yı ziyaret etmelisin.",
@@ -1736,21 +1747,21 @@
 		"Storm2": "Biraz huysuz görünüyorsun! Belki bir kupa sinirlerini yatıştırır.",
 		"Rain1": "Boğulmuş, tüylü bir köpeğe benziyorsun! Biraz bira içmeye ne dersin?",
 		"Rain2": "Buraya girmeden önce ayaklarınızı sil, zemin yeni cilalanmıştı!"
-    },
+	},
 	"GolferSpecialText": {
 		"FirstMeeting1": "Kurtardığın için teşekkürler. Daha fazla burada mahsur kalsaydım, sıcak çarpması yüzünden ölebilirdim!",
 		"FirstMeeting2": "Teşekkür ederim! Bu kum çukurunda günlerdir sıkışıp kalmıştım. İyi ki bir kaktüsün içinden su çıkarabiliyorsun.",
 		"Party_1": "Çevremdeki iğrenç parti yüzünden bu vuruşa konsantre olmakta güçlük çekiyorum.",
 		"Party_2": "Tek seferde deliğe soktum! Bu, hepimizin kutlaması için iyi bir neden. Sopamı bırakma ve margarita içme zamanı.",
-        "Graveyard1": "Mezarlıklar beni korkutuyor. Vuruşlarımı ailemin ve arkadaşlarımın üzerinde çalışmayı sevmiyorum.",
-        "Graveyard2": "Mezarlıkta golf oynama. Çim çok verimli büyür ve tüm parkuru sertleştirir.",
+		"Graveyard1": "Mezarlıklar beni korkutuyor. Vuruşlarımı ailemin ve arkadaşlarımın üzerinde çalışmayı sevmiyorum.",
+		"Graveyard2": "Mezarlıkta golf oynama. Çim çok verimli büyür ve tüm parkuru sertleştirir.",
 		"Windy1": "Bu rüzgar çok zor bir saha sağlar.",
 		"Windy2": "Güçlü bir fırtına, bir golf oyununa zorluk katar, ancak şimdiki oldukça fazla.",
 		"Storm1": "Sanmıyorum, {PlayerName}.",
 		"Storm2": "Yıldırım çarpma olasılığı piyango ile aynıdır. Demir sopa sallarken dışarı çıkmak, kazanması garanti bir bilettir!",
 		"Rain1": "Yağmurda golf oynamak daha az eğlencelidir. Her şey kaygan!",
 		"Rain2": "Yağmur yağdığında su tehlikeleri çok daha büyüktür, bu da yeşile ulaşmayı çok daha zor hale getirir!"
-    },
+	},
 	"PrincessSpecialText": {
 		"Party": "Bir parti mi? Festival gibi mi? FESTİVALLERİ SEVİYORUM! Çok fazla pembe! Çok fazla parıltı! Çok neşeli!",
 		"Graveyard1": "Şey... dışarısı biraz korkutucu. Biraz çay alsam iyi olacak.",
@@ -1765,7 +1776,7 @@
 	"SantaSpecialText": {
 		"Party": "Hadi ama, sadece Noel'de kutlama yaptığımı düşünmedin, değil mi?",
 		"Graveyard1": "Ho ho ho! Bekle, şu mekana bak... iki ay erken mi geldim?!",
-        "Graveyard2": "Yaramaz mı, Uslu mu? Hım, ne kadar sıradışı... buradaki insanların hepsi bir süredir listemden çıkmış durumda.",
+		"Graveyard2": "Yaramaz mı, Uslu mu? Hım, ne kadar sıradışı... buradaki insanların hepsi bir süredir listemden çıkmış durumda.",
 		"Windy1": "Ho ho! Ren geyiklerim bu gece ışık hızlarında uçacak!",
 		"Storm1": "Oh ho... oha be! Dasher gitti. Donner da gitti!",
 		"Rain1": "Bir meşalen var mı? Öyleyse, bu gece kızağıma rehberlik etmez misin acaba?!"
@@ -1773,7 +1784,7 @@
 	"TravellingMerchantSpecialText": {
 		"Party": "Birçoğu, partilerin sana en zengin anıları verdiğini söyler. Öyleyse bir şeyler satın al ve bu anıyı zenginleştir!",
 		"Graveyard1": "Vay canına! Mallarıma bir bak! Onları kesinlikle sana satmak için burada gömülü ölülerden çıkarmadım.",
-        "Graveyard2": "Seyahatlerimde böyle kasvetli bir yerde yaşayan birine hiç rastlamadım! Eh, paran olduğu sürece...",
+		"Graveyard2": "Seyahatlerimde böyle kasvetli bir yerde yaşayan birine hiç rastlamadım! Eh, paran olduğu sürece...",
 		"Windy1": "Rüzgarın beni götürdüğü yere giderim ama bu çok saçma!",
 		"Windy2": "Sana egzotik rüzgar çorapları satardım, ama korkarım onları stoklamayı unuttum!",
 		"Storm1": "Acele et ve satın al!",
@@ -1782,11 +1793,14 @@
 		"Rain2": "Egzotik ceketim küçülürse biraz üzülürüm!"
 	},
 	"SkeletonMerchantSpecialText": {
-	    "Graveyard1": "Her ne kadar buraya ait olduğumu düşünsen de, aslında değilim.",
-        "Graveyard2": "Buraya nasıl geldim?! Bunlar benim arkadaşlarım değil!",
+		"Graveyard1": "Her ne kadar buraya ait olduğumu düşünsen de, aslında değilim.",
+		"Graveyard2": "Buraya nasıl geldim?! Bunlar benim arkadaşlarım değil!",
 		"Windy1": "Yukarıdaki dünya çalkantılı ve düzensiz. Kemiklerimin olduğu gibi bağlı kalmasını seviyorum!",
 		"Storm1": "Yüzey, yıkıcı hava koşullarıyla doludur. Nemli kemikler ten rengime zarar verir!",
 		"Rain1": "Yukarısı mı? Oldukça ıslak olduğunu duydum. Kemiklerimin sırılsıklam ve peltemsi olmasını istemiyorum..."
+	},
+	"SkeletonMerchantChatter": {
+		"1": "Tavuk kemiği mi? Neden soruyorsun, ihtiyacın mı var?"
 	},
 	"GolferQuestsChatterMaster": {
 		"1": "Ölümlüler arasında yürüyen bir Tanrısın! Muhteşem bir golfçüsün!",
@@ -1835,7 +1849,7 @@
 		"LikeNPC": "{NPCName} hoşuma gitti.",
 		"LoveNPC": "{NPCName}'i seviyorum.",
 		"DislikeNPC": "{NPCName}'den hoşlanmıyorum.",
-		"HateNPC": "{NPCName}'den nefret ediyorum.",
+		"HateNPC": "{NPCName}'den nefret ediyorum."
 	},
 	"TownNPCMood_Guide": {
 		"Content": "Kendimi oldukça iyi hissediyorum.",
@@ -1852,7 +1866,7 @@
 		"LoveNPC": "{NPCName}'in etrafında olmayı seviyorum.",
 		"DislikeNPC": "{NPCName} beni yanlış yönlendiriyor. Belki tuhaf kıyafetleridir?",
 		"HateNPC": "{NPCName}'in etrafta olmasından nefret ediyorum. Dünya, yapıldığı şekilde güzel zaten!",
-		"LikeNPC_Princess": "Etrafımda {NPCName} olması beni rahatlatıyor, sanki sonunda bir lanet kalkmış gibi.",
+		"LikeNPC_Princess": "Etrafımda {NPCName} olması beni rahatlatıyor, sanki sonunda bir lanet kalkmış gibi."
 	},
 	"TownNPCMood_Merchant": {
 		"Content": "Başarılı hissediyorum! Bir şey almak ister misin?",
@@ -1869,7 +1883,7 @@
 		"LoveNPC": "{NPCName} etrafında olmayı seviyorum.",
 		"DislikeNPC": "{NPCName}'den hoşlanmıyorum, çok tutumlu ve eşyalarımı asla satın almıyor.",
 		"HateNPC": "{NPCName}'in korkunç kişiliğinden nefret ediyorum!",
-		"LikeNPC_Princess": "{NPCName} tüm mağazamı satın alabilir! Sohbeti de hoş.",
+		"LikeNPC_Princess": "{NPCName} tüm mağazamı satın alabilir! Sohbeti de hoş."
 	},
 	"TownNPCMood_Nurse": {
 		"Content": "Yaşamsal belirtilerim normal, eğer sorduğun buysa.",
@@ -1886,7 +1900,7 @@
 		"LoveNPC": "Ne? {NPCName} mi? Sevdalı falan değilim! Değilim! Sus!",
 		"DislikeNPC": "{NPCName}'i o kadar sevmiyorum, biraz korkutuyor beni.",
 		"HateNPC": "Oh, {NPCName}'i tedavi etmeyi hiç sevmiyorum, çok zor!",
-		"LikeNPC_Princess": "Sıradan bir denetim sırasında yanlışlıkla {NPCName}'in omzunu yerinden çıkardım ve o bendden özür diledi!",
+		"LikeNPC_Princess": "Sıradan bir denetim sırasında yanlışlıkla {NPCName}'in omzunu yerinden çıkardım ve o benden özür diledi!"
 	},
 	"TownNPCMood_Painter": {
 		"Content": "Evet, havam iyi olabilir. Sana ne?",
@@ -1903,7 +1917,7 @@
 		"LoveNPC": "{NPCName}'i gerçekten boyamak isterim... tabii ki canlı renkler sebebiyle!",
 		"DislikeNPC": "{NPCName} benim zevklerime göre çok hafif, sıkıcı tiplerle ilişkilendirilmekten hoşlanmıyorum.",
 		"HateNPC": "{NPCName} etrafında olmaktan nefret ediyorum.",
-		"LikeNPC_Princess": "{NPCName} taht odasının çatısına bir duvar resmi yapmam için beni görevlendirdi!",
+		"LikeNPC_Princess": "{NPCName} taht odasının çatısına bir duvar resmi yapmam için beni görevlendirdi!"
 	},
 	"TownNPCMood_DyeTrader": {
 		"Content": "Ben mi? İyiyim, iyiyim",
@@ -1920,7 +1934,7 @@
 		"LoveNPC": "{NPCName}'in etrafında olmayı seviyorum.",
 		"DislikeNPC": "Oh canım, bu {NPCName}'in renk veya stil duygusu yok, sevmedim.",
 		"HateNPC": "{NPCName}'in bu kadar çirkef olabilmesinden gerçekten, gerçekten nefret ediyorum.",
-		"LikeNPC_Princess": "{NPCName}'in elbisesinin tonları hayatım boyunca hiç görmediğim kadar derin ve canlı!",
+		"LikeNPC_Princess": "{NPCName}'in elbisesinin tonları hayatım boyunca hiç görmediğim kadar derin ve canlı!"
 	},
 	"TownNPCMood_PartyGirl": {
 		"Content": "En iyi parti havamdayım!",
@@ -1937,7 +1951,7 @@
 		"LoveNPC": "Partilerimde {NPCName}'in her zaman göz kamaştırmasını seviyorum.",
 		"DislikeNPC": "Bence {NPCName} partilerde oyunbozanın teki.",
 		"HateNPC": "{NPCName}'in parti sonrası partilerimi her zaman kapatmaya çalışmasından nefret ediyorum. Ne huysuz ama!",
-		"LikeNPC_Princess": "Evet, {NPCName} pembe ve parlak, ışıltılı şeyleri sever, PARTİLERİ DE!",
+		"LikeNPC_Princess": "Evet, {NPCName} pembe ve parlak, ışıltılı şeyleri sever, PARTİLERİ DE!"
 	},
 	"TownNPCMood_Angler": {
 		"Content": "İyiyim, şimdi bana bir balık getir!",
@@ -1954,7 +1968,7 @@
 		"LoveNPC": "{NPCName}'in etrafında olmayı seviyorum.",
 		"DislikeNPC": "{NPCName}'den hoşlanmıyorum.",
 		"HateNPC": "{NPCName}'den ve bana çocukmuşum gibi davranan herkesten nefret ediyorum!",
-		"LikeNPC_Princess": "{NPCName} bir balık değil ama beni kızdırmıyor! Bu gerçekten süper!",
+		"LikeNPC_Princess": "{NPCName} bir balık değil ama beni kızdırmıyor! Bu gerçekten süper!"
 	},
 	"TownNPCMood_Stylist": {
 		"Content": "Bugün kendimi zinde hissediyorum.",
@@ -1971,9 +1985,9 @@
 		"LoveNPC": "{NPCName} oldukça çekici... çok egzotik... Sanırım aşığım...",
 		"DislikeNPC": "{NPCName} üzerinde çalışmayı denedim ama kabaca reddedildim, inatçı insanları sevmiyorum!",
 		"HateNPC": "{NPCName}'den nefret ediyorum, nasıl kelimenin tam anlamıyla saç uzatamazsın yahu?",
-		"LikeNPC_Princess": "{NPCName}'in saçına bile dokunamıyorum, çok mükemmel!",
+		"LikeNPC_Princess": "{NPCName}'in saçına bile dokunamıyorum, çok mükemmel!"
 	},
-"TownNPCMood_Demolitionist": {
+	"TownNPCMood_Demolitionist": {
 		"Content": "Pekala, bugün patlamak istemiyorum!",
 		"NoHome": "Yaşayacak bir yerim yok, sonuncusu patlattım mı?",
 		"FarFromHome": "Daha fazla patlamaya ihtiyacım var, sanırım evde bıraktım.",
@@ -1988,7 +2002,7 @@
 		"LoveNPC": "{NPCName}'in bir kutu ateş topu ile ne kadar iyi başa çıkabildiğini seviyorum!",
 		"DislikeNPC": "{NPCName}'i bir rokete bağlamak ve ne olacağını izlemek istiyorum!",
 		"HateNPC": "{NPCName}'in etrafında olmaktan nefret ediyorum.",
-		"LikeNPC_Princess": "Ne... {NPCName} mi? Bu yeni bir nitro markası mı? Oh, o kız, evet, iyi birisi!",
+		"LikeNPC_Princess": "Ne... {NPCName} mi? Bu yeni bir nitro markası mı? Oh, o kız, evet, iyi birisi!"
 	},
 	"TownNPCMood_Dryad": {
 		"Content": "Her şey barış durumunda, berbat etme.",
@@ -2005,7 +2019,7 @@
 		"LoveNPC": "{NPCName}'in etrafında olmayı seviyorum.",
 		"DislikeNPC": "{NPCName}'in diğer varlıklara saygısı olmaması hoşuma gitmiyor.",
 		"HateNPC": "{NPCName}'in doğaya karşı yıkıcı alışkanlıklarından nefret ediyorum!",
-		"LikeNPC_Princess": "{NPCName}, bu dünyada yaşayan herkese düzen ve barış getiriyor.",
+		"LikeNPC_Princess": "{NPCName}, bu dünyada yaşayan herkese düzen ve barış getiriyor."
 	},
 	"TownNPCMood_DD2Bartender": {
 		"Content": "Rüyayı yaşıyorum.",
@@ -2022,7 +2036,7 @@
 		"LoveNPC": "{NPCName} küçük çılgın bir içici, bayılıyorum!",
 		"DislikeNPC": "{NPCName}'den hoşlanmıyorum, Etheria'daki bazı karanlık şeylerle benzer hisler veriyorlar.",
 		"HateNPC": "{NPCName}'in eksantrik ve narsist kişiliği gerçekten bir masayı parçalamak istememe neden oluyor!",
-		"LikeNPC_Princess": "{NPCName} benim geldiğim yerde de harika bir hükümdar olurdu.",
+		"LikeNPC_Princess": "{NPCName} benim geldiğim yerde de harika bir hükümdar olurdu."
 	},
 	"TownNPCMood_ArmsDealer": {
 		"Content": "Ben iyiyim dostum!",
@@ -2039,7 +2053,7 @@
 		"LoveNPC": "Sence {NPCName} hiç beni kesiyor mudur?",
 		"DislikeNPC": "{NPCName}'in benim sahamda olmasını gerçekten sevmiyorum, anlıyor musun?",
 		"HateNPC": "Bir ara hedef menzili olarak {NPCName}'i kullanmayı gerçekten çok isterim.",
-		"LikeNPC_Princess": "Bunu asla beklemiyordum dostum, ama {NPCName} silahla nasıl başa çıkacağını biliyor!",
+		"LikeNPC_Princess": "Bunu asla beklemiyordum dostum, ama {NPCName} silahla nasıl başa çıkacağını biliyor!"
 	},
 	"TownNPCMood_GoblinTinkerer": {
 		"Content": "Duygular şu anda nominal.",
@@ -2056,7 +2070,7 @@
 		"LoveNPC": "{NPCName} kardiyak çekirdeğimin uygunsuz bir şekilde çalışmasına sebep oluyor, bunun nasıl bir his olduğunu seviyorum anlaşılan!",
 		"DislikeNPC": "Sanki karanlık sırlar içeriyormuş gibi {NPCName}'den ürkütücü hisler alıyorum. Bu duygu hoşuma gitmiyor.",
 		"HateNPC": "Sırf erkek cincüceler gerçek sakal büyütemezmiş diye {NPCName}'in beni küçük düşürmesindenn gerçekten nefret ediyorum!",
-		"LikeNPC_Princess": "{NPCName} icatlarımı seviyor ve tüm dost canlısı cincücelere sıcak davranıyor!",
+		"LikeNPC_Princess": "{NPCName} icatlarımı seviyor ve tüm dost canlısı cincücelere sıcak davranıyor!"
 	},
 	"TownNPCMood_WitchDoctor": {
 		"Content": "Memnuniyetin ta kendisiyim.",
@@ -2073,7 +2087,7 @@
 		"LoveNPC": "{NPCName}'in etrafında olmayı seviyorum.",
 		"DislikeNPC": "{NPCName}'in uygulamalarını sevmiyorum. Gerçek şifa metal ve camdan gelemez.",
 		"HateNPC": "Kirli dünyadan iğrençlikler filizlenirken varlığımı öfke dolduruyor... {NPCName}'den söz ediyorum.",
-		"LikeNPC_Princess": "Halkıma naziktir, {NPCName}. Çok minnettarım. ",
+		"LikeNPC_Princess": "Halkıma naziktir, {NPCName}. Çok minnettarım. "
 	},
 	"TownNPCMood_Clothier": {
 		"Content": "Normal nedir ki?",
@@ -2090,7 +2104,7 @@
 		"LoveNPC": "{NPCName} mi? Hayatımda bundan daha iştah açıcı bir şey görmedim.",
 		"DislikeNPC": "Bazı nedenlerden dolayı, {NPCName}'in çevresinde olmak beni tedirgin ediyor.",
 		"HateNPC": "{NPCName}'den nefret ediyorum ve nedenini bilmiyorum.",
-		"LikeNPC_Princess": "{NPCName}'in gözünden görülenden daha büyük bir sevinç yoktur!",
+		"LikeNPC_Princess": "{NPCName}'in gözünden görülenden daha büyük bir sevinç yoktur!"
 	},
 	"TownNPCMood_Mechanic": {
 		"Content": "Her şey düzgün çalışıyor — ha ben mi? Evet evet, gayet iyiyim!",
@@ -2107,7 +2121,7 @@
 		"LoveNPC": "Şey... {NPCName} kalbimi çarptırıyor, bunu kontrol ettirmem gerekiyor!",
 		"DislikeNPC": "{NPCName}'in beni yalnız bırakmamasını gerçekten sevmiyorum!",
 		"HateNPC": "{NPCName}'in bir kadına nasıl davranılacağını bilmemesinden nefret ediyorum!",
-		"LikeNPC_Princess": "{NPCName} pompalarımdan birini bağladı, çok etkilendim!",
+		"LikeNPC_Princess": "{NPCName} pompalarımdan birini bağladı, çok etkilendim!"
 	},
 	"TownNPCMood_TaxCollector": {
 		"Content": "Ne? İyi bir moddayım.",
@@ -2124,7 +2138,7 @@
 		"LoveNPC": "{NPCName}'e çok hayranım. Paranın gerçek değerini bilen herkes en büyük saygımı kazanır!",
 		"DislikeNPC": "{NPCName} çok gürültülü, onlar ve benzerleri benden uzak dursun!",
 		"HateNPC": "{NPCName}'in varlığından nefret ediyorum! Ne tür bir akıl hastası her şeyi bedavaya veriyor?",
-		"LikeNPC_Princess": "{NPCName} vergi ödememeli, o prenses sonuçta... ama ısrar etti.",
+		"LikeNPC_Princess": "{NPCName} vergi ödememeli, o prenses sonuçta... ama ısrar etti."
 	},
 	"TownNPCMood_Pirate": {
 		"Content": "Evet. Gemi gibiyim.",
@@ -2141,7 +2155,7 @@
 		"LoveNPC": "Ahoy, {NPCName}'i kanadımın altına alıyorum, tecrübesiz denizci. Deniz yavrularını büyütmeyi seviyorum!",
 		"DislikeNPC": "{NPCName}'in sakalımı kesmeye kalkmasından hoşlanmam. Daha ufak şeyler için boğaz kesmişliğim var!",
 		"HateNPC": "{NPCName}'i tahtada gezdirmek istiyorum, gemici! Şımarıklıktan ve alçak kokudan nefret ediyorum!",
-		"LikeNPC_Princess": "{NPCName} denizlerde güzel bir ödül getirirdi... şaka yapıyorum, o benim favori kızım.",
+		"LikeNPC_Princess": "{NPCName} denizlerde güzel bir ödül getirirdi... şaka yapıyorum, o benim favori kızım."
 	},
 	"TownNPCMood_Wizard": {
 		"Content": "Kendimi büyülü hissediyorum.",
@@ -2158,7 +2172,7 @@
 		"LoveNPC": "{NPCName} ile konuşacak çok şey olmasını seviyorum.",
 		"DislikeNPC": "{NPCName} rahatsız edilmemesi gereken şeylerle uğraşıyor ve bundan hoşlanmıyorum.",
 		"HateNPC": "Bu iğrenç {NPCName}, sihire karşı tam bir iğrençlik, başka bir şey değil!",
-		"LikeNPC_Princess": "{NPCName} mi? Bir prensesimiz mi var? Büyüleyici, hoş birine benziyor.",
+		"LikeNPC_Princess": "{NPCName} mi? Bir prensesimiz mi var? Büyüleyici, hoş birine benziyor."
 	},
 	"TownNPCMood_Steampunker": {
 		"Content": "Ben çok iyiyim.",
@@ -2175,7 +2189,7 @@
 		"LoveNPC": "{NPCName} 'in ne kadar benzersiz ve ilginç olduğunu gerçekten seviyorum, olağanüstü!",
 		"DislikeNPC": "{NPCName} çok başka bir dünyaya ait! Onları çok sevmiyorum.",
 		"HateNPC": "{NPCName} yakınında olmaktan nefret ediyorum.",
-		"LikeNPC_Princess": "Neşeli {NPCName} yeni ışınlayıcımı denemeye gönüllü oldu, hevesli bir yardımcıyı severim!",
+		"LikeNPC_Princess": "Neşeli {NPCName} yeni ışınlayıcımı denemeye gönüllü oldu, hevesli bir yardımcıyı severim!"
 	},
 	"TownNPCMood_Cyborg": {
 		"Content": "Tüm sinirsel işlevler sorunsuz çalışıyor gibi görünüyor.",
@@ -2192,7 +2206,7 @@
 		"LoveNPC": "{NPCName}'in etrafında olmayı seviyorum.",
 		"DislikeNPC": "{NPCName}, normdan saptığı için varlığımı anlamıyor. Olağandışı. Olumsuz duygu karşılıklı.",
 		"HateNPC": "{NPCName}'in işlevleri bilimsel olarak analiz edilemez. Nötr fonksiyonlar aşırı yüklendi. Tercüme: Bundan nefret ediyorum.",
-		"LikeNPC_Princess": "{NPCName} analiz edildi: Bugüne kadar kaydedilen en erdemli karbon yaşam biçimi.",
+		"LikeNPC_Princess": "{NPCName} analiz edildi: Bugüne kadar kaydedilen en erdemli karbon yaşam biçimi."
 	},
 	"TownNPCMood_SantaClaus": {
 		"Content": "Ben neşeliyim!",
@@ -2209,7 +2223,7 @@
 		"LoveNPC": "{NPCName}'in etrafında olmayı seviyorum.",
 		"DislikeNPC": "{NPCName} etrafında olmaktan hoşlanmıyorum.",
 		"HateNPC": "Bana inanmayan insanlardan nefret ediyorum! Örneğin, {NPCName}, tanıdığım en yaramaz şey!",
-		"LikeNPC_Princess": "Ho ho ho, {NPCName} kesinlikle uslu listesinin başında.",
+		"LikeNPC_Princess": "Ho ho ho, {NPCName} kesinlikle uslu listesinin başında."
 	},
 	"TownNPCMood_Golfer": {
 		"Content": "İyiyim!",
@@ -2226,7 +2240,7 @@
 		"LoveNPC": "Popüler olmayan görüş: Etrafta {NPCName}'in olmasını çok seviyorum. Su tehlikelerim bana döndü!",
 		"DislikeNPC": "{NPCName}'in etrafında olmaktan hoşlanmıyorum. Beni tedirgin ediyor.",
 		"HateNPC": "{NPCName}'in açgözlü tutumundan nefret ediyorum. Böyle bir dünyada oldukça gereksizdir.",
-		"LikeNPC_Princess": "{NPCName}'e birkaç güzel golf numarası öğretmeye çalıştım ama aksine o bana öğretti! Onu sevdim.",
+		"LikeNPC_Princess": "{NPCName}'e birkaç güzel golf numarası öğretmeye çalıştım ama aksine o bana öğretti! Onu sevdim."
 	},
 	"TownNPCMood_Truffle": {
 		"Content": "Düşünürsek oldukça mutluyum.",
@@ -2243,7 +2257,7 @@
 		"LoveNPC": "Benle konuşurken gizemli şekilde acıkmayan tek kişi {NPCName}, o yüzden seviyorum.",
 		"DislikeNPC": "{NPCName} beni pek çok kez yemeye çalıştı. Yemin ederim bir keresinde insan bile değildiler! Açıkçası, beğenmedim.",
 		"HateNPC": "{NPCName} beni diğer alışılmadık malzemelerle dolu bir kaba atmaya çalıştı. Bundan nefret ediyorum.",
-		"LikeNPC_Princess": "{NPCName} beni yemeye çalışmıyor, bu benim kitabımda iyi bir şey.",
+		"LikeNPC_Princess": "{NPCName} beni yemeye çalışmıyor, bu benim kitabımda iyi bir şey."
 	},
 	"TownNPCMood_BestiaryGirl": {
 		"Content": "Aslında iyi hissediyorum! Sorduğun için teşekkürler!",
@@ -2260,25 +2274,25 @@
 		"LoveNPC": "Açıklayamıyorum. {NPCName} için bir bir şeyler hissediyorum. Kuyruk yüzünden mi acaba?",
 		"DislikeNPC": "{NPCName}'in acımasızlığını sevmiyorum!",
 		"HateNPC": "{NPCName}'in hayvanlara yaptıklarından gerçekten nefret ediyorum!",
-		"LikeNPC_Princess": "{NPCName} deneklerine, tilki lanetimi kırmam için bir yol aratıyor! Evet be!",
+		"LikeNPC_Princess": "{NPCName} deneklerine, tilki lanetimi kırmam için bir yol aratıyor! Evet be!"
 	},
 	"TownNPCMood_BestiaryGirlTransformed": {
-        "Content": "Hır... İyi hissediyorum.",
-        "NoHome": "Har! Eve ihtiyacım var! ŞİMDİ!",
-        "FarFromHome": "Hır... ev! Çok uzakta! Bulamıyorum.",
-        "DislikeCrowded": "Har! Çok. Fazla. İnsan. Kızgınım!",
-        "HateCrowded": "Hır... Kalabalığa. Dayanamıyorum!",
-        "LoveSpace": "Rrrrr... boş alan. Memnunum.",
-        "LikeBiome": "{BiomeName} biyomunda... koşulcak yer! Oyna! Avlan! Evet!",
-        "LoveBiome": "Gözde mekanım... {BiomeName}. Tatlı.",
-        "DislikeBiome": "Mır... {BiomeName}. İyi kokmamak.",
-        "HateBiome": "Ah, {BiomeName}... Nefret ediyorum. Kötü manzara.",
-        "LikeNPC": "{NPCName}. Hır... İyi. Hissediyorum.",
-        "LoveNPC": "Aşk. Güçlü... {NPCName}. Eveeet!",
-        "DislikeNPC": "{NPCName}.... havası. Kötü! Gır!",
-        "HateNPC": "Arr! Hayır {NPCName}. Nefret. Öfke. İğrenme!",
-		"LikeNPC_Princess": "{NPCName}... Pembe. Güzel.",
-		},
+		"Content": "Hır... İyi hissediyorum.",
+		"NoHome": "Har! Eve ihtiyacım var! ŞİMDİ!",
+		"FarFromHome": "Hır... ev! Çok uzakta! Bulamıyorum.",
+		"DislikeCrowded": "Har! Çok. Fazla. İnsan. Kızgınım!",
+		"HateCrowded": "Hır... Kalabalığa. Dayanamıyorum!",
+		"LoveSpace": "Rrrrr... boş alan. Memnunum.",
+		"LikeBiome": "{BiomeName} biyomunda... koşulcak yer! Oyna! Avlan! Evet!",
+		"LoveBiome": "Gözde mekanım... {BiomeName}. Tatlı.",
+		"DislikeBiome": "Mır... {BiomeName}. İyi kokmamak.",
+		"HateBiome": "Ah, {BiomeName}... Nefret ediyorum. Kötü manzara.",
+		"LikeNPC": "{NPCName}. Hır... İyi. Hissediyorum.",
+		"LoveNPC": "Aşk. Güçlü... {NPCName}. Eveeet!",
+		"DislikeNPC": "{NPCName}.... havası. Kötü! Gır!",
+		"HateNPC": "Arr! Hayır {NPCName}. Nefret. Öfke. İğrenme!",
+		"LikeNPC_Princess": "{NPCName}... Pembe. Güzel."
+	},
 	"TownNPCMood_Princess": {
 		"Content": "Bütün meseleler el altında, sadık konum!",
 		"NoHome": "Görünüşe göre hiç pansiyonum yok. Mümkünse pembe bir şey alabilir miyim lütfen?",
@@ -2324,5 +2338,9 @@
 		"LoveNPC_TownDog": "{NPCName} gerçekten çok tatlı!",
 		"LoveNPC_TownBunny": "{NPCName} gerçekten çok tatlı!",
 		"LoveNPC_TownSlime": "{NPCName} gerçekten çok tatlı!"
+	},
+	"HousingText": {
+		"HousingRequirements": "(Bir odanın ev sayılabilmesi için kapı, sandalye, masa ve bir ışık kaynağı olmalıdır. Evin duvarlarının da olduğundan emin ol.)",
+		"HousingRequirements_Truffle": "({NPCName} adlı kişinin bir yeri ev olarak görmesi için oranın Parlayan Mantar Tarlaları'nda olması; kapı, sandalye, masa ve bir ışık kaynağına sahip olması gerekir. Evin duvarlarının da olduğundan emin ol.)"
 	}
 }

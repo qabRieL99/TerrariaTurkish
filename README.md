@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/DmjgF18.jpg" width="240" height="240"/>  
 
 ℹ **Bu proje, Terraria için yapılan bir Türkçe çeviri çalışmasıdır.**  
-🛠 Güncel oyun sürümü: `1.4.4.9`  
+🛠 Güncel oyun sürümü: `1.4.5.4`  
 ✅ **Steam sürümlerinde sorunsuz çalışmaktadır.**  
 
 🎨 **Kapak tasarımı:** [Hypto](https://steamcommunity.com/id/hyptonise/)  
