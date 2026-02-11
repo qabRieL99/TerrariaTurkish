@@ -9028,7 +9028,7 @@
 		"Revolver": "Well-timed shots reduce cooldown and increase critical strike chance",
 		"RemoteControlCar" : "Press Jump to drive on the walls if they are behind the car\n'Last rule of Car Club, we always talk about Car Club'",
 		"PalworldMinionCattiva": "Summons Cattiva to fight for you\nA lovely pal that also helps your mining efforts\n{InputTrigger_InteractWithTile} to pet it!",
-		"PalworldMinionFoxsparks": "Summons Foxparks to fight for you\n{InputTrigger_UseOrAttack} to use Foxsparks' Huggy Fire skill, shooting flames!\n{InputTrigger_InteractWithTile} to pet it!",
+		"PalworldMinionFoxsparks": "Summons Foxparks to fight for you\n{InputTrigger_UseOrAttack} to use Foxparks' Huggy Fire skill, shooting flames!\n{InputTrigger_InteractWithTile} to pet it!",
 		"PalworldPetChillet": "Summons Chillet for a ride!\nEmpowers your attacks while mounted.\nDouble tap a direction to use Rocket Slam!\n{InputTrigger_InteractWithTile} to pet it!",
 		"PalworldPetChilletIgnis": "Summons Chillet Ignis for a ride!\nEmpowers your attacks while mounted.\nDouble tap a direction to use Rocket Slam!\n{InputTrigger_InteractWithTile} to pet it!",
 		"PalworldDigtoise": "Summons Digtoise to help mining!\n{InputTrigger_UseOrAttack} to direct Digtoise\n{InputTrigger_InteractWithTile} away to recall Digtoise\n{InputTrigger_InteractWithTile} to pet it!",		
