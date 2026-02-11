@@ -142,6 +142,7 @@
 |Desert|Çöl|
 |Dungeon|Zindan|
 |Floating Island|Süzülen Ada|
+|Forest|Ağaçlık|
 |Hallow|Kutsallık|
 |Jungle|Orman|
 |Living Wood|Yaşayan Odun|
