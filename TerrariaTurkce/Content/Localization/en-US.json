@@ -418,7 +418,7 @@
 		"NextLoadout": "Sonraki Ekipman",
 		"ArmorSetAbility": "Zırh Seti Yeteneği"
 	},
-	"SecretSeedDescription": {	
+	"SecretSeedDescription": {
 		"paintEverythingGray": "Tüm o sinir bozucu renkler olmadan daha basit bir zamana geri dön! (Dünya griye boyanır)",
 		"paintEverythingNegative": "Boşver, tersine çevir. (Dünya negatife boyanır)",
 		"coatEverythingEcho": "Göz önünde saklanmış. (Dünya yankı kaplamalıdır)",
@@ -454,7 +454,6 @@
 		"vampirism": "Biraz SPF9000'e ihtiyacın olacak. (Oyuncu bir Vampirdir... ne pahasına olursa olsun güneşten kaçın)",
 		"teamBasedSpawns": "Bölgemizden uzak dur! (Oyuncu doğma noktaları takım renklerine özeldir)",
 		"dualDungeons": "Bir Zindan alana, bir tane bedava! (Bir zindan keşfi deneyimi)"
-
 	},
 	"CaptureBiomeChoice": {
 		"0": "Otomatik",
@@ -1095,7 +1094,7 @@
 		"BUCKETS_OF_BOLTS_Name": "Cıvata Kovaları",
 		"BUCKETS_OF_BOLTS_Description": "Üç gececi mekanik tehlikeyi yen: İkizler, Yok Edici ve Esas İskeletron.",
 		"DRAX_ATTAX_Name": "Matbalt Saldırısı",
-		"DRAX_ATTAX_Description": "Kutsallık kalıbı ve üç mekaniksel canavarın ruhlarını kullanarak bir matbalt ya da kazma baltası işle.",
+		"DRAX_ATTAX_Description": "Kutsallık külçesi ve üç mekaniksel canavarın ruhlarını kullanarak bir matbalt ya da kazma baltası işle.",
 		"PHOTOSYNTHESIS_Name": "Fotosentez",
 		"PHOTOSYNTHESIS_Description": "En kalın bitki örtüsünün derinliklerinde bulunan, organik bir cevher olan klorifiti kaz.",
 		"GET_A_LIFE_Name": "Düş Yakamdan",
