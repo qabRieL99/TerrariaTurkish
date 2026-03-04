@@ -73,6 +73,7 @@
 |Shadow Orb|Gölge Küresi|
 |Silt|İnce Kum|
 |Slush|Karlı Blok|
+|Zenith|Doruk|
 
 ### Madenler
 |Özgün|Çeviri|
@@ -116,13 +117,16 @@
 |Expert|Uzman|
 |Housing|Konaklama|
 |Lunar|Göksel|
+|Loadout|Dizilim|
 |Mana|Sihir|
 |Master|Efendi|
+|Minecart|Maden Arabası|
 |Minion|Yardakçı|
 |Monolith|Dikilitaş|
 |Mount|Binek|
 |Nebula|Bulutsu|
 |Planter Box|Ekim Kutusu|
+|Seed|Tohum|
 |Sentry|Nöbetçi|
 |Solar|Güneşsel|
 |Stardust|Yıldıztozu|
