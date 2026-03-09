@@ -2276,7 +2276,7 @@
 		"WindEast": "Doğu",
 		"ResearchButtonTooltip": "Tamamen araştırılan eşyalar serbestçe oluşturulabilir",
 		"Sort_SortingID": "ID'ye Göre",
-		"Sort_PlacableObjects": "Yerleştirilebilir Nesneler",
+		"Sort_PlaceableObjects": "Yerleştirilebilir Nesneler",
 		"Sort_Walls": "Duvarlar",
 		"Sort_Blocks": "Bloklar",
 		"Sort_Alphabetical": "Ad",
