@@ -252,6 +252,9 @@
 		"WorldCreationNumberOfWorlds": "# of Worlds:",
 		"WorldCreationNumberOfWorldsDescription": "Number of worlds to generate at once",
 		"ItemCannotBePlacedInsideItself": "Placing into itself will be blocked",
+		"ItemLoadoutShared": "Shared with other loadouts",
+		"ItemLoadoutShareHint": "{InputTriggerUI_FavoriteItem} to share across loadouts",
+		"ItemLoadoutSharedFrom": "Shared from loadout {0}",
 		"WorldDescriptionName": "Give your world a name! You can always change it later if needed!",
 		"WorldDescriptionSeed": "The DNA marker that defines your world's specific shape and traits.",
 		"WorldDescriptionSizeSmall": "Ideal for a quick, single player experience.",
@@ -306,6 +309,7 @@
 		"Loadout3": "Loadout 3",
 		"ToggleCameraMode": "Camera Mode",
 		"GamepadLoadout": "Change Loadout",
+		"LoadoutShare": "Loadout Share",
 		"IssueReporterHasThingsToShow": "See issues",
 		"AutoReuseAllOn": "Autofire: On",
 		"AutoReuseAllOff": "Autofire: Off",
@@ -417,8 +421,15 @@
 		"PreviousLoadout": "Previous Loadout",
 		"NextLoadout": "Next Loadout",
 		"ArmorSetAbility": "Armor Set Ability",
+		"PanControlMode": "Forward Zoom",
+		"PanControlMode_OnAlways": "Always On",
+		"PanControlMode_OffAlways": "Always Off",
+		"PanControlMode_Click": "Click to Toggle",
+		"PanControlMode_Hold": "Hold to Use",
+		"LookAheadGamepadInstruction": "Zoom",
+		"Digtoise": "Digtoise"
 	},
-	"SecretSeedDescription": {	
+	"SecretSeedDescription": {
 		"paintEverythingGray": "Journey back to a more simple time, without all of those pesky colors! (World is painted gray)",
 		"paintEverythingNegative": "Scratch that, reverse it. (World is painted negative)",
 		"coatEverythingEcho": "Hidden in plain sight. (World is echo coated)",
@@ -454,6 +465,8 @@
 		"vampirism": "You are going to need some SPF9000. (Player is a Vampire - avoid the sun at all costs)",
 		"teamBasedSpawns": "Stay off of our turf! (Player spawns are specific to team colors)",
 		"dualDungeons": "Buy one Dungeon, get one free! (A dungeon crawling experience)",
+		"moreLightning": "Zeus is displeased (More lightning strikes)",
+		"noLightning": "Zeus is appeased (Disables lightning strikes)"
 	},
 	"CaptureBiomeChoice": {
 		"0": "Automatic",
@@ -569,13 +582,8 @@
 		"OtherResourcePacksDescription": "Resource packs that serve another purpose, how otherworldly!"
 	},
 	"Net": {
-		"ClientStatusComplete": "({0}) {1} {2}: Complete!",
 		"ClientConnecting": "{0} is connecting...",
-		"ClientSendingData": "({0}) {1} is sending player data...",
-		"ClientRequestedWorldInfo": "({0}) {1} requested world information",
-		"ClientPlaying": "({0}) {1} is playing",
-		"WaitingForClients": "Waiting for clients...",
-		"ClientsConnected": "{0} clients connected",
+		"ClientLostConnection": "{0} lost connection...",
 		"CheatingProjectileSpam": "Cheating attempt detected: Projectile spam",
 		"CheatingTileSpam": "Cheating attempt detected: Add tile spam",
 		"CheatingTileRemovalSpam": "Cheating attempt detected: Remove tile spam",
@@ -584,7 +592,6 @@
 		"ServerAutoShutdown": "Local player left. Autoshutdown starting.",
 		"ServerSavingOnExit": "Saving before exit...",
 		"ConnectingTo": "Connecting to {0}",
-		"IsReceivingTileData": "is receiving tile data",
 		"LostConnection": "Lost connection",
 		"FoundServer": "Found server",
 		"SendingPlayerData": "Sending player data...",
@@ -600,7 +607,8 @@
 		"CannotTeleportToPylonBecauseNotEnoughNPCsAtCurrentPylon": "There are not enough villagers living near the current pylon",
 		"CannotTeleportToPylonBecauseThereIsDanger": "Defeat the current threat before you can use the pylon network!",
 		"CannotTeleportToPylonBecauseNotMeetingBiomeRequirements": "This pylon is not in the correct biome to use",
-		"CannotTeleportToPylonBecauseAccessingLihzahrdTempleEarly": "Ancient forces prevent you from accessing this location..."
+		"CannotTeleportToPylonBecauseAccessingLihzahrdTempleEarly": "Ancient forces prevent you from accessing this location...",
+		"SteamHostOnlyAllowsFriends": "Only the host's steam friends may enter this server"
 	},
 	"GameUI": {
 		"Storm": "Storm",
@@ -820,7 +828,8 @@
 		"BallBounceResultGolf_Single": "{0} sunk the {1} in a hole in one!",
 		"BallBounceResultGolf_Plural": "{0} sunk the {1} in {2} strokes!",
 		"DarknessDanger": "It is very dark...you feel in danger...",
-		"DarknessSafe": "The danger of the dark has passed."
+		"DarknessSafe": "The danger of the dark has passed.",
+		"RespawnSkip": "{InputTrigger_Jump} to skip",
 	},
 	"Enemies": {
 		"TheTwins": "The Twins",
@@ -920,6 +929,7 @@
 		"Suffocated_1": "{0} couldn't breathe.",
 		"Suffocated_2": "{0} was buried alive.",
 		"Poisoned": "{0} couldn't find the antidote.",
+		"Spored": "{0} succumbed to the spores.",
 		"Burned_1": "{0} couldn't put the fire out.",
 		"Burned_2": "{0} was reduced to charcoal.",
 		"Burned_3": "{0} was burnt to a crisp.",
@@ -1030,7 +1040,8 @@
 		"Gold": "Gold",
 		"Silver": "Silver",
 		"Copper": "Copper",
-		"DefenderMedals": "Defender Medals"
+		"DefenderMedals": "Defender Medals",
+		"DefenderMedals_PriceText": "defender medals"
 	},
 	"Achievements": {
 		"ChallengerCategory": "Challenger",
@@ -3728,7 +3739,9 @@
 		"74": "Grey “GreyL1me” Kalinkin",
 		"75": "Alex “Artyrian” Ramos",
 		"76": "CheesyPaninie",
-		"77": "Yrimir"
+		"77": "SorbetCafe",
+		"78": "Shyguymask",
+		"79": "Yrimir",
 	},
 	"CreditsRollCategory_Localization": {
 		"1": "Localization",
