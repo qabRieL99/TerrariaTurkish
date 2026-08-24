@@ -2205,7 +2205,7 @@
 		"LikeNPC": "{NPCName} bana başka bir insan gibi olumlu davranmaya çalışıyor. Görünüşe göre bunu takdir ediyorum.",
 		"LoveNPC": "{NPCName}'in etrafında olmayı seviyorum.",
 		"DislikeNPC": "{NPCName}, normdan saptığı için varlığımı anlamıyor. Olağandışı. Olumsuz duygu karşılıklı.",
-		"HateNPC": "{NPCName}'in işlevleri bilimsel olarak analiz edilemez. Nötr fonksiyonlar aşırı yüklendi. Tercüme: Bundan nefret ediyorum.",
+		"HateNPC": "{NPCName}'in işlevleri bilimsel olarak analiz edilemez. Nöral işlevler aşırı yüklendi. Tercüme: Bundan nefret ediyorum.",
 		"LikeNPC_Princess": "{NPCName} analiz edildi: Bugüne kadar kaydedilen en erdemli karbon yaşam biçimi."
 	},
 	"TownNPCMood_SantaClaus": {

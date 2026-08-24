@@ -252,6 +252,9 @@
 		"WorldCreationNumberOfWorlds": "Dünya Sayısı:",
 		"WorldCreationNumberOfWorldsDescription": "Tek seferde oluşturulacak dünya sayısı",
 		"ItemCannotBePlacedInsideItself": "Kendisine yerleştirmek engellenecek",
+		"ItemLoadoutShared": "Diğer dizilimle paylaşılıyor",
+		"ItemLoadoutShareHint": "Dizilimler arasında paylaşmak için {InputTriggerUI_FavoriteItem} bas",
+		"ItemLoadoutSharedFrom": "{0} diziliminden paylaşılıyor",
 		"WorldDescriptionName": "Dünyana bir isim ver! İstersen sonra değiştirebilirsin!",
 		"WorldDescriptionSeed": "Dünyanın benzersiz şeklini ve özelliklerini belirleyen DNA belirteci.",
 		"WorldDescriptionSizeSmall": "Hızlı, tek oyunculu bir deneyim için idealdir.",
@@ -306,6 +309,7 @@
 		"Loadout3": "Dizilim 3",
 		"ToggleCameraMode": "Kamera Modu",
 		"GamepadLoadout": "Dizilim Değiştir",
+		"LoadoutShare": "Dizilim Paylaş",
 		"IssueReporterHasThingsToShow": "Sorunları gör",
 		"AutoReuseAllOn": "Otomatik Saldırı: Açık",
 		"AutoReuseAllOff": "Otomatik Saldırı: Kapalı",
@@ -416,7 +420,14 @@
 		"ToggleClassicGrid": "İşleme Penceresi Stili",
 		"PreviousLoadout": "Önceki Dizilim",
 		"NextLoadout": "Sonraki Dizilim",
-		"ArmorSetAbility": "Zırh Seti Yeteneği"
+		"ArmorSetAbility": "Zırh Seti Yeteneği",
+		"PanControlMode": "İleri Yakınlaştırma",
+		"PanControlMode_OnAlways": "Her Zaman Açık",
+		"PanControlMode_OffAlways": "Her Zaman Kapalı",
+		"PanControlMode_Click": "Açıp Kapatmak için Tıkla",
+		"PanControlMode_Hold": "Kullanmak için Basılı Tut",
+		"LookAheadGamepadInstruction": "Yakınlaştır",
+		"Digtoise": "Digtoise"
 	},
 	"SecretSeedDescription": {
 		"paintEverythingGray": "Tüm o sinir bozucu renkler olmadan daha basit bir zamana geri dön! (Dünya griye boyanır)",
@@ -453,7 +464,9 @@
 		"endlessChristmas": "Bakalım ağacın altında ne var... (Noel etkinliği her zaman etkindir)",
 		"vampirism": "Biraz SPF9000'e ihtiyacın olacak. (Oyuncu bir Vampirdir... güneşten ne pahasına olursa olsun kaçın)",
 		"teamBasedSpawns": "Bölgemizden uzak dur! (Oyuncu doğma noktaları takım renklerine özeldir)",
-		"dualDungeons": "Bir Zindan alana, bir tane bedava! (Zindan keşfi deneyimi)"
+		"dualDungeons": "Bir Zindan alana, bir tane bedava! (Zindan keşfi deneyimi)",
+		"moreLightning": "Zeus memnun değil (Daha fazla yıldırım)",
+		"noLightning": "Zeus memnun (Yıldırımları devre dışı bırakır)"
 	},
 	"CaptureBiomeChoice": {
 		"0": "Otomatik",
@@ -569,13 +582,8 @@
 		"OtherResourcePacksDescription": "Başka bir amaca hizmet eden kaynak paketleri, ne kadar da diğer dünyevi!"
 	},
 	"Net": {
-		"ClientStatusComplete": "({0}) {1} {2}: Tamamlandı!",
 		"ClientConnecting": "{0} bağlanıyor...",
-		"ClientSendingData": "({0}) {1} oyuncu verilerini gönderiyor...",
-		"ClientRequestedWorldInfo": "({0}) {1} dünya bilgisini talep etti",
-		"ClientPlaying": "({0}) {1} oynuyor",
-		"WaitingForClients": "İstemci bekleniyor...",
-		"ClientsConnected": "{0} istemci bağlandı",
+		"ClientLostConnection": "{0} bağlantı kaybetti...",
 		"CheatingProjectileSpam": "Hile girişimi algılandı: Projectile spam",
 		"CheatingTileSpam": "Hile girişimi algılandı: Add tile spam",
 		"CheatingTileRemovalSpam": "Hile girişimi algılandı: Remove tile spam",
@@ -584,7 +592,6 @@
 		"ServerAutoShutdown": "Yerel oyuncu ayrıldı. Otomatik kapatma başlıyor.",
 		"ServerSavingOnExit": "Çıkmadan önce kaydediliyor...",
 		"ConnectingTo": "{0} bağlanılıyor",
-		"IsReceivingTileData": "döşeme bilgisi alıyor",
 		"LostConnection": "Bağlantı kaybedildi",
 		"FoundServer": "Sunucu bulundu",
 		"SendingPlayerData": "Oyuncu verilerini gönderiliyor...",
@@ -600,7 +607,8 @@
 		"CannotTeleportToPylonBecauseNotEnoughNPCsAtCurrentPylon": "Mevcut direğin yakınında yeteri kadar köylü yok",
 		"CannotTeleportToPylonBecauseThereIsDanger": "Direk ağını kullanmadan önce mevcut tehdidi alt et!",
 		"CannotTeleportToPylonBecauseNotMeetingBiomeRequirements": "Bu direk kullanmak için doğru biyomda değil",
-		"CannotTeleportToPylonBecauseAccessingLihzahrdTempleEarly": "Kadim güçler bu konuma erişmeni engelliyor..."
+		"CannotTeleportToPylonBecauseAccessingLihzahrdTempleEarly": "Kadim güçler bu konuma erişmeni engelliyor...",
+		"SteamHostOnlyAllowsFriends": "Yalnızca sunucuyu barındıran kişinin Steam arkadaşları bu sunucuya girebilir"
 	},
 	"GameUI": {
 		"Storm": "Fırtına",
@@ -820,7 +828,8 @@
 		"BallBounceResultGolf_Single": "{0}, {1} 'nu deliğe soktu!",
 		"BallBounceResultGolf_Plural": "{0}, {1} 'nu {2} vuruşta deliğe soktu!",
 		"DarknessDanger": "Çok karanlık... tehlikede hissediyorsun...",
-		"DarknessSafe": "Karanlığın tehlikesi geçti."
+		"DarknessSafe": "Karanlığın tehlikesi geçti.",
+		"RespawnSkip": "Atlamak için {InputTrigger_Jump} bas"
 	},
 	"Enemies": {
 		"TheTwins": "İkizler",
@@ -920,6 +929,7 @@
 		"Suffocated_1": "{0} nefes alamadı.",
 		"Suffocated_2": "{0} canlı canlı gömüldü.",
 		"Poisoned": "{0} panzehiri bulamadı.",
+		"Spored": "{0} sporlara yenik düştü.",
 		"Burned_1": "{0} ateşi söndüremedi.",
 		"Burned_2": "{0} odun kömürüne döndü.",
 		"Burned_3": "{0} çıtır çıtır yandı.",
@@ -1030,7 +1040,8 @@
 		"Gold": "Altın",
 		"Silver": "Gümüş",
 		"Copper": "Bakır",
-		"DefenderMedals": "Savunucu Madalyonları"
+		"DefenderMedals": "Savunucu Madalyonları",
+		"DefenderMedals_PriceText": "savunucu madalyonları"
 	},
 	"Achievements": {
 		"ChallengerCategory": "Mücadeleci",
@@ -3737,7 +3748,9 @@
 		"74": "Grey “GreyL1me” Kalinkin",
 		"75": "Alex “Artyrian” Ramos",
 		"76": "CheesyPaninie",
-		"77": "Yrimir"
+		"77": "SorbetCafe",
+		"78": "Shyguymask",
+		"79": "Yrimir"
 	},
 	"CreditsRollCategory_Localization": {
 		"1": "Yerelleştirme",
