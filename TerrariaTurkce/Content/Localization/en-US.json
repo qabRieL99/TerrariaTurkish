@@ -749,7 +749,7 @@
 		"ScreenShake": "Ekran Sarsıntısı: {0}",
 		"CraftingWindowClassic": "Klasik İşleme Penceresi",
 		"CraftingWindowClassicTip": "Klasik İşleme Penceresi\nStili değiştirmek için {InputTrigger_InteractWithTileUI}",
-		"CraftingWindowTip": "İşleme Penceresi\nStili değiştirmek için {InputTrigger_InteractWithTileUI}"
+		"CraftingWindowTip": "İşleme Penceresi\nStili değiştirmek için {InputTrigger_InteractWithTileUI}",
 	},
 	"Controls": {
 		"LeftClick": "Sol Tık",

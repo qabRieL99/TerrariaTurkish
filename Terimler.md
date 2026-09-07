@@ -58,7 +58,7 @@
 |Drax|Matbalt|
 |Extractioner|Özütleyici|
 |Flameburst|Alevpatlağı|
-|Fossil|Taşıl|
+|Fossil|Fosil|
 |Glowstick|Parlakçubuk|
 |Haemorrhaxe|Kanayan Balta|
 |Hamaxe|Çekobalt|
@@ -90,7 +90,7 @@
 |Meteorite|Göktaşı|
 |Molten|Dökme|
 |Mythril|Mitril|
-|Obsidian|Volkan camı|
+|Obsidian|Volkancam|
 |Orichaclum|Orikalkum|
 |Palladium|Paladyum|
 |Pearlstone|Aktaş|
@@ -149,7 +149,6 @@
 |Forest|Ağaçlık|
 |Hallow|Kutsallık|
 |Jungle|Orman|
-|Living Wood|Yaşayan Odun|
 |Ocean|Okyanus|
 |Surface|Yüzey|
 |Town|Semt|
@@ -233,9 +232,10 @@ Not: Kızıllık, Kutsallık ve Yozlaşma için, eğer bir sıfat olarak kullan�
 |Özgün|Çeviri|
 |--|--|
 |Ashwood|Külahşap|
-|Boreal Wood|Kuzeyahşap|
+|Boreal Wood|Kuzey Ahşabı|
 |Dynasty Wood|Hanedan Ahşap|
 |Ebonwood|Abanoz|
+|Living Wood|Yaşayan Ahşap|
 |Palm Wood|Palmiye Ahşap|
 |Pearlwood|Akahşap|
 |Rich Mahogany|Zengin Maun|
